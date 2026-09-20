@@ -1,0 +1,325 @@
+ano,mes_num,mes_nome,segmento,faixa_motorizacao,quantidade_mes
+2022,1,Janeiro,Autos,Até 1.0,41949
+2022,1,Janeiro,Autos,De 1.0 Até 2.0,48337
+2022,1,Janeiro,Autos,Acima de 2.0,1926
+2022,1,Janeiro,Com. Leves,Até 1.0,325
+2022,1,Janeiro,Com. Leves,De 1.0 Até 2.0,15110
+2022,1,Janeiro,Com. Leves,Acima de 2.0,8954
+2022,2,Fevereiro,Autos,Até 1.0,51514
+2022,2,Fevereiro,Autos,De 1.0 Até 2.0,44056
+2022,2,Fevereiro,Autos,Acima de 2.0,2020
+2022,2,Fevereiro,Com. Leves,Até 1.0,346
+2022,2,Fevereiro,Com. Leves,De 1.0 Até 2.0,13623
+2022,2,Fevereiro,Com. Leves,Acima de 2.0,8633
+2022,3,Março,Autos,Até 1.0,54411
+2022,3,Março,Autos,De 1.0 Até 2.0,51604
+2022,3,Março,Autos,Acima de 2.0,2229
+2022,3,Março,Com. Leves,Até 1.0,508
+2022,3,Março,Com. Leves,De 1.0 Até 2.0,15067
+2022,3,Março,Com. Leves,Acima de 2.0,11085
+2022,4,Abril,Autos,Até 1.0,55518
+2022,4,Abril,Autos,De 1.0 Até 2.0,51800
+2022,4,Abril,Autos,Acima de 2.0,2366
+2022,4,Abril,Com. Leves,Até 1.0,498
+2022,4,Abril,Com. Leves,De 1.0 Até 2.0,15181
+2022,4,Abril,Com. Leves,Acima de 2.0,10978
+2022,5,Maio,Autos,Até 1.0,72423
+2022,5,Maio,Autos,De 1.0 Até 2.0,64429
+2022,5,Maio,Autos,Acima de 2.0,2620
+2022,5,Maio,Com. Leves,Até 1.0,521
+2022,5,Maio,Com. Leves,De 1.0 Até 2.0,22000
+2022,5,Maio,Com. Leves,Acima de 2.0,12821
+2022,6,Junho,Autos,Até 1.0,65878
+2022,6,Junho,Autos,De 1.0 Até 2.0,65390
+2022,6,Junho,Autos,Acima de 2.0,2319
+2022,6,Junho,Com. Leves,Até 1.0,922
+2022,6,Junho,Com. Leves,De 1.0 Até 2.0,18683
+2022,6,Junho,Com. Leves,Acima de 2.0,12278
+2022,7,Julho,Autos,Até 1.0,75893
+2022,7,Julho,Autos,De 1.0 Até 2.0,57350
+2022,7,Julho,Autos,Acima de 2.0,2279
+2022,7,Julho,Com. Leves,Até 1.0,418
+2022,7,Julho,Com. Leves,De 1.0 Até 2.0,20919
+2022,7,Julho,Com. Leves,Acima de 2.0,12234
+2022,8,Agosto,Autos,Até 1.0,92916
+2022,8,Agosto,Autos,De 1.0 Até 2.0,59729
+2022,8,Agosto,Autos,Acima de 2.0,2450
+2022,8,Agosto,Com. Leves,Até 1.0,577
+2022,8,Agosto,Com. Leves,De 1.0 Até 2.0,26216
+2022,8,Agosto,Com. Leves,Acima de 2.0,12254
+2022,9,Setembro,Autos,Até 1.0,80987
+2022,9,Setembro,Autos,De 1.0 Até 2.0,59882
+2022,9,Setembro,Autos,Acima de 2.0,2341
+2022,9,Setembro,Com. Leves,Até 1.0,318
+2022,9,Setembro,Com. Leves,De 1.0 Até 2.0,23876
+2022,9,Setembro,Com. Leves,Acima de 2.0,13020
+2022,10,Outubro,Autos,Até 1.0,80678
+2022,10,Outubro,Autos,De 1.0 Até 2.0,54302
+2022,10,Outubro,Autos,Acima de 2.0,2023
+2022,10,Outubro,Com. Leves,Até 1.0,238
+2022,10,Outubro,Com. Leves,De 1.0 Até 2.0,19996
+2022,10,Outubro,Com. Leves,Acima de 2.0,11237
+2022,11,Novembro,Autos,Até 1.0,96027
+2022,11,Novembro,Autos,De 1.0 Até 2.0,59966
+2022,11,Novembro,Autos,Acima de 2.0,2773
+2022,11,Novembro,Com. Leves,Até 1.0,311
+2022,11,Novembro,Com. Leves,De 1.0 Até 2.0,20342
+2022,11,Novembro,Com. Leves,Acima de 2.0,12525
+2022,12,Dezembro,Autos,Até 1.0,94115
+2022,12,Dezembro,Autos,De 1.0 Até 2.0,67096
+2022,12,Dezembro,Autos,Acima de 2.0,2958
+2022,12,Dezembro,Com. Leves,Até 1.0,239
+2022,12,Dezembro,Com. Leves,De 1.0 Até 2.0,21276
+2022,12,Dezembro,Com. Leves,Acima de 2.0,16492
+2023,1,Janeiro,Autos,Até 1.0,59422
+2023,1,Janeiro,Autos,De 1.0 Até 2.0,42633
+2023,1,Janeiro,Autos,Acima de 2.0,1817
+2023,1,Janeiro,Com. Leves,Até 1.0,264
+2023,1,Janeiro,Com. Leves,De 1.0 Até 2.0,16221
+2023,1,Janeiro,Com. Leves,Acima de 2.0,10103
+2023,2,Fevereiro,Autos,Até 1.0,50578
+2023,2,Fevereiro,Autos,De 1.0 Até 2.0,43471
+2023,2,Fevereiro,Autos,Acima de 2.0,1760
+2023,2,Fevereiro,Com. Leves,Até 1.0,323
+2023,2,Fevereiro,Com. Leves,De 1.0 Até 2.0,15096
+2023,2,Fevereiro,Com. Leves,Acima de 2.0,8527
+2023,3,Março,Autos,Até 1.0,78731
+2023,3,Março,Autos,De 1.0 Até 2.0,64461
+2023,3,Março,Autos,Acima de 2.0,2982
+2023,3,Março,Com. Leves,Até 1.0,346
+2023,3,Março,Com. Leves,De 1.0 Até 2.0,26389
+2023,3,Março,Com. Leves,Acima de 2.0,13674
+2023,4,Abril,Autos,Até 1.0,64788
+2023,4,Abril,Autos,De 1.0 Até 2.0,51027
+2023,4,Abril,Autos,Acima de 2.0,2312
+2023,4,Abril,Com. Leves,Até 1.0,318
+2023,4,Abril,Com. Leves,De 1.0 Até 2.0,21770
+2023,4,Abril,Com. Leves,Acima de 2.0,11506
+2023,5,Maio,Autos,Até 1.0,62681
+2023,5,Maio,Autos,De 1.0 Até 2.0,62136
+2023,5,Maio,Autos,Acima de 2.0,2665
+2023,5,Maio,Com. Leves,Até 1.0,402
+2023,5,Maio,Com. Leves,De 1.0 Até 2.0,25529
+2023,5,Maio,Com. Leves,Acima de 2.0,12948
+2023,6,Junho,Autos,Até 1.0,80256
+2023,6,Junho,Autos,De 1.0 Até 2.0,59258
+2023,6,Junho,Autos,Acima de 2.0,2503
+2023,6,Junho,Com. Leves,Até 1.0,416
+2023,6,Junho,Com. Leves,De 1.0 Até 2.0,25066
+2023,6,Junho,Com. Leves,Acima de 2.0,12192
+2023,7,Julho,Autos,Até 1.0,108837
+2023,7,Julho,Autos,De 1.0 Até 2.0,65287
+2023,7,Julho,Autos,Acima de 2.0,2618
+2023,7,Julho,Com. Leves,Até 1.0,392
+2023,7,Julho,Com. Leves,De 1.0 Até 2.0,26619
+2023,7,Julho,Com. Leves,Acima de 2.0,11958
+2023,8,Agosto,Autos,Até 1.0,81060
+2023,8,Agosto,Autos,De 1.0 Até 2.0,69390
+2023,8,Agosto,Autos,Acima de 2.0,3028
+2023,8,Agosto,Com. Leves,Até 1.0,485
+2023,8,Agosto,Com. Leves,De 1.0 Até 2.0,29719
+2023,8,Agosto,Com. Leves,Acima de 2.0,13196
+2023,9,Setembro,Autos,Até 1.0,79760
+2023,9,Setembro,Autos,De 1.0 Até 2.0,63186
+2023,9,Setembro,Autos,Acima de 2.0,2736
+2023,9,Setembro,Com. Leves,Até 1.0,1181
+2023,9,Setembro,Com. Leves,De 1.0 Até 2.0,28613
+2023,9,Setembro,Com. Leves,Acima de 2.0,11957
+2023,10,Outubro,Autos,Até 1.0,92074
+2023,10,Outubro,Autos,De 1.0 Até 2.0,68020
+2023,10,Outubro,Autos,Acima de 2.0,3040
+2023,10,Outubro,Com. Leves,Até 1.0,2164
+2023,10,Outubro,Com. Leves,De 1.0 Até 2.0,28209
+2023,10,Outubro,Com. Leves,Acima de 2.0,13162
+2023,11,Novembro,Autos,Até 1.0,88734
+2023,11,Novembro,Autos,De 1.0 Até 2.0,69055
+2023,11,Novembro,Autos,Acima de 2.0,2904
+2023,11,Novembro,Com. Leves,Até 1.0,3110
+2023,11,Novembro,Com. Leves,De 1.0 Até 2.0,26083
+2023,11,Novembro,Com. Leves,Acima de 2.0,11763
+2023,12,Dezembro,Autos,Até 1.0,107236
+2023,12,Dezembro,Autos,De 1.0 Até 2.0,76989
+2023,12,Dezembro,Autos,Acima de 2.0,3528
+2023,12,Dezembro,Com. Leves,Até 1.0,3087
+2023,12,Dezembro,Com. Leves,De 1.0 Até 2.0,29818
+2023,12,Dezembro,Com. Leves,Acima de 2.0,15941
+2024,1,Janeiro,Autos,Até 1.0,61628
+2024,1,Janeiro,Autos,De 1.0 Até 2.0,54418
+2024,1,Janeiro,Autos,Acima de 2.0,2461
+2024,1,Janeiro,Com. Leves,Até 1.0,2153
+2024,1,Janeiro,Com. Leves,De 1.0 Até 2.0,20644
+2024,1,Janeiro,Com. Leves,Acima de 2.0,10758
+2024,2,Fevereiro,Autos,Até 1.0,65386
+2024,2,Fevereiro,Autos,De 1.0 Até 2.0,52539
+2024,2,Fevereiro,Autos,Acima de 2.0,2390
+2024,2,Fevereiro,Com. Leves,Até 1.0,2197
+2024,2,Fevereiro,Com. Leves,De 1.0 Até 2.0,21752
+2024,2,Fevereiro,Com. Leves,Acima de 2.0,11019
+2024,3,Março,Autos,Até 1.0,76103
+2024,3,Março,Autos,De 1.0 Até 2.0,59438
+2024,3,Março,Autos,Acima de 2.0,2348
+2024,3,Março,Com. Leves,Até 1.0,2255
+2024,3,Março,Com. Leves,De 1.0 Até 2.0,25239
+2024,3,Março,Com. Leves,Acima de 2.0,10599
+2024,5,Maio,Autos,Até 1.0,78031
+2024,5,Maio,Autos,De 1.0 Até 2.0,63076
+2024,5,Maio,Autos,Acima de 2.0,2920
+2024,5,Maio,Com. Leves,Até 1.0,2559
+2024,5,Maio,Com. Leves,De 1.0 Até 2.0,24652
+2024,5,Maio,Com. Leves,Acima de 2.0,11976
+2024,6,Junho,Autos,Até 1.0,90870
+2024,6,Junho,Autos,De 1.0 Até 2.0,69829
+2024,6,Junho,Autos,Acima de 2.0,3109
+2024,6,Junho,Com. Leves,Até 1.0,2078
+2024,6,Junho,Com. Leves,De 1.0 Até 2.0,23348
+2024,6,Junho,Com. Leves,Acima de 2.0,13240
+2024,7,Julho,Autos,Até 1.0,93895
+2024,7,Julho,Autos,De 1.0 Até 2.0,80683
+2024,7,Julho,Autos,Acima de 2.0,3469
+2024,7,Julho,Com. Leves,Até 1.0,2715
+2024,7,Julho,Com. Leves,De 1.0 Até 2.0,32122
+2024,7,Julho,Com. Leves,Acima de 2.0,14416
+2024,8,Agosto,Autos,Até 1.0,92942
+2024,8,Agosto,Autos,De 1.0 Até 2.0,74837
+2024,8,Agosto,Autos,Acima de 2.0,3216
+2024,8,Agosto,Com. Leves,Até 1.0,3054
+2024,8,Agosto,Com. Leves,De 1.0 Até 2.0,34678
+2024,8,Agosto,Com. Leves,Acima de 2.0,14469
+2024,9,Setembro,Autos,Até 1.0,93754
+2024,9,Setembro,Autos,De 1.0 Até 2.0,74713
+2024,9,Setembro,Autos,Acima de 2.0,3191
+2024,9,Setembro,Com. Leves,Até 1.0,2846
+2024,9,Setembro,Com. Leves,De 1.0 Até 2.0,32321
+2024,9,Setembro,Com. Leves,Acima de 2.0,15861
+2024,10,Outubro,Autos,Até 1.0,108185
+2024,10,Outubro,Autos,De 1.0 Até 2.0,83381
+2024,10,Outubro,Autos,Acima de 2.0,3635
+2024,10,Outubro,Com. Leves,Até 1.0,3662
+2024,10,Outubro,Com. Leves,De 1.0 Até 2.0,35232
+2024,10,Outubro,Com. Leves,Acima de 2.0,15801
+2024,11,Novembro,Autos,Até 1.0,115152
+2024,11,Novembro,Autos,De 1.0 Até 2.0,75013
+2024,11,Novembro,Autos,Acima de 2.0,3565
+2024,11,Novembro,Com. Leves,Até 1.0,2609
+2024,11,Novembro,Com. Leves,De 1.0 Até 2.0,30263
+2024,11,Novembro,Com. Leves,Acima de 2.0,14589
+2024,12,Dezembro,Autos,Até 1.0,106704
+2024,12,Dezembro,Autos,De 1.0 Até 2.0,79157
+2024,12,Dezembro,Autos,Acima de 2.0,4001
+2024,12,Dezembro,Com. Leves,Até 1.0,2885
+2024,12,Dezembro,Com. Leves,De 1.0 Até 2.0,33880
+2024,12,Dezembro,Com. Leves,Acima de 2.0,17064
+2025,1,Janeiro,Autos,Até 1.0,60732
+2025,1,Janeiro,Autos,De 1.0 Até 2.0,59344
+2025,1,Janeiro,Autos,Acima de 2.0,3301
+2025,1,Janeiro,Com. Leves,Até 1.0,2006
+2025,1,Janeiro,Com. Leves,De 1.0 Até 2.0,20012
+2025,1,Janeiro,Com. Leves,Acima de 2.0,14473
+2025,2,Fevereiro,Autos,Até 1.0,70988
+2025,2,Fevereiro,Autos,De 1.0 Até 2.0,60931
+2025,2,Fevereiro,Autos,Acima de 2.0,2876
+2025,2,Fevereiro,Com. Leves,Até 1.0,2391
+2025,2,Fevereiro,Com. Leves,De 1.0 Até 2.0,22292
+2025,2,Fevereiro,Com. Leves,Acima de 2.0,14359
+2025,3,Março,Autos,Até 1.0,77005
+2025,3,Março,Autos,De 1.0 Até 2.0,61576
+2025,3,Março,Autos,Acima de 2.0,2980
+2025,3,Março,Com. Leves,Até 1.0,2231
+2025,3,Março,Com. Leves,De 1.0 Até 2.0,24419
+2025,3,Março,Com. Leves,Acima de 2.0,15857
+2025,4,Abril,Autos,Até 1.0,86209
+2025,4,Abril,Autos,De 1.0 Até 2.0,63007
+2025,4,Abril,Autos,Acima de 2.0,3070
+2025,4,Abril,Com. Leves,Até 1.0,2370
+2025,4,Abril,Com. Leves,De 1.0 Até 2.0,24340
+2025,4,Abril,Com. Leves,Acima de 2.0,18080
+2025,5,Maio,Autos,Até 1.0,98191
+2025,5,Maio,Autos,De 1.0 Até 2.0,66275
+2025,5,Maio,Autos,Acima de 2.0,3097
+2025,5,Maio,Com. Leves,Até 1.0,2434
+2025,5,Maio,Com. Leves,De 1.0 Até 2.0,26677
+2025,5,Maio,Com. Leves,Acima de 2.0,17709
+2025,6,Junho,Autos,Até 1.0,94340
+2025,6,Junho,Autos,De 1.0 Até 2.0,61259
+2025,6,Junho,Autos,Acima de 2.0,3531
+2025,6,Junho,Com. Leves,Até 1.0,2374
+2025,6,Junho,Com. Leves,De 1.0 Até 2.0,24551
+2025,6,Junho,Com. Leves,Acima de 2.0,16112
+2025,7,Julho,Autos,Até 1.0,107737
+2025,7,Julho,Autos,De 1.0 Até 2.0,70131
+2025,7,Julho,Autos,Acima de 2.0,3919
+2025,7,Julho,Com. Leves,Até 1.0,3207
+2025,7,Julho,Com. Leves,De 1.0 Até 2.0,27060
+2025,7,Julho,Com. Leves,Acima de 2.0,17894
+2025,8,Agosto,Autos,Até 1.0,103145
+2025,8,Agosto,Autos,De 1.0 Até 2.0,65729
+2025,8,Agosto,Autos,Acima de 2.0,3406
+2025,8,Agosto,Com. Leves,Até 1.0,3030
+2025,8,Agosto,Com. Leves,De 1.0 Até 2.0,24510
+2025,8,Agosto,Com. Leves,Acima de 2.0,14670
+2025,9,Setembro,Autos,Até 1.0,104680
+2025,9,Setembro,Autos,De 1.0 Até 2.0,70060
+2025,9,Setembro,Autos,Acima de 2.0,3808
+2025,9,Setembro,Com. Leves,Até 1.0,3257
+2025,9,Setembro,Com. Leves,De 1.0 Até 2.0,31934
+2025,9,Setembro,Com. Leves,Acima de 2.0,17631
+2025,10,Outubro,Autos,Até 1.0,116428
+2025,10,Outubro,Autos,De 1.0 Até 2.0,72357
+2025,10,Outubro,Autos,Acima de 2.0,3967
+2025,10,Outubro,Com. Leves,Até 1.0,3580
+2025,10,Outubro,Com. Leves,De 1.0 Até 2.0,30385
+2025,10,Outubro,Com. Leves,Acima de 2.0,21160
+2025,11,Novembro,Autos,Até 1.0,112853
+2025,11,Novembro,Autos,De 1.0 Até 2.0,65548
+2025,11,Novembro,Autos,Acima de 2.0,3643
+2025,11,Novembro,Com. Leves,Até 1.0,2721
+2025,11,Novembro,Com. Leves,De 1.0 Até 2.0,25143
+2025,11,Novembro,Com. Leves,Acima de 2.0,17266
+2025,12,Dezembro,Autos,Até 1.0,125388
+2025,12,Dezembro,Autos,De 1.0 Até 2.0,79870
+2025,12,Dezembro,Autos,Acima de 2.0,5474
+2025,12,Dezembro,Com. Leves,Até 1.0,3044
+2025,12,Dezembro,Com. Leves,De 1.0 Até 2.0,32200
+2025,12,Dezembro,Com. Leves,Acima de 2.0,21141
+2026,1,Janeiro,Autos,Até 1.0,70079
+2026,1,Janeiro,Autos,De 1.0 Até 2.0,51134
+2026,1,Janeiro,Autos,Acima de 2.0,3923
+2026,1,Janeiro,Com. Leves,Até 1.0,2508
+2026,1,Janeiro,Com. Leves,De 1.0 Até 2.0,19451
+2026,1,Janeiro,Com. Leves,Acima de 2.0,15389
+2026,2,Fevereiro,Autos,Até 1.0,83675
+2026,2,Fevereiro,Autos,De 1.0 Até 2.0,53573
+2026,2,Fevereiro,Autos,Acima de 2.0,3300
+2026,2,Fevereiro,Com. Leves,Até 1.0,2546
+2026,2,Fevereiro,Com. Leves,De 1.0 Até 2.0,20010
+2026,2,Fevereiro,Com. Leves,Acima de 2.0,13693
+2026,3,Março,Autos,Até 1.0,120122
+2026,3,Março,Autos,De 1.0 Até 2.0,82120
+2026,3,Março,Autos,Acima de 2.0,4136
+2026,3,Março,Com. Leves,Até 1.0,3234
+2026,3,Março,Com. Leves,De 1.0 Até 2.0,29420
+2026,3,Março,Com. Leves,Acima de 2.0,19195
+2026,4,Abril,Autos,Até 1.0,110594
+2026,4,Abril,Autos,De 1.0 Até 2.0,73063
+2026,4,Abril,Autos,Acima de 2.0,3656
+2026,4,Abril,Com. Leves,Até 1.0,2849
+2026,4,Abril,Com. Leves,De 1.0 Até 2.0,28923
+2026,4,Abril,Com. Leves,Acima de 2.0,18171
+2026,5,Maio,Autos,Até 1.0,128105
+2026,5,Maio,Autos,De 1.0 Até 2.0,82307
+2026,5,Maio,Autos,Acima de 2.0,3888
+2026,5,Maio,Com. Leves,Até 1.0,3238
+2026,5,Maio,Com. Leves,De 1.0 Até 2.0,27644
+2026,5,Maio,Com. Leves,Acima de 2.0,18861
+2026,6,Junho,Autos,Até 1.0,121748
+2026,6,Junho,Autos,De 1.0 Até 2.0,86826
+2026,6,Junho,Autos,Acima de 2.0,4328
+2026,6,Junho,Com. Leves,Até 1.0,3088
+2026,6,Junho,Com. Leves,De 1.0 Até 2.0,25608
+2026,6,Junho,Com. Leves,Acima de 2.0,18869
+2026,7,Julho,Autos,Até 1.0,123540
+2026,7,Julho,Autos,De 1.0 Até 2.0,85127
+2026,7,Julho,Autos,Acima de 2.0,4024
+2026,7,Julho,Com. Leves,Até 1.0,3238
+2026,7,Julho,Com. Leves,De 1.0 Até 2.0,30307
+2026,7,Julho,Com. Leves,Acima de 2.0,19459

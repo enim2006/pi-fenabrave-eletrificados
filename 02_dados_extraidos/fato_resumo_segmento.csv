@@ -1,0 +1,579 @@
+ano,mes_num,mes_nome,segmento,quantidade_mes
+2022,1,Janeiro,Autos,92212
+2022,1,Janeiro,Com. Leves,24389
+2022,1,Janeiro,Autos + Com. Leves,116601
+2022,1,Janeiro,Caminhões,8517
+2022,1,Janeiro,Ônibus,1368
+2022,1,Janeiro,Caminhões + Ônibus,9885
+2022,1,Janeiro,Subtotal (A a D),126486
+2022,1,Janeiro,Motos,89685
+2022,1,Janeiro,Implementos Rodoviários,6724
+2022,1,Janeiro,Outros,7888
+2022,2,Fevereiro,Autos,97590
+2022,2,Fevereiro,Com. Leves,22602
+2022,2,Fevereiro,Autos + Com. Leves,120192
+2022,2,Fevereiro,Caminhões,7961
+2022,2,Fevereiro,Ônibus,1123
+2022,2,Fevereiro,Caminhões + Ônibus,9084
+2022,2,Fevereiro,Subtotal (A a D),129276
+2022,2,Fevereiro,Motos,74065
+2022,2,Fevereiro,Implementos Rodoviários,5937
+2022,2,Fevereiro,Outros,8529
+2022,2,Fevereiro,Total Geral,217807
+2022,3,Março,Autos,108244
+2022,3,Março,Com. Leves,26660
+2022,3,Março,Autos + Com. Leves,134904
+2022,3,Março,Caminhões,10133
+2022,3,Março,Ônibus,1779
+2022,3,Março,Caminhões + Ônibus,11912
+2022,3,Março,Subtotal (A a D),146816
+2022,3,Março,Motos,110083
+2022,3,Março,Implementos Rodoviários,6796
+2022,3,Março,Outros,9915
+2022,3,Março,Total Geral,273610
+2022,4,Abril,Autos,109684
+2022,4,Abril,Com. Leves,26657
+2022,4,Abril,Autos + Com. Leves,136341
+2022,4,Abril,Caminhões,9375
+2022,4,Abril,Ônibus,1521
+2022,4,Abril,Caminhões + Ônibus,10896
+2022,4,Abril,Subtotal (A a D),147237
+2022,4,Abril,Motos,107737
+2022,4,Abril,Implementos Rodoviários,6572
+2022,4,Abril,Outros,9014
+2022,4,Abril,Total Geral,270560
+2022,5,Maio,Autos,139472
+2022,5,Maio,Com. Leves,35342
+2022,5,Maio,Autos + Com. Leves,174814
+2022,5,Maio,Caminhões,10319
+2022,5,Maio,Ônibus,1936
+2022,5,Maio,Caminhões + Ônibus,12255
+2022,5,Maio,Subtotal (A a D),187069
+2022,5,Maio,Motos,133372
+2022,5,Maio,Implementos Rodoviários,7215
+2022,5,Maio,Outros,10784
+2022,5,Maio,Total Geral,338440
+2022,6,Junho,Autos,133587
+2022,6,Junho,Com. Leves,31883
+2022,6,Junho,Autos + Com. Leves,165470
+2022,6,Junho,Caminhões,10862
+2022,6,Junho,Ônibus,1731
+2022,6,Junho,Caminhões + Ônibus,12593
+2022,6,Junho,Subtotal (A a D),178063
+2022,6,Junho,Motos,120869
+2022,6,Junho,Implementos Rodoviários,6937
+2022,6,Junho,Outros,10097
+2022,6,Junho,Total Geral,315966
+2022,7,Julho,Autos,135522
+2022,7,Julho,Com. Leves,33571
+2022,7,Julho,Autos + Com. Leves,169093
+2022,7,Julho,Caminhões,11328
+2022,7,Julho,Ônibus,1561
+2022,7,Julho,Caminhões + Ônibus,12889
+2022,7,Julho,Subtotal (A a D),181982
+2022,7,Julho,Motos,107619
+2022,7,Julho,Implementos Rodoviários,7306
+2022,7,Julho,Outros,10802
+2022,7,Julho,Total Geral,307709
+2022,8,Agosto,Autos,155095
+2022,8,Agosto,Com. Leves,39047
+2022,8,Agosto,Autos + Com. Leves,194142
+2022,8,Agosto,Caminhões,12301
+2022,8,Agosto,Ônibus,2050
+2022,8,Agosto,Caminhões + Ônibus,14351
+2022,8,Agosto,Subtotal (A a D),208493
+2022,8,Agosto,Motos,118549
+2022,8,Agosto,Implementos Rodoviários,7776
+2022,8,Agosto,Outros,11687
+2022,8,Agosto,Total Geral,346505
+2022,9,Setembro,Autos,143210
+2022,9,Setembro,Com. Leves,37214
+2022,9,Setembro,Autos + Com. Leves,180424
+2022,9,Setembro,Caminhões,11091
+2022,9,Setembro,Ônibus,2436
+2022,9,Setembro,Caminhões + Ônibus,13527
+2022,9,Setembro,Subtotal (A a D),193951
+2022,9,Setembro,Motos,123645
+2022,9,Setembro,Implementos Rodoviários,7357
+2022,9,Setembro,Outros,10351
+2022,9,Setembro,Total Geral,335304
+2022,10,Outubro,Autos,137003
+2022,10,Outubro,Com. Leves,31471
+2022,10,Outubro,Autos + Com. Leves,168474
+2022,10,Outubro,Caminhões,10582
+2022,10,Outubro,Ônibus,1828
+2022,10,Outubro,Caminhões + Ônibus,12410
+2022,10,Outubro,Subtotal (A a D),180884
+2022,10,Outubro,Motos,120251
+2022,10,Outubro,Implementos Rodoviários,6349
+2022,10,Outubro,Outros,9335
+2022,10,Outubro,Total Geral,316819
+2022,11,Novembro,Autos,158766
+2022,11,Novembro,Com. Leves,33178
+2022,11,Novembro,Autos + Com. Leves,191944
+2022,11,Novembro,Caminhões,9935
+2022,11,Novembro,Ônibus,2115
+2022,11,Novembro,Caminhões + Ônibus,12050
+2022,11,Novembro,Subtotal (A a D),203994
+2022,11,Novembro,Motos,123206
+2022,11,Novembro,Implementos Rodoviários,6203
+2022,11,Novembro,Outros,9416
+2022,11,Novembro,Total Geral,342819
+2022,12,Dezembro,Autos,164169
+2022,12,Dezembro,Com. Leves,38007
+2022,12,Dezembro,Autos + Com. Leves,202176
+2022,12,Dezembro,Caminhões,12064
+2022,12,Dezembro,Ônibus,2680
+2022,12,Dezembro,Caminhões + Ônibus,14744
+2022,12,Dezembro,Subtotal (A a D),216920
+2022,12,Dezembro,Motos,132129
+2022,12,Dezembro,Implementos Rodoviários,7891
+2022,12,Dezembro,Outros,9955
+2022,12,Dezembro,Total Geral,366895
+2023,1,Janeiro,Autos,103872
+2023,1,Janeiro,Com. Leves,26588
+2023,1,Janeiro,Autos + Com. Leves,130460
+2023,1,Janeiro,Caminhões,10215
+2023,1,Janeiro,Ônibus,2152
+2023,1,Janeiro,Caminhões + Ônibus,12367
+2023,1,Janeiro,Subtotal (A a D),142827
+2023,1,Janeiro,Motos,110493
+2023,1,Janeiro,Implementos Rodoviários,6539
+2023,1,Janeiro,Outros,8522
+2023,1,Janeiro,Total Geral,268381
+2023,2,Fevereiro,Autos,95809
+2023,2,Fevereiro,Com. Leves,23946
+2023,2,Fevereiro,Autos + Com. Leves,119755
+2023,2,Fevereiro,Caminhões,7825
+2023,2,Fevereiro,Ônibus,2288
+2023,2,Fevereiro,Caminhões + Ônibus,10113
+2023,2,Fevereiro,Subtotal (A a D),129868
+2023,2,Fevereiro,Motos,100549
+2023,2,Fevereiro,Implementos Rodoviários,5923
+2023,2,Fevereiro,Outros,8904
+2023,2,Fevereiro,Total Geral,245244
+2023,3,Março,Autos,146174
+2023,3,Março,Com. Leves,40409
+2023,3,Março,Autos + Com. Leves,186583
+2023,3,Março,Caminhões,9389
+2023,3,Março,Ônibus,2937
+2023,3,Março,Caminhões + Ônibus,12326
+2023,3,Março,Subtotal (A a D),198909
+2023,3,Março,Motos,145945
+2023,3,Março,Implementos Rodoviários,8385
+2023,3,Março,Outros,11773
+2023,3,Março,Total Geral,365012
+2023,4,Abril,Autos,118127
+2023,4,Abril,Com. Leves,33594
+2023,4,Abril,Autos + Com. Leves,151721
+2023,4,Abril,Caminhões,7294
+2023,4,Abril,Ônibus,1669
+2023,4,Abril,Caminhões + Ônibus,8963
+2023,4,Abril,Subtotal (A a D),160684
+2023,4,Abril,Motos,120908
+2023,4,Abril,Implementos Rodoviários,6207
+2023,4,Abril,Outros,9063
+2023,4,Abril,Total Geral,296862
+2023,5,Maio,Autos,127482
+2023,5,Maio,Com. Leves,38879
+2023,5,Maio,Autos + Com. Leves,166361
+2023,5,Maio,Caminhões,7893
+2023,5,Maio,Ônibus,2237
+2023,5,Maio,Caminhões + Ônibus,10130
+2023,5,Maio,Subtotal (A a D),176491
+2023,5,Maio,Motos,161433
+2023,5,Maio,Implementos Rodoviários,7677
+2023,5,Maio,Outros,11669
+2023,5,Maio,Total Geral,357270
+2023,6,Junho,Autos,142017
+2023,6,Junho,Com. Leves,37674
+2023,6,Junho,Autos + Com. Leves,179691
+2023,6,Junho,Caminhões,7722
+2023,6,Junho,Ônibus,2115
+2023,6,Junho,Caminhões + Ônibus,9837
+2023,6,Junho,Subtotal (A a D),189528
+2023,6,Junho,Motos,140312
+2023,6,Junho,Implementos Rodoviários,7323
+2023,6,Junho,Outros,11297
+2023,6,Junho,Total Geral,348460
+2023,7,Julho,Autos,176742
+2023,7,Julho,Com. Leves,38969
+2023,7,Julho,Autos + Com. Leves,215711
+2023,7,Julho,Caminhões,8109
+2023,7,Julho,Ônibus,1783
+2023,7,Julho,Caminhões + Ônibus,9892
+2023,7,Julho,Subtotal (A a D),225603
+2023,7,Julho,Motos,123051
+2023,7,Julho,Implementos Rodoviários,7316
+2023,7,Julho,Outros,11222
+2023,7,Julho,Total Geral,367192
+2023,8,Agosto,Autos,153478
+2023,8,Agosto,Com. Leves,43400
+2023,8,Agosto,Autos + Com. Leves,196878
+2023,8,Agosto,Caminhões,8968
+2023,8,Agosto,Ônibus,1871
+2023,8,Agosto,Caminhões + Ônibus,10839
+2023,8,Agosto,Subtotal (A a D),207717
+2023,8,Agosto,Motos,142714
+2023,8,Agosto,Implementos Rodoviários,8541
+2023,8,Agosto,Outros,12525
+2023,8,Agosto,Total Geral,371497
+2023,9,Setembro,Autos,145682
+2023,9,Setembro,Ônibus,1795
+2023,9,Setembro,Subtotal (A a D),197673
+2023,9,Setembro,Motos,135130
+2023,9,Setembro,Outros,10712
+2023,9,Setembro,Total Geral,351301
+2023,10,Outubro,Autos,163134
+2023,10,Outubro,Com. Leves,43535
+2023,10,Outubro,Autos + Com. Leves,206669
+2023,10,Outubro,Caminhões,9157
+2023,10,Outubro,Ônibus,1919
+2023,10,Outubro,Caminhões + Ônibus,11076
+2023,10,Outubro,Subtotal (A a D),217745
+2023,10,Outubro,Motos,137606
+2023,10,Outubro,Implementos Rodoviários,8964
+2023,10,Outubro,Outros,10817
+2023,10,Outubro,Total Geral,375132
+2023,11,Novembro,Autos,160693
+2023,11,Novembro,Com. Leves,40956
+2023,11,Novembro,Autos + Com. Leves,201649
+2023,11,Novembro,Caminhões,9050
+2023,11,Novembro,Ônibus,1944
+2023,11,Novembro,Caminhões + Ônibus,10994
+2023,11,Novembro,Subtotal (A a D),212643
+2023,11,Novembro,Motos,130469
+2023,11,Novembro,Implementos Rodoviários,7606
+2023,11,Novembro,Outros,10488
+2023,11,Novembro,Total Geral,361206
+2023,12,Dezembro,Autos,187751
+2023,12,Dezembro,Com. Leves,48846
+2023,12,Dezembro,Autos + Com. Leves,236597
+2023,12,Dezembro,Caminhões,10068
+2023,12,Dezembro,Ônibus,1877
+2023,12,Dezembro,Caminhões + Ônibus,11945
+2023,12,Dezembro,Subtotal (A a D),248542
+2023,12,Dezembro,Motos,132752
+2023,12,Dezembro,Implementos Rodoviários,7874
+2023,12,Dezembro,Outros,10850
+2023,12,Dezembro,Total Geral,400018
+2024,1,Janeiro,Autos,118507
+2024,1,Janeiro,Com. Leves,33555
+2024,1,Janeiro,Autos + Com. Leves,152062
+2024,1,Janeiro,Caminhões,7993
+2024,1,Janeiro,Ônibus,1546
+2024,1,Janeiro,Subtotal (A a D),161601
+2024,1,Janeiro,Motos,143327
+2024,1,Janeiro,Implementos Rodoviários,7072
+2024,1,Janeiro,Outros,10505
+2024,1,Janeiro,Total Geral,322505
+2024,2,Fevereiro,Autos,120315
+2024,2,Fevereiro,Com. Leves,34968
+2024,2,Fevereiro,Autos + Com. Leves,155283
+2024,2,Fevereiro,Caminhões,8200
+2024,2,Fevereiro,Ônibus,1723
+2024,2,Fevereiro,Caminhões + Ônibus,9923
+2024,2,Fevereiro,Subtotal (A a D),165206
+2024,2,Fevereiro,Motos,136285
+2024,2,Fevereiro,Implementos Rodoviários,7474
+2024,2,Fevereiro,Outros,10368
+2024,2,Fevereiro,Total Geral,319333
+2024,3,Março,Autos,137889
+2024,3,Março,Com. Leves,38093
+2024,3,Março,Autos + Com. Leves,175982
+2024,3,Março,Caminhões,9701
+2024,3,Março,Ônibus,2046
+2024,3,Março,Caminhões + Ônibus,11747
+2024,3,Março,Subtotal (A a D),187729
+2024,3,Março,Motos,152670
+2024,3,Março,Implementos Rodoviários,7559
+2024,3,Março,Outros,10839
+2024,3,Março,Total Geral,358797
+2024,4,Abril,Autos,164365
+2024,4,Abril,Com. Leves,43713
+2024,4,Abril,Autos + Com. Leves,208078
+2024,4,Abril,Ônibus,2182
+2024,4,Abril,Caminhões + Ônibus,12735
+2024,4,Abril,Subtotal (A a D),220813
+2024,4,Abril,Motos,170252
+2024,4,Abril,Implementos Rodoviários,8019
+2024,4,Abril,Outros,11446
+2024,4,Abril,Total Geral,410530
+2024,5,Maio,Com. Leves,39187
+2024,5,Maio,Caminhões,9360
+2024,5,Maio,Ônibus,1683
+2024,5,Maio,Caminhões + Ônibus,11043
+2024,5,Maio,Subtotal (A a D),194257
+2024,5,Maio,Motos,164502
+2024,5,Maio,Implementos Rodoviários,6808
+2024,5,Maio,Total Geral,376568
+2024,6,Junho,Autos,163808
+2024,6,Junho,Com. Leves,38666
+2024,6,Junho,Autos + Com. Leves,202474
+2024,6,Junho,Caminhões,9663
+2024,6,Junho,Ônibus,2152
+2024,6,Junho,Caminhões + Ônibus,11815
+2024,6,Junho,Subtotal (A a D),214289
+2024,6,Junho,Motos,165855
+2024,6,Junho,Implementos Rodoviários,7699
+2024,6,Junho,Outros,12309
+2024,6,Junho,Total Geral,400152
+2024,7,Julho,Autos,178047
+2024,7,Julho,Com. Leves,49253
+2024,7,Julho,Autos + Com. Leves,227300
+2024,7,Julho,Caminhões,11082
+2024,7,Julho,Ônibus,2960
+2024,7,Julho,Caminhões + Ônibus,14042
+2024,7,Julho,Subtotal (A a D),241342
+2024,7,Julho,Motos,156893
+2024,7,Julho,Implementos Rodoviários,7858
+2024,7,Julho,Outros,13736
+2024,7,Julho,Total Geral,419829
+2024,8,Agosto,Autos,170995
+2024,8,Agosto,Com. Leves,52201
+2024,8,Agosto,Autos + Com. Leves,223196
+2024,8,Agosto,Caminhões,11303
+2024,8,Agosto,Ônibus,2885
+2024,8,Agosto,Caminhões + Ônibus,14188
+2024,8,Agosto,Subtotal (A a D),237384
+2024,8,Agosto,Motos,163882
+2024,8,Agosto,Implementos Rodoviários,7685
+2024,8,Agosto,Outros,13918
+2024,8,Agosto,Total Geral,422869
+2024,9,Setembro,Autos,171658
+2024,9,Setembro,Com. Leves,51028
+2024,9,Setembro,Autos + Com. Leves,222686
+2024,9,Setembro,Caminhões,11218
+2024,9,Setembro,Ônibus,2449
+2024,9,Setembro,Caminhões + Ônibus,13667
+2024,9,Setembro,Subtotal (A a D),236353
+2024,9,Setembro,Motos,156607
+2024,9,Setembro,Implementos Rodoviários,7238
+2024,9,Setembro,Outros,12883
+2024,9,Setembro,Total Geral,413081
+2024,10,Outubro,Autos,195201
+2024,10,Outubro,Com. Leves,54695
+2024,10,Outubro,Autos + Com. Leves,249896
+2024,10,Outubro,Caminhões,11901
+2024,10,Outubro,Ônibus,3139
+2024,10,Outubro,Caminhões + Ônibus,15040
+2024,10,Outubro,Subtotal (A a D),264936
+2024,10,Outubro,Motos,166722
+2024,10,Outubro,Implementos Rodoviários,7687
+2024,10,Outubro,Outros,13477
+2024,11,Novembro,Autos,193730
+2024,11,Novembro,Com. Leves,47461
+2024,11,Novembro,Autos + Com. Leves,241191
+2024,11,Novembro,Caminhões,10002
+2024,11,Novembro,Ônibus,2309
+2024,11,Novembro,Caminhões + Ônibus,12311
+2024,11,Novembro,Subtotal (A a D),253502
+2024,11,Novembro,Motos,147018
+2024,11,Novembro,Implementos Rodoviários,6682
+2024,11,Novembro,Outros,12387
+2024,12,Dezembro,Autos,189862
+2024,12,Dezembro,Com. Leves,53829
+2024,12,Dezembro,Autos + Com. Leves,243691
+2024,12,Dezembro,Caminhões,11159
+2024,12,Dezembro,Ônibus,2594
+2024,12,Dezembro,Caminhões + Ônibus,13753
+2024,12,Dezembro,Subtotal (A a D),257444
+2024,12,Dezembro,Motos,151925
+2024,12,Dezembro,Implementos Rodoviários,6820
+2024,12,Dezembro,Outros,12226
+2025,1,Janeiro,Autos,123359
+2025,1,Janeiro,Com. Leves,36487
+2025,1,Janeiro,Autos + Com. Leves,159846
+2025,1,Janeiro,Caminhões,9170
+2025,1,Janeiro,Ônibus,2191
+2025,1,Janeiro,Caminhões + Ônibus,11361
+2025,1,Janeiro,Subtotal (A a D),171207
+2025,1,Janeiro,Motos,151954
+2025,1,Janeiro,Implementos Rodoviários,6203
+2025,1,Janeiro,Outros,12052
+2025,2,Fevereiro,Autos,134772
+2025,2,Fevereiro,Com. Leves,39037
+2025,2,Fevereiro,Autos + Com. Leves,173809
+2025,2,Fevereiro,Caminhões,8751
+2025,2,Fevereiro,Ônibus,2375
+2025,2,Fevereiro,Caminhões + Ônibus,11126
+2025,2,Fevereiro,Subtotal (A a D),184935
+2025,2,Fevereiro,Motos,155954
+2025,2,Fevereiro,Implementos Rodoviários,6194
+2025,2,Fevereiro,Outros,12982
+2025,2,Fevereiro,Total Geral,360065
+2025,3,Março,Autos,141542
+2025,3,Março,Com. Leves,42504
+2025,3,Março,Autos + Com. Leves,184046
+2025,3,Março,Caminhões,9201
+2025,3,Março,Ônibus,2230
+2025,3,Março,Caminhões + Ônibus,11431
+2025,3,Março,Subtotal (A a D),195477
+2025,3,Março,Motos,166010
+2025,3,Março,Implementos Rodoviários,6026
+2025,3,Março,Outros,11848
+2025,3,Março,Total Geral,379361
+2025,4,Abril,Autos,152267
+2025,4,Abril,Com. Leves,44786
+2025,4,Abril,Autos + Com. Leves,197053
+2025,4,Abril,Caminhões,9037
+2025,4,Abril,Ônibus,2546
+2025,4,Abril,Caminhões + Ônibus,11583
+2025,4,Abril,Subtotal (A a D),208636
+2025,4,Abril,Motos,182673
+2025,4,Abril,Implementos Rodoviários,5970
+2025,4,Abril,Outros,13446
+2025,4,Abril,Total Geral,410725
+2025,5,Maio,Autos,167540
+2025,5,Maio,Com. Leves,46817
+2025,5,Maio,Autos + Com. Leves,214357
+2025,5,Maio,Caminhões,8887
+2025,5,Maio,Ônibus,2415
+2025,5,Maio,Caminhões + Ônibus,11302
+2025,5,Maio,Subtotal (A a D),225659
+2025,5,Maio,Motos,193348
+2025,5,Maio,Implementos Rodoviários,5916
+2025,5,Maio,Outros,13574
+2025,5,Maio,Total Geral,438497
+2025,6,Junho,Autos,159128
+2025,6,Junho,Com. Leves,43036
+2025,6,Junho,Autos + Com. Leves,202164
+2025,6,Junho,Caminhões,8374
+2025,6,Junho,Ônibus,2359
+2025,6,Junho,Caminhões + Ônibus,10733
+2025,6,Junho,Subtotal (A a D),212897
+2025,6,Junho,Motos,179357
+2025,6,Junho,Implementos Rodoviários,5536
+2025,6,Junho,Outros,12827
+2025,6,Junho,Total Geral,410617
+2025,7,Julho,Autos,181787
+2025,7,Julho,Com. Leves,48161
+2025,7,Julho,Autos + Com. Leves,229948
+2025,7,Julho,Caminhões,10523
+2025,7,Julho,Ônibus,2754
+2025,7,Julho,Caminhões + Ônibus,13277
+2025,7,Julho,Subtotal (A a D),243225
+2025,7,Julho,Motos,193165
+2025,7,Julho,Implementos Rodoviários,6274
+2025,7,Julho,Outros,15391
+2025,8,Agosto,Autos,172280
+2025,8,Agosto,Com. Leves,42210
+2025,8,Agosto,Autos + Com. Leves,214490
+2025,8,Agosto,Caminhões,8805
+2025,8,Agosto,Ônibus,2053
+2025,8,Agosto,Caminhões + Ônibus,10858
+2025,8,Agosto,Subtotal (A a D),225348
+2025,8,Agosto,Motos,185454
+2025,8,Agosto,Implementos Rodoviários,5642
+2025,8,Agosto,Outros,14635
+2025,9,Setembro,Autos,178548
+2025,9,Setembro,Com. Leves,52822
+2025,9,Setembro,Autos + Com. Leves,231370
+2025,9,Setembro,Caminhões,9579
+2025,9,Setembro,Ônibus,2316
+2025,9,Setembro,Caminhões + Ônibus,11895
+2025,9,Setembro,Subtotal (A a D),243265
+2025,9,Setembro,Motos,205862
+2025,9,Setembro,Implementos Rodoviários,5934
+2025,9,Setembro,Outros,15491
+2025,10,Outubro,Autos,192752
+2025,10,Outubro,Com. Leves,55125
+2025,10,Outubro,Autos + Com. Leves,247877
+2025,10,Outubro,Caminhões,10462
+2025,10,Outubro,Ônibus,2419
+2025,10,Outubro,Caminhões + Ônibus,12881
+2025,10,Outubro,Subtotal (A a D),260758
+2025,10,Outubro,Motos,209768
+2025,10,Outubro,Implementos Rodoviários,6470
+2025,10,Outubro,Outros,16352
+2025,11,Novembro,Autos,182044
+2025,11,Novembro,Com. Leves,45130
+2025,11,Novembro,Autos + Com. Leves,227174
+2025,11,Novembro,Caminhões,8790
+2025,11,Novembro,Ônibus,2642
+2025,11,Novembro,Caminhões + Ônibus,11432
+2025,11,Novembro,Subtotal (A a D),238606
+2025,11,Novembro,Motos,180601
+2025,11,Novembro,Implementos Rodoviários,5464
+2025,11,Novembro,Outros,13936
+2025,12,Dezembro,Autos,210732
+2025,12,Dezembro,Com. Leves,56385
+2025,12,Dezembro,Autos + Com. Leves,267117
+2025,12,Dezembro,Caminhões,9765
+2025,12,Dezembro,Ônibus,2543
+2025,12,Dezembro,Caminhões + Ônibus,12308
+2025,12,Dezembro,Subtotal (A a D),279425
+2025,12,Dezembro,Motos,193163
+2025,12,Dezembro,Implementos Rodoviários,5398
+2025,12,Dezembro,Outros,14482
+2026,1,Janeiro,Autos,125136
+2026,1,Janeiro,Com. Leves,37348
+2026,1,Janeiro,Autos + Com. Leves,162484
+2026,1,Janeiro,Caminhões,6379
+2026,1,Janeiro,Ônibus,1675
+2026,1,Janeiro,Caminhões + Ônibus,8054
+2026,1,Janeiro,Subtotal (A a D),170538
+2026,1,Janeiro,Motos,178537
+2026,1,Janeiro,Implementos Rodoviários,4344
+2026,1,Janeiro,Outros,13294
+2026,1,Janeiro,Total Geral,366713
+2026,2,Fevereiro,Autos,140548
+2026,2,Fevereiro,Com. Leves,36249
+2026,2,Fevereiro,Autos + Com. Leves,176797
+2026,2,Fevereiro,Caminhões,6611
+2026,2,Fevereiro,Ônibus,1742
+2026,2,Fevereiro,Caminhões + Ônibus,8353
+2026,2,Fevereiro,Subtotal (A a D),185150
+2026,2,Fevereiro,Motos,171508
+2026,2,Fevereiro,Implementos Rodoviários,5008
+2026,2,Fevereiro,Outros,13265
+2026,3,Março,Autos,206375
+2026,3,Março,Com. Leves,51848
+2026,3,Março,Autos + Com. Leves,258223
+2026,3,Março,Caminhões,8766
+2026,3,Março,Ônibus,2474
+2026,3,Março,Caminhões + Ônibus,11240
+2026,3,Março,Subtotal (A a D),269463
+2026,3,Março,Motos,221573
+2026,3,Março,Implementos Rodoviários,6392
+2026,3,Março,Outros,15671
+2026,4,Abril,Autos,187313
+2026,4,Abril,Com. Leves,49943
+2026,4,Abril,Autos + Com. Leves,237256
+2026,4,Abril,Caminhões,8661
+2026,4,Abril,Ônibus,2436
+2026,4,Abril,Caminhões + Ônibus,11097
+2026,4,Abril,Subtotal (A a D),248353
+2026,4,Abril,Motos,210649
+2026,4,Abril,Implementos Rodoviários,5545
+2026,4,Abril,Outros,15115
+2026,5,Maio,Autos,214300
+2026,5,Maio,Com. Leves,49743
+2026,5,Maio,Autos + Com. Leves,264043
+2026,5,Maio,Caminhões,8200
+2026,5,Maio,Ônibus,2074
+2026,5,Maio,Caminhões + Ônibus,10274
+2026,5,Maio,Subtotal (A a D),274317
+2026,5,Maio,Motos,197685
+2026,5,Maio,Implementos Rodoviários,5173
+2026,5,Maio,Outros,15251
+2026,6,Junho,Autos,212902
+2026,6,Junho,Com. Leves,47565
+2026,6,Junho,Autos + Com. Leves,260467
+2026,6,Junho,Caminhões,9419
+2026,6,Junho,Ônibus,2580
+2026,6,Junho,Caminhões + Ônibus,11999
+2026,6,Junho,Subtotal (A a D),272466
+2026,6,Junho,Motos,194200
+2026,6,Junho,Implementos Rodoviários,6072
+2026,6,Junho,Outros,15682
+2026,7,Julho,Autos,212691
+2026,7,Julho,Com. Leves,53004
+2026,7,Julho,Autos + Com. Leves,265695
+2026,7,Julho,Caminhões,11192
+2026,7,Julho,Ônibus,2691
+2026,7,Julho,Caminhões + Ônibus,13883
+2026,7,Julho,Subtotal (A a D),279578
+2026,7,Julho,Motos,199181
+2026,7,Julho,Implementos Rodoviários,7956
+2026,7,Julho,Outros,17859

@@ -1,0 +1,459 @@
+ano,mes_num,mes_nome,segmento,tipo_eletrificacao,quantidade_mes
+2024,1,Janeiro,Autos,Híbridos,7642
+2024,1,Janeiro,Autos,Elétricos,4335
+2024,1,Janeiro,Autos,Total Eletrificados,11977
+2024,1,Janeiro,Caminhões,Híbridos,0
+2024,1,Janeiro,Caminhões,Elétricos,56
+2024,1,Janeiro,Caminhões,Total Eletrificados,56
+2024,1,Janeiro,Ônibus,Híbridos,0
+2024,1,Janeiro,Ônibus,Elétricos,10
+2024,1,Janeiro,Ônibus,Total Eletrificados,10
+2024,1,Janeiro,Motos,Híbridos,0
+2024,1,Janeiro,Motos,Elétricos,510
+2024,1,Janeiro,Motos,Total Eletrificados,510
+2024,2,Fevereiro,Autos,Híbridos,6766
+2024,2,Fevereiro,Autos,Elétricos,3613
+2024,2,Fevereiro,Autos,Total Eletrificados,10379
+2024,2,Fevereiro,Com. Leves,Híbridos,46
+2024,2,Fevereiro,Com. Leves,Elétricos,26
+2024,2,Fevereiro,Com. Leves,Total Eletrificados,72
+2024,2,Fevereiro,Caminhões,Híbridos,0
+2024,2,Fevereiro,Caminhões,Elétricos,21
+2024,2,Fevereiro,Caminhões,Total Eletrificados,21
+2024,2,Fevereiro,Ônibus,Híbridos,0
+2024,2,Fevereiro,Ônibus,Elétricos,2
+2024,2,Fevereiro,Ônibus,Total Eletrificados,2
+2024,2,Fevereiro,Motos,Híbridos,0
+2024,2,Fevereiro,Motos,Elétricos,423
+2024,2,Fevereiro,Motos,Total Eletrificados,423
+2024,3,Março,Autos,Híbridos,7411
+2024,3,Março,Autos,Elétricos,6110
+2024,3,Março,Autos,Total Eletrificados,13521
+2024,3,Março,Com. Leves,Híbridos,65
+2024,3,Março,Com. Leves,Elétricos,27
+2024,3,Março,Com. Leves,Total Eletrificados,92
+2024,3,Março,Caminhões,Híbridos,0
+2024,3,Março,Caminhões,Elétricos,37
+2024,3,Março,Caminhões,Total Eletrificados,37
+2024,3,Março,Ônibus,Híbridos,0
+2024,3,Março,Ônibus,Elétricos,35
+2024,3,Março,Ônibus,Total Eletrificados,35
+2024,3,Março,Motos,Híbridos,0
+2024,3,Março,Motos,Elétricos,734
+2024,3,Março,Motos,Total Eletrificados,734
+2024,4,Abril,Autos,Híbridos,8478
+2024,4,Abril,Autos,Elétricos,6508
+2024,4,Abril,Autos,Total Eletrificados,14986
+2024,4,Abril,Com. Leves,Híbridos,23
+2024,4,Abril,Com. Leves,Elétricos,197
+2024,4,Abril,Com. Leves,Total Eletrificados,220
+2024,4,Abril,Ônibus,Elétricos,62
+2024,4,Abril,Ônibus,Total Eletrificados,62
+2024,4,Abril,Motos,Híbridos,0
+2024,4,Abril,Motos,Elétricos,509
+2024,4,Abril,Motos,Total Eletrificados,509
+2024,5,Maio,Autos,Híbridos,8380
+2024,5,Maio,Autos,Elétricos,5160
+2024,5,Maio,Autos,Total Eletrificados,13540
+2024,5,Maio,Com. Leves,Híbridos,57
+2024,5,Maio,Com. Leves,Elétricos,15
+2024,5,Maio,Com. Leves,Total Eletrificados,72
+2024,5,Maio,Caminhões,Híbridos,0
+2024,5,Maio,Caminhões,Elétricos,32
+2024,5,Maio,Caminhões,Total Eletrificados,32
+2024,5,Maio,Ônibus,Híbridos,0
+2024,5,Maio,Ônibus,Elétricos,9
+2024,5,Maio,Ônibus,Total Eletrificados,9
+2024,5,Maio,Motos,Híbridos,0
+2024,5,Maio,Motos,Elétricos,562
+2024,5,Maio,Motos,Total Eletrificados,562
+2024,6,Junho,Autos,Híbridos,9173
+2024,6,Junho,Autos,Elétricos,5102
+2024,6,Junho,Autos,Total Eletrificados,14275
+2024,6,Junho,Com. Leves,Híbridos,3
+2024,6,Junho,Com. Leves,Elétricos,8
+2024,6,Junho,Com. Leves,Total Eletrificados,121
+2024,6,Junho,Caminhões,Híbridos,0
+2024,6,Junho,Caminhões,Elétricos,82
+2024,6,Junho,Caminhões,Total Eletrificados,82
+2024,6,Junho,Ônibus,Híbridos,0
+2024,6,Junho,Ônibus,Elétricos,9
+2024,6,Junho,Ônibus,Total Eletrificados,9
+2024,6,Junho,Motos,Híbridos,0
+2024,6,Junho,Motos,Elétricos,775
+2024,6,Junho,Motos,Total Eletrificados,775
+2024,7,Julho,Autos,Híbridos,10577
+2024,7,Julho,Autos,Elétricos,4676
+2024,7,Julho,Autos,Total Eletrificados,15253
+2024,7,Julho,Com. Leves,Híbridos,3
+2024,7,Julho,Com. Leves,Elétricos,26
+2024,7,Julho,Com. Leves,Total Eletrificados,59
+2024,7,Julho,Caminhões,Híbridos,0
+2024,7,Julho,Caminhões,Elétricos,48
+2024,7,Julho,Caminhões,Total Eletrificados,48
+2024,7,Julho,Ônibus,Híbridos,0
+2024,7,Julho,Ônibus,Elétricos,13
+2024,7,Julho,Ônibus,Total Eletrificados,13
+2024,7,Julho,Motos,Híbridos,0
+2024,7,Julho,Motos,Elétricos,695
+2024,7,Julho,Motos,Total Eletrificados,695
+2024,8,Agosto,Autos,Híbridos,9374
+2024,8,Agosto,Autos,Elétricos,5078
+2024,8,Agosto,Autos,Total Eletrificados,14452
+2024,8,Agosto,Com. Leves,Híbridos,178
+2024,8,Agosto,Com. Leves,Elétricos,37
+2024,8,Agosto,Com. Leves,Total Eletrificados,215
+2024,8,Agosto,Caminhões,Híbridos,0
+2024,8,Agosto,Caminhões,Elétricos,24
+2024,8,Agosto,Caminhões,Total Eletrificados,24
+2024,8,Agosto,Ônibus,Híbridos,0
+2024,8,Agosto,Ônibus,Elétricos,61
+2024,8,Agosto,Ônibus,Total Eletrificados,61
+2024,8,Agosto,Motos,Híbridos,0
+2024,8,Agosto,Motos,Elétricos,464
+2024,8,Agosto,Motos,Total Eletrificados,464
+2024,9,Setembro,Autos,Híbridos,8524
+2024,9,Setembro,Autos,Elétricos,4624
+2024,9,Setembro,Autos,Total Eletrificados,13148
+2024,9,Setembro,Com. Leves,Híbridos,106
+2024,9,Setembro,Com. Leves,Elétricos,81
+2024,9,Setembro,Com. Leves,Total Eletrificados,187
+2024,9,Setembro,Caminhões,Híbridos,0
+2024,9,Setembro,Caminhões,Elétricos,35
+2024,9,Setembro,Caminhões,Total Eletrificados,35
+2024,9,Setembro,Ônibus,Híbridos,0
+2024,9,Setembro,Ônibus,Elétricos,16
+2024,9,Setembro,Ônibus,Total Eletrificados,16
+2024,9,Setembro,Motos,Híbridos,0
+2024,9,Setembro,Motos,Elétricos,549
+2024,9,Setembro,Motos,Total Eletrificados,549
+2024,10,Outubro,Autos,Híbridos,9672
+2024,10,Outubro,Autos,Elétricos,5606
+2024,10,Outubro,Autos,Total Eletrificados,15278
+2024,10,Outubro,Com. Leves,Híbridos,251
+2024,10,Outubro,Com. Leves,Elétricos,504
+2024,10,Outubro,Com. Leves,Total Eletrificados,755
+2024,10,Outubro,Caminhões,Híbridos,0
+2024,10,Outubro,Caminhões,Elétricos,26
+2024,10,Outubro,Caminhões,Total Eletrificados,26
+2024,10,Outubro,Ônibus,Híbridos,0
+2024,10,Outubro,Ônibus,Elétricos,52
+2024,10,Outubro,Ônibus,Total Eletrificados,52
+2024,10,Outubro,Motos,Híbridos,0
+2024,10,Outubro,Motos,Elétricos,643
+2024,10,Outubro,Motos,Total Eletrificados,643
+2024,11,Novembro,Autos,Híbridos,11572
+2024,11,Novembro,Autos,Elétricos,5031
+2024,11,Novembro,Autos,Total Eletrificados,16603
+2024,11,Novembro,Com. Leves,Híbridos,155
+2024,11,Novembro,Com. Leves,Elétricos,385
+2024,11,Novembro,Com. Leves,Total Eletrificados,540
+2024,11,Novembro,Caminhões,Híbridos,0
+2024,11,Novembro,Caminhões,Elétricos,48
+2024,11,Novembro,Caminhões,Total Eletrificados,48
+2024,11,Novembro,Ônibus,Híbridos,0
+2024,11,Novembro,Ônibus,Elétricos,21
+2024,11,Novembro,Ônibus,Total Eletrificados,21
+2024,11,Novembro,Motos,Híbridos,0
+2024,11,Novembro,Motos,Elétricos,711
+2024,11,Novembro,Motos,Total Eletrificados,711
+2024,12,Dezembro,Autos,Híbridos,17077
+2024,12,Dezembro,Autos,Elétricos,4331
+2024,12,Dezembro,Autos,Total Eletrificados,21408
+2024,12,Dezembro,Com. Leves,Híbridos,188
+2024,12,Dezembro,Com. Leves,Elétricos,38
+2024,12,Dezembro,Com. Leves,Total Eletrificados,226
+2024,12,Dezembro,Caminhões,Híbridos,0
+2024,12,Dezembro,Caminhões,Elétricos,36
+2024,12,Dezembro,Caminhões,Total Eletrificados,36
+2024,12,Dezembro,Ônibus,Híbridos,0
+2024,12,Dezembro,Ônibus,Elétricos,2
+2024,12,Dezembro,Ônibus,Total Eletrificados,2
+2024,12,Dezembro,Motos,Híbridos,0
+2024,12,Dezembro,Motos,Elétricos,1185
+2024,12,Dezembro,Motos,Total Eletrificados,1185
+2025,1,Janeiro,Autos,Híbridos,12670
+2025,1,Janeiro,Autos,Elétricos,3636
+2025,1,Janeiro,Autos,Total Eletrificados,16306
+2025,1,Janeiro,Com. Leves,Híbridos,129
+2025,1,Janeiro,Com. Leves,Elétricos,61
+2025,1,Janeiro,Com. Leves,Total Eletrificados,190
+2025,1,Janeiro,Caminhões,Híbridos,0
+2025,1,Janeiro,Caminhões,Elétricos,17
+2025,1,Janeiro,Caminhões,Total Eletrificados,17
+2025,1,Janeiro,Ônibus,Híbridos,0
+2025,1,Janeiro,Ônibus,Elétricos,117
+2025,1,Janeiro,Ônibus,Total Eletrificados,117
+2025,1,Janeiro,Motos,Híbridos,0
+2025,1,Janeiro,Motos,Elétricos,1030
+2025,1,Janeiro,Motos,Total Eletrificados,1030
+2025,2,Fevereiro,Autos,Híbridos,11643
+2025,2,Fevereiro,Autos,Elétricos,4470
+2025,2,Fevereiro,Autos,Total Eletrificados,16113
+2025,2,Fevereiro,Com. Leves,Híbridos,96
+2025,2,Fevereiro,Com. Leves,Elétricos,21
+2025,2,Fevereiro,Com. Leves,Total Eletrificados,117
+2025,2,Fevereiro,Caminhões,Híbridos,0
+2025,2,Fevereiro,Caminhões,Elétricos,42
+2025,2,Fevereiro,Caminhões,Total Eletrificados,42
+2025,2,Fevereiro,Ônibus,Híbridos,0
+2025,2,Fevereiro,Ônibus,Elétricos,16
+2025,2,Fevereiro,Ônibus,Total Eletrificados,16
+2025,2,Fevereiro,Motos,Híbridos,0
+2025,2,Fevereiro,Motos,Elétricos,1276
+2025,2,Fevereiro,Motos,Total Eletrificados,1276
+2025,3,Março,Autos,Híbridos,12876
+2025,3,Março,Autos,Elétricos,4768
+2025,3,Março,Autos,Total Eletrificados,17644
+2025,3,Março,Com. Leves,Híbridos,228
+2025,3,Março,Com. Leves,Elétricos,31
+2025,3,Março,Com. Leves,Total Eletrificados,259
+2025,3,Março,Caminhões,Híbridos,0
+2025,3,Março,Caminhões,Elétricos,26
+2025,3,Março,Caminhões,Total Eletrificados,26
+2025,3,Março,Ônibus,Híbridos,0
+2025,3,Março,Ônibus,Elétricos,30
+2025,3,Março,Ônibus,Total Eletrificados,30
+2025,3,Março,Motos,Híbridos,0
+2025,3,Março,Motos,Elétricos,1145
+2025,3,Março,Motos,Total Eletrificados,1145
+2025,4,Abril,Autos,Híbridos,14925
+2025,4,Abril,Autos,Elétricos,4678
+2025,4,Abril,Autos,Total Eletrificados,19603
+2025,4,Abril,Com. Leves,Híbridos,198
+2025,4,Abril,Com. Leves,Elétricos,21
+2025,4,Abril,Com. Leves,Total Eletrificados,219
+2025,4,Abril,Caminhões,Híbridos,0
+2025,4,Abril,Caminhões,Elétricos,34
+2025,4,Abril,Caminhões,Total Eletrificados,34
+2025,4,Abril,Ônibus,Híbridos,0
+2025,4,Abril,Ônibus,Elétricos,90
+2025,4,Abril,Ônibus,Total Eletrificados,90
+2025,4,Abril,Motos,Híbridos,0
+2025,4,Abril,Motos,Elétricos,569
+2025,4,Abril,Motos,Total Eletrificados,569
+2025,5,Maio,Autos,Híbridos,15155
+2025,5,Maio,Autos,Elétricos,6936
+2025,5,Maio,Autos,Total Eletrificados,22091
+2025,5,Maio,Com. Leves,Híbridos,151
+2025,5,Maio,Com. Leves,Elétricos,28
+2025,5,Maio,Com. Leves,Total Eletrificados,179
+2025,5,Maio,Caminhões,Híbridos,0
+2025,5,Maio,Caminhões,Elétricos,31
+2025,5,Maio,Caminhões,Total Eletrificados,31
+2025,5,Maio,Ônibus,Híbridos,0
+2025,5,Maio,Ônibus,Elétricos,24
+2025,5,Maio,Ônibus,Total Eletrificados,24
+2025,5,Maio,Motos,Híbridos,0
+2025,5,Maio,Motos,Elétricos,781
+2025,5,Maio,Motos,Total Eletrificados,781
+2025,6,Junho,Autos,Híbridos,15267
+2025,6,Junho,Autos,Elétricos,5873
+2025,6,Junho,Autos,Total Eletrificados,21140
+2025,6,Junho,Com. Leves,Híbridos,153
+2025,6,Junho,Com. Leves,Elétricos,39
+2025,6,Junho,Com. Leves,Total Eletrificados,192
+2025,6,Junho,Caminhões,Híbridos,0
+2025,6,Junho,Caminhões,Elétricos,40
+2025,6,Junho,Caminhões,Total Eletrificados,40
+2025,6,Junho,Ônibus,Híbridos,0
+2025,6,Junho,Ônibus,Elétricos,34
+2025,6,Junho,Ônibus,Total Eletrificados,34
+2025,6,Junho,Motos,Híbridos,0
+2025,6,Junho,Motos,Elétricos,613
+2025,6,Junho,Motos,Total Eletrificados,613
+2025,7,Julho,Autos,Híbridos,18015
+2025,7,Julho,Autos,Elétricos,6953
+2025,7,Julho,Autos,Total Eletrificados,24968
+2025,7,Julho,Com. Leves,Híbridos,148
+2025,7,Julho,Com. Leves,Elétricos,29
+2025,7,Julho,Com. Leves,Total Eletrificados,177
+2025,7,Julho,Caminhões,Híbridos,0
+2025,7,Julho,Caminhões,Elétricos,27
+2025,7,Julho,Caminhões,Total Eletrificados,27
+2025,7,Julho,Ônibus,Híbridos,0
+2025,7,Julho,Ônibus,Elétricos,160
+2025,7,Julho,Ônibus,Total Eletrificados,160
+2025,7,Julho,Motos,Híbridos,0
+2025,7,Julho,Motos,Elétricos,446
+2025,7,Julho,Motos,Total Eletrificados,446
+2025,8,Agosto,Autos,Híbridos,17533
+2025,8,Agosto,Autos,Elétricos,7594
+2025,8,Agosto,Autos,Total Eletrificados,25127
+2025,8,Agosto,Com. Leves,Híbridos,161
+2025,8,Agosto,Com. Leves,Elétricos,9
+2025,8,Agosto,Com. Leves,Total Eletrificados,170
+2025,8,Agosto,Caminhões,Híbridos,0
+2025,8,Agosto,Caminhões,Elétricos,21
+2025,8,Agosto,Caminhões,Total Eletrificados,21
+2025,8,Agosto,Ônibus,Híbridos,0
+2025,8,Agosto,Ônibus,Elétricos,41
+2025,8,Agosto,Ônibus,Total Eletrificados,41
+2025,8,Agosto,Motos,Híbridos,0
+2025,8,Agosto,Motos,Elétricos,381
+2025,8,Agosto,Motos,Total Eletrificados,381
+2025,9,Setembro,Autos,Híbridos,18955
+2025,9,Setembro,Autos,Elétricos,8023
+2025,9,Setembro,Autos,Total Eletrificados,26978
+2025,9,Setembro,Com. Leves,Híbridos,135
+2025,9,Setembro,Com. Leves,Elétricos,6
+2025,9,Setembro,Com. Leves,Total Eletrificados,141
+2025,9,Setembro,Caminhões,Híbridos,0
+2025,9,Setembro,Caminhões,Elétricos,24
+2025,9,Setembro,Caminhões,Total Eletrificados,24
+2025,9,Setembro,Ônibus,Híbridos,0
+2025,9,Setembro,Ônibus,Elétricos,42
+2025,9,Setembro,Ônibus,Total Eletrificados,42
+2025,9,Setembro,Motos,Híbridos,0
+2025,9,Setembro,Motos,Elétricos,455
+2025,9,Setembro,Motos,Total Eletrificados,455
+2025,10,Outubro,Autos,Híbridos,19702
+2025,10,Outubro,Autos,Elétricos,7826
+2025,10,Outubro,Autos,Total Eletrificados,27528
+2025,10,Outubro,Com. Leves,Híbridos,146
+2025,10,Outubro,Com. Leves,Elétricos,76
+2025,10,Outubro,Com. Leves,Total Eletrificados,222
+2025,10,Outubro,Caminhões,Híbridos,1
+2025,10,Outubro,Caminhões,Elétricos,14
+2025,10,Outubro,Caminhões,Total Eletrificados,15
+2025,10,Outubro,Ônibus,Híbridos,0
+2025,10,Outubro,Ônibus,Elétricos,87
+2025,10,Outubro,Ônibus,Total Eletrificados,87
+2025,10,Outubro,Motos,Híbridos,0
+2025,10,Outubro,Motos,Elétricos,422
+2025,10,Outubro,Motos,Total Eletrificados,422
+2025,11,Novembro,Autos,Híbridos,18609
+2025,11,Novembro,Autos,Elétricos,7202
+2025,11,Novembro,Autos,Total Eletrificados,25811
+2025,11,Novembro,Com. Leves,Híbridos,275
+2025,11,Novembro,Com. Leves,Elétricos,29
+2025,11,Novembro,Com. Leves,Total Eletrificados,304
+2025,11,Novembro,Caminhões,Híbridos,0
+2025,11,Novembro,Caminhões,Elétricos,34
+2025,11,Novembro,Caminhões,Total Eletrificados,34
+2025,11,Novembro,Ônibus,Híbridos,0
+2025,11,Novembro,Ônibus,Elétricos,26
+2025,11,Novembro,Ônibus,Total Eletrificados,26
+2025,11,Novembro,Motos,Híbridos,0
+2025,11,Novembro,Motos,Elétricos,510
+2025,11,Novembro,Motos,Total Eletrificados,510
+2025,12,Dezembro,Autos,Híbridos,27823
+2025,12,Dezembro,Autos,Elétricos,11456
+2025,12,Dezembro,Autos,Total Eletrificados,39279
+2025,12,Dezembro,Com. Leves,Híbridos,400
+2025,12,Dezembro,Com. Leves,Elétricos,64
+2025,12,Dezembro,Com. Leves,Total Eletrificados,464
+2025,12,Dezembro,Caminhões,Híbridos,0
+2025,12,Dezembro,Caminhões,Elétricos,52
+2025,12,Dezembro,Caminhões,Total Eletrificados,52
+2025,12,Dezembro,Ônibus,Híbridos,0
+2025,12,Dezembro,Ônibus,Elétricos,182
+2025,12,Dezembro,Ônibus,Total Eletrificados,182
+2025,12,Dezembro,Motos,Híbridos,0
+2025,12,Dezembro,Motos,Elétricos,909
+2025,12,Dezembro,Motos,Total Eletrificados,909
+2026,1,Janeiro,Autos,Híbridos,18995
+2026,1,Janeiro,Autos,Elétricos,8198
+2026,1,Janeiro,Autos,Total Eletrificados,27193
+2026,1,Janeiro,Com. Leves,Híbridos,175
+2026,1,Janeiro,Com. Leves,Elétricos,23
+2026,1,Janeiro,Com. Leves,Total Eletrificados,198
+2026,1,Janeiro,Caminhões,Híbridos,1
+2026,1,Janeiro,Caminhões,Elétricos,14
+2026,1,Janeiro,Caminhões,Total Eletrificados,15
+2026,1,Janeiro,Ônibus,Híbridos,0
+2026,1,Janeiro,Ônibus,Elétricos,8
+2026,1,Janeiro,Ônibus,Total Eletrificados,8
+2026,1,Janeiro,Motos,Híbridos,12
+2026,1,Janeiro,Motos,Elétricos,1445
+2026,1,Janeiro,Motos,Total Eletrificados,1457
+2026,2,Fevereiro,Autos,Híbridos,19250
+2026,2,Fevereiro,Autos,Elétricos,8654
+2026,2,Fevereiro,Autos,Total Eletrificados,27904
+2026,2,Fevereiro,Com. Leves,Híbridos,172
+2026,2,Fevereiro,Com. Leves,Elétricos,10
+2026,2,Fevereiro,Com. Leves,Total Eletrificados,182
+2026,2,Fevereiro,Caminhões,Híbridos,0
+2026,2,Fevereiro,Caminhões,Elétricos,27
+2026,2,Fevereiro,Caminhões,Total Eletrificados,27
+2026,2,Fevereiro,Ônibus,Híbridos,0
+2026,2,Fevereiro,Ônibus,Elétricos,83
+2026,2,Fevereiro,Ônibus,Total Eletrificados,83
+2026,2,Fevereiro,Motos,Híbridos,249
+2026,2,Fevereiro,Motos,Elétricos,858
+2026,2,Fevereiro,Motos,Total Eletrificados,1107
+2026,3,Março,Autos,Híbridos,25630
+2026,3,Março,Autos,Elétricos,13991
+2026,3,Março,Autos,Total Eletrificados,39621
+2026,3,Março,Com. Leves,Híbridos,329
+2026,3,Março,Com. Leves,Elétricos,59
+2026,3,Março,Com. Leves,Total Eletrificados,388
+2026,3,Março,Caminhões,Híbridos,0
+2026,3,Março,Caminhões,Elétricos,39
+2026,3,Março,Caminhões,Total Eletrificados,39
+2026,3,Março,Ônibus,Híbridos,0
+2026,3,Março,Ônibus,Elétricos,75
+2026,3,Março,Ônibus,Total Eletrificados,75
+2026,3,Março,Motos,Híbridos,812
+2026,3,Março,Motos,Elétricos,1709
+2026,3,Março,Motos,Total Eletrificados,2521
+2026,4,Abril,Autos,Híbridos,25767
+2026,4,Abril,Autos,Elétricos,17468
+2026,4,Abril,Autos,Total Eletrificados,43235
+2026,4,Abril,Com. Leves,Híbridos,190
+2026,4,Abril,Com. Leves,Elétricos,9
+2026,4,Abril,Com. Leves,Total Eletrificados,199
+2026,4,Abril,Caminhões,Híbridos,0
+2026,4,Abril,Caminhões,Elétricos,41
+2026,4,Abril,Caminhões,Total Eletrificados,41
+2026,4,Abril,Ônibus,Híbridos,0
+2026,4,Abril,Ônibus,Elétricos,13
+2026,4,Abril,Ônibus,Total Eletrificados,13
+2026,4,Abril,Motos,Híbridos,817
+2026,4,Abril,Motos,Elétricos,1974
+2026,4,Abril,Motos,Total Eletrificados,2791
+2026,5,Maio,Autos,Híbridos,30335
+2026,5,Maio,Autos,Elétricos,20878
+2026,5,Maio,Autos,Total Eletrificados,51213
+2026,5,Maio,Com. Leves,Híbridos,304
+2026,5,Maio,Com. Leves,Elétricos,79
+2026,5,Maio,Com. Leves,Total Eletrificados,383
+2026,5,Maio,Caminhões,Híbridos,0
+2026,5,Maio,Caminhões,Elétricos,28
+2026,5,Maio,Caminhões,Total Eletrificados,28
+2026,5,Maio,Ônibus,Híbridos,0
+2026,5,Maio,Ônibus,Elétricos,132
+2026,5,Maio,Ônibus,Total Eletrificados,132
+2026,5,Maio,Motos,Híbridos,1170
+2026,5,Maio,Motos,Elétricos,1036
+2026,5,Maio,Motos,Total Eletrificados,2206
+2026,6,Junho,Autos,Híbridos,32563
+2026,6,Junho,Autos,Elétricos,21018
+2026,6,Junho,Autos,Total Eletrificados,53581
+2026,6,Junho,Com. Leves,Híbridos,811
+2026,6,Junho,Com. Leves,Elétricos,111
+2026,6,Junho,Com. Leves,Total Eletrificados,922
+2026,6,Junho,Caminhões,Híbridos,0
+2026,6,Junho,Caminhões,Elétricos,1
+2026,6,Junho,Caminhões,Total Eletrificados,1
+2026,6,Junho,Ônibus,Híbridos,0
+2026,6,Junho,Ônibus,Elétricos,278
+2026,6,Junho,Ônibus,Total Eletrificados,278
+2026,6,Junho,Motos,Híbridos,1962
+2026,6,Junho,Motos,Elétricos,1701
+2026,6,Junho,Motos,Total Eletrificados,3663
+2026,7,Julho,Autos,Híbridos,34961
+2026,7,Julho,Autos,Elétricos,25698
+2026,7,Julho,Autos,Total Eletrificados,60659
+2026,7,Julho,Com. Leves,Híbridos,1551
+2026,7,Julho,Com. Leves,Elétricos,80
+2026,7,Julho,Com. Leves,Total Eletrificados,1631
+2026,7,Julho,Caminhões,Híbridos,0
+2026,7,Julho,Caminhões,Elétricos,15
+2026,7,Julho,Caminhões,Total Eletrificados,15
+2026,7,Julho,Ônibus,Híbridos,0
+2026,7,Julho,Ônibus,Elétricos,89
+2026,7,Julho,Ônibus,Total Eletrificados,89
+2026,7,Julho,Motos,Híbridos,2276
+2026,7,Julho,Motos,Elétricos,1565
+2026,7,Julho,Motos,Total Eletrificados,3841
