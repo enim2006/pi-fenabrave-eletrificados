@@ -1,9 +1,5 @@
 import pdfplumber, re, csv, glob, os, sys
 
-SRC_DIR = sys.argv[1] if len(sys.argv) > 1 else '.'
-OUT_DIR = sys.argv[2] if len(sys.argv) > 2 else '/tmp/pi_analise/out'
-os.makedirs(OUT_DIR, exist_ok=True)
-
 # ---------------------------------------------------------------------
 # Fallback por OCR: algumas edicoes (ex.: 2024_01, 2024_04, 2024_05) tem
 # a fonte embutida com o mapa de caracteres quebrado - o texto extraido
@@ -488,19 +484,23 @@ def process_pdf(path, ctx):
     return out
 
 # =====================================================================
-files = sorted(os.path.join(SRC_DIR, f) for f in os.listdir(SRC_DIR) if f.endswith('.pdf'))
-
-agg = {'resumo': [], 'marca': [], 'modelo': [], 'modelo_cat': [], 'motorizacao': [], 'eletrificados': [], 'eletrificados_resumo': []}
-
-for f in files:
-    base = os.path.basename(f).replace('.pdf', '')
-    parts = base.split('_')
-    ano, mes_ref = int(parts[0]), int(parts[1])
-    ctx = {'ano': ano, 'mes_num': mes_ref, 'mes_nome': MESES_PT[mes_ref]}
-    print('processando', base, '...', file=sys.stderr)
-    result = process_pdf(f, ctx)
-    for k in agg:
-        agg[k].extend(result[k])
+# Campos de cada fato (usado tambem por update_fenabrave.py, que importa
+# este arquivo como modulo para reaproveitar o parser sem duplicar codigo -
+# por isso todo o driver abaixo fica dentro do "if __name__ == '__main__'").
+FIELDNAMES = {
+    'resumo': ['ano','mes_num','mes_nome','segmento','quantidade_mes'],
+    'marca': ['ano','mes_num','mes_nome','segmento','tipo_venda','rank','fabricante','quantidade_mes','participacao_pct'],
+    'modelo': ['ano','mes_num','mes_nome','segmento','tipo_venda','rank','modelo','quantidade_mes'],
+    'modelo_cat': ['ano','mes_num','mes_nome','segmento','categoria','rank','modelo','quantidade_mes','participacao_categoria_pct'],
+    'motorizacao': ['ano','mes_num','mes_nome','segmento','faixa_motorizacao','quantidade_mes'],
+    'eletrificados': ['ano','mes_num','mes_nome','segmento','tipo_eletrificacao','rank','fabricante','quantidade_mes','participacao_pct'],
+    'eletrificados_resumo': ['ano','mes_num','mes_nome','segmento','tipo_eletrificacao','quantidade_mes'],
+}
+FATO_FILENAME = {
+    'resumo': 'fato_resumo_segmento.csv', 'marca': 'fato_marca.csv', 'modelo': 'fato_modelo.csv',
+    'modelo_cat': 'fato_modelo_categoria.csv', 'motorizacao': 'fato_motorizacao.csv',
+    'eletrificados': 'fato_eletrificados.csv', 'eletrificados_resumo': 'fato_eletrificados_resumo.csv',
+}
 
 def write_csv(path, rows, fieldnames):
     with open(path, 'w', newline='', encoding='utf-8') as fh:
@@ -510,17 +510,24 @@ def write_csv(path, rows, fieldnames):
             w.writerow(r)
     print(path, len(rows), 'linhas')
 
-write_csv(os.path.join(OUT_DIR, 'fato_resumo_segmento.csv'), agg['resumo'],
-          ['ano','mes_num','mes_nome','segmento','quantidade_mes'])
-write_csv(os.path.join(OUT_DIR, 'fato_marca.csv'), agg['marca'],
-          ['ano','mes_num','mes_nome','segmento','tipo_venda','rank','fabricante','quantidade_mes','participacao_pct'])
-write_csv(os.path.join(OUT_DIR, 'fato_modelo.csv'), agg['modelo'],
-          ['ano','mes_num','mes_nome','segmento','tipo_venda','rank','modelo','quantidade_mes'])
-write_csv(os.path.join(OUT_DIR, 'fato_modelo_categoria.csv'), agg['modelo_cat'],
-          ['ano','mes_num','mes_nome','segmento','categoria','rank','modelo','quantidade_mes','participacao_categoria_pct'])
-write_csv(os.path.join(OUT_DIR, 'fato_motorizacao.csv'), agg['motorizacao'],
-          ['ano','mes_num','mes_nome','segmento','faixa_motorizacao','quantidade_mes'])
-write_csv(os.path.join(OUT_DIR, 'fato_eletrificados.csv'), agg['eletrificados'],
-          ['ano','mes_num','mes_nome','segmento','tipo_eletrificacao','rank','fabricante','quantidade_mes','participacao_pct'])
-write_csv(os.path.join(OUT_DIR, 'fato_eletrificados_resumo.csv'), agg['eletrificados_resumo'],
-          ['ano','mes_num','mes_nome','segmento','tipo_eletrificacao','quantidade_mes'])
+if __name__ == '__main__':
+    SRC_DIR = sys.argv[1] if len(sys.argv) > 1 else '.'
+    OUT_DIR = sys.argv[2] if len(sys.argv) > 2 else '/tmp/pi_analise/out'
+    os.makedirs(OUT_DIR, exist_ok=True)
+
+    files = sorted(os.path.join(SRC_DIR, f) for f in os.listdir(SRC_DIR) if f.endswith('.pdf'))
+
+    agg = {k: [] for k in FATO_FILENAME}
+
+    for f in files:
+        base = os.path.basename(f).replace('.pdf', '')
+        parts = base.split('_')
+        ano, mes_ref = int(parts[0]), int(parts[1])
+        ctx = {'ano': ano, 'mes_num': mes_ref, 'mes_nome': MESES_PT[mes_ref]}
+        print('processando', base, '...', file=sys.stderr)
+        result = process_pdf(f, ctx)
+        for k in agg:
+            agg[k].extend(result[k])
+
+    for k, fname in FATO_FILENAME.items():
+        write_csv(os.path.join(OUT_DIR, fname), agg[k], FIELDNAMES[k])

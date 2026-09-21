@@ -3,4 +3,4 @@
 Scripts, notebooks, anotações e gráficos da análise exploratória inicial (EDA):
 - O que os dados contêm (períodos, granularidade, categorias, marcas/modelos, regiões).
 - Qualidade dos dados (faltantes, inconsistências).
-- Primeiras hipóteses/insights que podem virar painéis no Power BI.
+- Primeiras hipóteses/insights que podem virar visualizações no dashboard.

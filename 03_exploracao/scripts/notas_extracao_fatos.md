@@ -35,7 +35,7 @@ Extração de texto via `pdfplumber` falha (texto vazio ou cheio de `(cid:NN)`, 
 
 - **Duplicidade em `fato_marca`/`fato_modelo`**: algumas páginas repetem blocos agregados ("Automóveis + Comerciais Leves") ou uma segunda seção "Acumulado" com os mesmos dados — o parser agora trunca a leitura assim que detecta um segundo bloco/cabeçalho após já ter capturado linhas de dados.
 - **`parse_motorizacao` com apenas 1 mês de dados**: a partir de fev/2026 os rótulos de segmento somem dessa página — resolvido usando a ORDEM de aparição dos trios "Até 1.0 / De 1.0 até 2.0 / Acima de 2.0" (1º = Autos, 2º = Com. Leves, 3º = agregado A+B, descartado).
-- **Arquivo mal nomeado**: `2023_02_3.pdf` era na verdade a edição de março/2023 (erro no download); usuário renomeou para `2023_03_2.pdf`.
+- **Arquivo mal nomeado**: `2023_02_3.pdf` era na verdade a edição de março/2023 (erro no download); o arquivo foi renomeado para `2023_03_2.pdf`.
 
 ## 5. Tabelas fato geradas
 
@@ -49,7 +49,7 @@ Extração de texto via `pdfplumber` falha (texto vazio ou cheio de `(cid:NN)`, 
 | `fato_eletrificados.csv` | Ranking de marcas eletrificadas (Top-N, só existe 2024+) | mês × marca |
 | `fato_eletrificados_resumo.csv` | Totais oficiais de eletrificados por segmento e tipo (Híbridos/Elétricos/Total), não limitado a Top-N — só existe 2024+ | mês × segmento × tipo |
 
-Nenhuma coluna de "acumulado" ou percentual é armazenada — ambos são deriváveis (soma/razão) a partir dos valores mensais, e ficam para as medidas DAX do Power BI.
+Nenhuma coluna de "acumulado" ou percentual é armazenada — ambos são deriváveis (soma/razão) a partir dos valores mensais, e ficam a cargo da camada de visualização.
 
 ## 6. Limitações conhecidas remanescentes
 

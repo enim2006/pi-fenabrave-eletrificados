@@ -10,10 +10,10 @@ Os 7 PDFs em `01_dados_brutos/` são edições mensais do boletim **"Informativo
 
 - Tem exatamente **52 páginas**, com a **mesma estrutura de seções, na mesma ordem, em todas as edições analisadas** (Jan a Jul/2026).
 - É publicada por volta do dia 02 do mês seguinte ao mês de referência (ex.: dados de Janeiro/2026 → arquivo criado em 02/02/2026).
-- O nome de arquivo já usado por você (`AAAA_MM_02.pdf`, onde `MM` é o mês de referência dos dados) é consistente e recomendo mantê-lo para os próximos meses/anos — isso já facilita a automação.
+- O padrão de nome de arquivo adotado (`AAAA_MM_02.pdf`, onde `MM` é o mês de referência dos dados) é consistente e foi mantido para os meses/anos seguintes, o que facilita a automação.
 - Título interno: "Informativo - Emplacamentos", com numeração de edição (ex.: Ed. 277 = Jan/2026, Ed. 278 = Fev/2026 → uma edição por mês).
 
-**Boa notícia:** sua hipótese está correta. Apesar de o PDF ser longo e "consolidado" visualmente (tabelas, gráficos, textos repetidos em várias visões), os **dados atômicos por trás de tudo isso cabem em um número pequeno de tabelas** — a maior parte das 52 páginas são apenas **recortes, acumulados ou representações gráficas diferentes dos mesmos números**. Detalho isso abaixo.
+Apesar de o PDF ser longo e "consolidado" visualmente (tabelas, gráficos, textos repetidos em várias visões), os **dados atômicos por trás de tudo isso cabem em um número pequeno de tabelas** — a maior parte das 52 páginas são apenas **recortes, acumulados ou representações gráficas diferentes dos mesmos números**. Detalhamento abaixo.
 
 # 2. Mapa de conteúdo (52 páginas, estável entre os 7 meses)
 
@@ -58,12 +58,12 @@ Os 7 PDFs em `01_dados_brutos/` são edições mensais do boletim **"Informativo
 A maior parte das 52 páginas se explica por **3 fatores de "inchaço"**, todos redundantes ou deriváveis:
 
 1. **Repetição por segmento**: o mesmo tipo de tabela (resumo, ranking de marca, ranking de modelo, regional, eletrificados) se repete para cada segmento de veículo (Autos, Com. Leves, Caminhões, Ônibus, Motos, Impl. Rodoviários). Isso não são tabelas diferentes — é a **mesma tabela com uma coluna `segmento` a mais**.
-2. **Mês x Acumulado**: quase toda tabela aparece duas vezes — "do mês" e "acumulado no ano". O acumulado é só a soma dos meses anteriores do mesmo ano. **Não precisa ser armazenado**: com os dados mensais (granularidade atômica), o Power BI calcula acumulado, variação % e participação % via medidas DAX (SUM, running total, etc.), sem duplicar dado nem risco de inconsistência.
-3. **Tabela x Gráfico**: os gráficos de pizza (páginas 3, 4, 24, 25, 26, 35, 36, 44) mostram os mesmos números que já aparecem em forma de tabela limpa em outras páginas (8, 9, 38, 46). **Recomendo ignorar essas páginas de gráfico na extração** — o texto delas sai invertido/embaralhado pela forma como o PDF foi gerado, e o dado já está disponível em tabela em outro lugar.
+2. **Mês x Acumulado**: quase toda tabela aparece duas vezes — "do mês" e "acumulado no ano". O acumulado é só a soma dos meses anteriores do mesmo ano. **Não precisa ser armazenado**: com os dados mensais (granularidade atômica), a camada de visualização calcula acumulado, variação % e participação % em cima do dado bruto, sem duplicar dado nem risco de inconsistência.
+3. **Tabela x Gráfico**: os gráficos de pizza (páginas 3, 4, 24, 25, 26, 35, 36, 44) mostram os mesmos números que já aparecem em forma de tabela limpa em outras páginas (8, 9, 38, 46). Essas páginas de gráfico foram desconsideradas na extração — o texto delas sai invertido/embaralhado pela forma como o PDF foi gerado, e o dado já está disponível em tabela em outro lugar.
 
 Com isso, a essência do relatório cabe em poucas tabelas de fato, na granularidade **mensal** (sem acumulado, sem % pré-calculado):
 
-# 5. Modelo de dados proposto (estilo esquema estrela, pronto para Power BI)
+# 5. Modelo de dados proposto (estilo esquema estrela)
 
 ## Dimensões
 
@@ -84,31 +84,31 @@ Com isso, a essência do relatório cabe em poucas tabelas de fato, na granulari
 | Fato | Grão | Métrica | Origem |
 |---|---|---|---|
 | `Fato_Resumo_Segmento` | Segmento × Mês | Quantidade emplacada | pág. 1 |
-| `Fato_Regiao` | Segmento × Região × Mês | % participação (ou quantidade, se decidirmos recalcular) | pág. 5, 37, 45, 52 |
+| `Fato_Regiao` | Segmento × Região × Mês | % participação (ou quantidade, se recalculado) | pág. 5, 37, 45, 52 |
 | `Fato_Marca` | Segmento × Fabricante × TipoVenda × Mês | Quantidade | pág. 8, 9, 26–29, 38, 46 |
 | `Fato_Modelo` | Segmento × Fabricante × Modelo × TipoVenda × Mês | Quantidade | pág. 6, 7, 30–33, 39, 40, 47–49 |
 | `Fato_Modelo_Categoria` | Segmento × CategoriaVeículo × Modelo × Mês | Quantidade | pág. 11–19 |
 | `Fato_Motorizacao` | Segmento × Motorização × Mês | Quantidade | pág. 10 |
 | `Fato_Eletrificados` | Segmento × TipoEletrificação × Fabricante × Mês | Quantidade | pág. 20–22, 41–42, 50 |
 
-Ou seja: **9 dimensões + 7 fatos**, todos simples (poucas colunas), no lugar de tentar replicar as 52 páginas visualmente. Isso também deixa o modelo pronto para as métricas que você provavelmente vai querer no dashboard: acumulado, variação ano a ano, participação de mercado, ranking dinâmico por período escolhido — tudo isso vira medida DAX em cima do dado mensal, em vez de coluna fixa herdada do PDF.
+Ou seja: **9 dimensões + 7 fatos**, todos simples (poucas colunas), no lugar de tentar replicar as 52 páginas visualmente. Isso também deixa o modelo pronto para as métricas esperadas no dashboard: acumulado, variação ano a ano, participação de mercado, ranking dinâmico por período escolhido — tudo isso é calculado em cima do dado mensal, em vez de coluna fixa herdada do PDF.
 
 # 6. Prova de conceito
 
-Já extraí a tabela `Fato_Resumo_Segmento` para os 7 meses disponíveis (Jan–Jul/2026), a partir da página 1 de cada PDF — é o arquivo `fato_resumo_segmento_2026_jan_a_jul.csv` em anexo. Ela mostra que a extração funciona e que o dado mensal por segmento já está limpo e pronto para entrar no Power BI (ou numa exploração inicial em pandas/Excel).
+A tabela `Fato_Resumo_Segmento` foi extraída para os 7 meses disponíveis (Jan–Jul/2026), a partir da página 1 de cada PDF — arquivo `fato_resumo_segmento_2026_jan_a_jul.csv` (versão inicial, depois substituída por uma cobrindo 2022–2026). Essa etapa confirmou que a extração funciona e que o dado mensal por segmento já está limpo e pronto para entrar na camada de visualização (ou numa exploração inicial em pandas/Excel).
 
-Ainda não extraí as tabelas de marca, modelo, região, motorização e eletrificados — eram o próximo passo natural, mas preferi confirmar com você o modelo de dados antes de automatizar a extração das ~50 páginas restantes por mês.
+Nesse momento as tabelas de marca, modelo, região, motorização e eletrificados ainda não haviam sido extraídas — eram o próximo passo natural, mas a confirmação do modelo de dados foi priorizada antes de automatizar a extração das ~50 páginas restantes por mês.
 
 # 7. Pontos de atenção para a extração
 
-- **Páginas de gráfico de pizza (3, 4, 24, 25, 26, 35, 36, 44)**: ignorar — texto sai invertido e o dado é redundante com as tabelas de ranking.
-- **Páginas regionais (5, 37, 45, 52)**: os números aparecem em ordem no texto, mas a extração de texto não amarra automaticamente cada valor à sua região (Norte/Nordeste/etc.) — isso é um gráfico de barras empilhadas, não uma tabela. Vou precisar usar as coordenadas dos elementos no PDF (posição x/y) para garantir a associação correta antes de confiar nesses números.
+- **Páginas de gráfico de pizza (3, 4, 24, 25, 26, 35, 36, 44)**: ignoradas — texto sai invertido e o dado é redundante com as tabelas de ranking.
+- **Páginas regionais (5, 37, 45, 52)**: os números aparecem em ordem no texto, mas a extração de texto não amarra automaticamente cada valor à sua região (Norte/Nordeste/etc.) — isso é um gráfico de barras empilhadas, não uma tabela. É necessário usar as coordenadas dos elementos no PDF (posição x/y) para garantir a associação correta antes de confiar nesses números.
 - **"Outros" (pág. 1)**: a Fenabrave usa essa categoria para veículos fora da classificação principal — vale confirmar no site da Fenabrave o que exatamente compõe esse grupo, caso ele entre no dashboard.
 - **Layout pode variar entre edições**: como visto no item 3, uma linha (`Total`) sumiu a partir de Fevereiro. A extração deve casar por rótulo de segmento/marca/modelo, não por posição fixa de linha.
 
-# 8. Próximos passos sugeridos
+# 8. Próximos passos
 
-1. Você confirma (ou ajusta) o modelo de dados da seção 5.
-2. Eu automatizo a extração das páginas de marca, modelo, motorização e eletrificados para os 7 meses já recebidos, gerando os CSVs finais de cada fato.
-3. Conforme for baixando os demais meses/anos, você só precisa soltar os PDFs em `01_dados_brutos/` seguindo o mesmo padrão de nome (`AAAA_MM_02.pdf`) — a extração é reaproveitável porque a estrutura do relatório é estável.
-4. Os CSVs finais vão para `02_dados_extraidos/`, prontos para importar no Power BI (`04_power_bi/`).
+1. Modelo de dados da seção 5 confirmado.
+2. Extração das páginas de marca, modelo, motorização e eletrificados automatizada para os meses recebidos, gerando os CSVs finais de cada fato.
+3. Novos meses/anos seguem o mesmo padrão de nome (`AAAA_MM_02.pdf`) em `01_dados_brutos/` — a extração é reaproveitável porque a estrutura do relatório é estável.
+4. Os CSVs finais vão para `02_dados_extraidos/`, prontos para a camada de visualização (`04_dashboard/`).

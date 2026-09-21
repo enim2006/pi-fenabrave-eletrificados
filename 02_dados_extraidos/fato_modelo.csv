@@ -14923,3 +14923,294 @@ ano,mes_num,mes_nome,segmento,tipo_venda,rank,modelo,quantidade_mes
 2026,7,Julho,Com. Leves,Varejo,49,RAM/2500,5
 2026,7,Julho,Autos,Varejo,50,GWM/ORA 05,577
 2026,7,Julho,Com. Leves,Varejo,50,M.BENZ/ESPRINTER 320,4
+2026,8,Agosto,Autos,Total,1,VW/POLO,10472
+2026,8,Agosto,Com. Leves,Total,1,FIAT/STRADA,13798
+2026,8,Agosto,Autos,Total,2,VW/TERA,10338
+2026,8,Agosto,Com. Leves,Total,2,FIAT/TORO,5707
+2026,8,Agosto,Autos,Total,3,FIAT/ARGO,8811
+2026,8,Agosto,Com. Leves,Total,3,VW/SAVEIRO,5295
+2026,8,Agosto,Autos,Total,4,BYD/DOLPHIN MINI,8299
+2026,8,Agosto,Com. Leves,Total,4,TOYOTA/HILUX,3471
+2026,8,Agosto,Autos,Total,5,GM/ONIX,7635
+2026,8,Agosto,Com. Leves,Total,5,FORD/RANGER,3130
+2026,8,Agosto,Autos,Total,6,HYUNDAI/CRETA,7354
+2026,8,Agosto,Com. Leves,Total,6,GM/S10,2759
+2026,8,Agosto,Autos,Total,7,VW/T CROSS,6815
+2026,8,Agosto,Com. Leves,Total,7,RAM/RAMPAGE,2303
+2026,8,Agosto,Autos,Total,8,BYD/DOLPHIN,6740
+2026,8,Agosto,Com. Leves,Total,8,FIAT/FIORINO,1845
+2026,8,Agosto,Autos,Total,9,BYD/SONG,6724
+2026,8,Agosto,Com. Leves,Total,9,GM/MONTANA,1587
+2026,8,Agosto,Autos,Total,10,GWM/HAVAL H6,6433
+2026,8,Agosto,Com. Leves,Total,10,RENAULT/MASTER,1267
+2026,8,Agosto,Autos,Total,11,GEELY/EX2,5804
+2026,8,Agosto,Com. Leves,Total,11,MITSUBISHI/TRITON,1225
+2026,8,Agosto,Autos,Total,12,FIAT/MOBI,5587
+2026,8,Agosto,Com. Leves,Total,12,RENAULT/OROCH,850
+2026,8,Agosto,Autos,Total,13,GM/TRACKER,5326
+2026,8,Agosto,Com. Leves,Total,13,RAM/DAKOTA,634
+2026,8,Agosto,Autos,Total,14,HYUNDAI/HB20,5309
+2026,8,Agosto,Com. Leves,Total,14,GWM/POER,621
+2026,8,Agosto,Autos,Total,15,FIAT/FASTBACK,5133
+2026,8,Agosto,Com. Leves,Total,15,VW TRUCK E BUS/EXPRESS,573
+2026,8,Agosto,Autos,Total,16,GM/ONIX PLUS,4944
+2026,8,Agosto,Com. Leves,Total,16,VW/AMAROK,492
+2026,8,Agosto,Autos,Total,17,FIAT/PULSE,4775
+2026,8,Agosto,Com. Leves,Total,17,FIAT/DUCATO,354
+2026,8,Agosto,Autos,Total,18,JEEP/COMPASS,4547
+2026,8,Agosto,Com. Leves,Total,18,KIA/K2500,350
+2026,8,Agosto,Autos,Total,19,TOYOTA/YARIS CROSS,4414
+2026,8,Agosto,Com. Leves,Total,19,EFFA/V21,335
+2026,8,Agosto,Autos,Total,20,RENAULT/KWID,4357
+2026,8,Agosto,Com. Leves,Total,20,FORD/MAVERICK,287
+2026,8,Agosto,Autos,Total,21,HONDA/WR-V,3445
+2026,8,Agosto,Com. Leves,Total,21,IVECO/DAILY,279
+2026,8,Agosto,Autos,Total,22,CAOA CHERY/TIGGO 5X,3398
+2026,8,Agosto,Com. Leves,Total,22,FIAT/TITANO,258
+2026,8,Agosto,Autos,Total,23,OMODA JAECOO/OMODA 5,3344
+2026,8,Agosto,Com. Leves,Total,23,IVECO/DAILY 30-130,235
+2026,8,Agosto,Autos,Total,24,HONDA/HR-V,3279
+2026,8,Agosto,Com. Leves,Total,24,PEUGEOT/EXPERT,235
+2026,8,Agosto,Autos,Total,25,TOYOTA/COROLLA CROSS,3265
+2026,8,Agosto,Com. Leves,Total,25,RENAULT/KANGOO,223
+2026,8,Agosto,Autos,Total,26,VW/NIVUS,3259
+2026,8,Agosto,Com. Leves,Total,26,FORD/TRANSIT,204
+2026,8,Agosto,Autos,Total,27,NISSAN/KAIT,3194
+2026,8,Agosto,Com. Leves,Total,27,RAM/3500,187
+2026,8,Agosto,Autos,Total,28,HYUNDAI/I20,3042
+2026,8,Agosto,Com. Leves,Total,28,CITROEN/JUMPY,180
+2026,8,Agosto,Autos,Total,29,JEEP/RENEGADE,3039
+2026,8,Agosto,Com. Leves,Total,29,RAM/2500,153
+2026,8,Agosto,Autos,Total,30,VW/VIRTUS,2864
+2026,8,Agosto,Com. Leves,Total,30,TOYOTA/HIACE,131
+2026,8,Agosto,Autos,Total,31,NISSAN/KICKS,2676
+2026,8,Agosto,Com. Leves,Total,31,M.BENZ/SPRINTER 417,130
+2026,8,Agosto,Autos,Total,32,GM/SONIC,2651
+2026,8,Agosto,Com. Leves,Total,32,FIAT/SCUDO,128
+2026,8,Agosto,Autos,Total,33,OMODA JAECOO/JAECOO 7,2287
+2026,8,Agosto,Com. Leves,Total,33,FOTON/AUMARK S 315,106
+2026,8,Agosto,Autos,Total,34,FIAT/CRONOS,2066
+2026,8,Agosto,Com. Leves,Total,34,M.BENZ/SPRINTER 317,9
+2026,8,Agosto,Autos,Total,35,GM/SPIN,1636
+2026,8,Agosto,Com. Leves,Total,35,FORD/F150,96
+2026,8,Agosto,Autos,Total,36,HONDA/CITY,1479
+2026,8,Agosto,Com. Leves,Total,36,RAM/1500,91
+2026,8,Agosto,Autos,Total,37,HONDA/CITY HATCH,1447
+2026,8,Agosto,Com. Leves,Total,37,RENAULT/KWID,80
+2026,8,Agosto,Autos,Total,38,BYD/KING,1433
+2026,8,Agosto,Com. Leves,Total,38,FOTON/TUNLAND,53
+2026,8,Agosto,Autos,Total,39,RENAULT/KARDIAN,1414
+2026,8,Agosto,Com. Leves,Total,39,EFFA/V22,46
+2026,8,Agosto,Autos,Total,40,GEELY/EX5 EM-I,1346
+2026,8,Agosto,Com. Leves,Total,40,BYD/SHARK,40
+2026,8,Agosto,Autos,Total,41,CAOA CHERY/TIGGO 7,1324
+2026,8,Agosto,Com. Leves,Total,41,JAC/HUNTER,35
+2026,8,Agosto,Autos,Total,42,VW/TAOS,1295
+2026,8,Agosto,Com. Leves,Total,42,PEUGEOT/BOXER,34
+2026,8,Agosto,Autos,Total,43,CAOA CHERY/TIGGO 8,1290
+2026,8,Agosto,Com. Leves,Total,43,GM/SILVERADO,3
+2026,8,Agosto,Autos,Total,44,HYUNDAI/HB20S,1216
+2026,8,Agosto,Com. Leves,Total,44,HITECH E/NEW DELIVERY,29
+2026,8,Agosto,Autos,Total,45,RENAULT/DUSTER,1165
+2026,8,Agosto,Com. Leves,Total,45,CITROEN/JUMPER,27
+2026,8,Agosto,Autos,Total,46,JEEP/COMMANDER,1091
+2026,8,Agosto,Com. Leves,Total,46,SHINERAY/TLUX,23
+2026,8,Agosto,Autos,Total,47,TOYOTA/HILUX SW4,1064
+2026,8,Agosto,Com. Leves,Total,47,FOTON/EVIEW CONNECT,20
+2026,8,Agosto,Autos,Total,48,JETOUR/T2,1036
+2026,8,Agosto,Com. Leves,Total,48,M.BENZ/ESPRINTER 320,19
+2026,8,Agosto,Autos,Total,49,CITROEN/C3,981
+2026,8,Agosto,Com. Leves,Total,49,NISSAN/FRONTIER,19
+2026,8,Agosto,Autos,Total,50,GAC/AION UT,979
+2026,8,Agosto,Com. Leves,Total,50,FEVER/ORCA,18
+2026,8,Agosto,Autos,Direta,1,VW/POLO,6933
+2026,8,Agosto,Com. Leves,Direta,1,FIAT/STRADA,8775
+2026,8,Agosto,Autos,Direta,2,FIAT/ARGO,6721
+2026,8,Agosto,Com. Leves,Direta,2,VW/SAVEIRO,5119
+2026,8,Agosto,Autos,Direta,3,VW/TERA,5778
+2026,8,Agosto,Com. Leves,Direta,3,FIAT/TORO,2619
+2026,8,Agosto,Autos,Direta,4,FIAT/MOBI,5509
+2026,8,Agosto,Com. Leves,Direta,4,GM/S10,2007
+2026,8,Agosto,Autos,Direta,5,HYUNDAI/HB20,4131
+2026,8,Agosto,Com. Leves,Direta,5,TOYOTA/HILUX,1920
+2026,8,Agosto,Autos,Direta,6,VW/T CROSS,4105
+2026,8,Agosto,Com. Leves,Direta,6,RAM/RAMPAGE,1814
+2026,8,Agosto,Autos,Direta,7,GM/ONIX,4080
+2026,8,Agosto,Com. Leves,Direta,7,FIAT/FIORINO,1666
+2026,8,Agosto,Autos,Direta,8,GM/ONIX PLUS,3773
+2026,8,Agosto,Com. Leves,Direta,8,GM/MONTANA,1103
+2026,8,Agosto,Autos,Direta,9,HYUNDAI/CRETA,3591
+2026,8,Agosto,Com. Leves,Direta,9,FORD/RANGER,983
+2026,8,Agosto,Autos,Direta,10,FIAT/PULSE,2972
+2026,8,Agosto,Com. Leves,Direta,10,RENAULT/MASTER,903
+2026,8,Agosto,Autos,Direta,11,RENAULT/KWID,2661
+2026,8,Agosto,Com. Leves,Direta,11,RENAULT/OROCH,584
+2026,8,Agosto,Autos,Direta,12,BYD/SONG,2603
+2026,8,Agosto,Com. Leves,Direta,12,VW/AMAROK,479
+2026,8,Agosto,Autos,Direta,13,BYD/DOLPHIN MINI,2479
+2026,8,Agosto,Com. Leves,Direta,13,VW TRUCK E BUS/EXPRESS,461
+2026,8,Agosto,Autos,Direta,14,VW/VIRTUS,2447
+2026,8,Agosto,Com. Leves,Direta,14,FIAT/DUCATO,302
+2026,8,Agosto,Autos,Direta,15,FIAT/FASTBACK,2248
+2026,8,Agosto,Com. Leves,Direta,15,MITSUBISHI/TRITON,276
+2026,8,Agosto,Autos,Direta,16,JEEP/COMPASS,2142
+2026,8,Agosto,Com. Leves,Direta,16,IVECO/DAILY,227
+2026,8,Agosto,Autos,Direta,17,FIAT/CRONOS,1688
+2026,8,Agosto,Com. Leves,Direta,17,RAM/DAKOTA,188
+2026,8,Agosto,Autos,Direta,18,NISSAN/KAIT,1636
+2026,8,Agosto,Com. Leves,Direta,18,PEUGEOT/EXPERT,181
+2026,8,Agosto,Autos,Direta,19,HYUNDAI/I20,1633
+2026,8,Agosto,Com. Leves,Direta,19,FORD/TRANSIT,180
+2026,8,Agosto,Autos,Direta,20,JEEP/RENEGADE,1624
+2026,8,Agosto,Com. Leves,Direta,20,RAM/3500,179
+2026,8,Agosto,Autos,Direta,21,NISSAN/KICKS,1563
+2026,8,Agosto,Com. Leves,Direta,21,RENAULT/KANGOO,170
+2026,8,Agosto,Autos,Direta,22,HONDA/HR-V,1468
+2026,8,Agosto,Com. Leves,Direta,22,FIAT/TITANO,155
+2026,8,Agosto,Autos,Direta,23,HONDA/WR-V,1458
+2026,8,Agosto,Com. Leves,Direta,23,IVECO/DAILY 30-130,153
+2026,8,Agosto,Autos,Direta,24,GM/TRACKER,1249
+2026,8,Agosto,Com. Leves,Direta,24,RAM/2500,149
+2026,8,Agosto,Autos,Direta,25,GWM/HAVAL H6,1167
+2026,8,Agosto,Com. Leves,Direta,25,CITROEN/JUMPY,137
+2026,8,Agosto,Autos,Direta,26,GM/SPIN,1126
+2026,8,Agosto,Com. Leves,Direta,26,TOYOTA/HIACE,122
+2026,8,Agosto,Autos,Direta,27,TOYOTA/YARIS CROSS,1089
+2026,8,Agosto,Com. Leves,Direta,27,RAM/1500,73
+2026,8,Agosto,Autos,Direta,28,GM/SONIC,852
+2026,8,Agosto,Com. Leves,Direta,28,FORD/MAVERICK,51
+2026,8,Agosto,Autos,Direta,29,HONDA/CITY,782
+2026,8,Agosto,Com. Leves,Direta,29,RENAULT/KWID,46
+2026,8,Agosto,Autos,Direta,30,BYD/DOLPHIN,776
+2026,8,Agosto,Com. Leves,Direta,30,FIAT/SCUDO,43
+2026,8,Agosto,Autos,Direta,31,JEEP/COMMANDER,766
+2026,8,Agosto,Com. Leves,Direta,31,GM/SILVERADO,29
+2026,8,Agosto,Autos,Direta,32,CITROEN/C3,740
+2026,8,Agosto,Com. Leves,Direta,32,CITROEN/JUMPER,19
+2026,8,Agosto,Autos,Direta,33,TOYOTA/COROLLA CROSS,726
+2026,8,Agosto,Com. Leves,Direta,33,GWM/POER,16
+2026,8,Agosto,Autos,Direta,34,HYUNDAI/HB20S,717
+2026,8,Agosto,Com. Leves,Direta,34,NISSAN/FRONTIER,14
+2026,8,Agosto,Autos,Direta,35,HONDA/CITY HATCH,630
+2026,8,Agosto,Com. Leves,Direta,35,KIA/K2500,12
+2026,8,Agosto,Autos,Direta,36,RENAULT/DUSTER,628
+2026,8,Agosto,Com. Leves,Direta,36,BYD/SHARK,12
+2026,8,Agosto,Autos,Direta,37,CITROEN/BASALT,605
+2026,8,Agosto,Com. Leves,Direta,37,FORD/F150,10
+2026,8,Agosto,Autos,Direta,38,BYD/KING,543
+2026,8,Agosto,Com. Leves,Direta,38,PEUGEOT/BOXER,7
+2026,8,Agosto,Autos,Direta,39,RENAULT/KARDIAN,491
+2026,8,Agosto,Com. Leves,Direta,39,PEUGEOT/PARTNER,6
+2026,8,Agosto,Autos,Direta,40,FORD/TERRITORY,466
+2026,8,Agosto,Com. Leves,Direta,40,HYUNDAI/HR,3
+2026,8,Agosto,Autos,Direta,41,VW/TAOS,450
+2026,8,Agosto,Com. Leves,Direta,41,FORD/ETRANSIT,2
+2026,8,Agosto,Autos,Direta,42,PEUGEOT/2008,405
+2026,8,Agosto,Autos,Direta,43,VW/NIVUS,335
+2026,8,Agosto,Autos,Direta,44,GEELY/EX2,316
+2026,8,Agosto,Autos,Direta,45,NISSAN/VERSA,314
+2026,8,Agosto,Autos,Direta,46,JEEP/AVENGER,299
+2026,8,Agosto,Autos,Direta,47,PEUGEOT/208,280
+2026,8,Agosto,Autos,Direta,48,LEAPMOTOR/C10,260
+2026,8,Agosto,Autos,Direta,49,GM/TRAILBLAZER,230
+2026,8,Agosto,Autos,Direta,50,TOYOTA/COROLLA,218
+2026,8,Agosto,Autos,Varejo,1,BYD/DOLPHIN,5964
+2026,8,Agosto,Com. Leves,Varejo,1,FIAT/STRADA,5023
+2026,8,Agosto,Autos,Varejo,2,BYD/DOLPHIN MINI,5820
+2026,8,Agosto,Com. Leves,Varejo,2,FIAT/TORO,3088
+2026,8,Agosto,Autos,Varejo,3,GEELY/EX2,5488
+2026,8,Agosto,Com. Leves,Varejo,3,FORD/RANGER,2147
+2026,8,Agosto,Autos,Varejo,4,GWM/HAVAL H6,5266
+2026,8,Agosto,Com. Leves,Varejo,4,TOYOTA/HILUX,1551
+2026,8,Agosto,Autos,Varejo,5,VW/TERA,4560
+2026,8,Agosto,Com. Leves,Varejo,5,MITSUBISHI/TRITON,949
+2026,8,Agosto,Autos,Varejo,6,BYD/SONG,4121
+2026,8,Agosto,Com. Leves,Varejo,6,GM/S10,752
+2026,8,Agosto,Autos,Varejo,7,GM/TRACKER,4077
+2026,8,Agosto,Com. Leves,Varejo,7,GWM/POER,605
+2026,8,Agosto,Autos,Varejo,8,HYUNDAI/CRETA,3763
+2026,8,Agosto,Com. Leves,Varejo,8,RAM/RAMPAGE,489
+2026,8,Agosto,Autos,Varejo,9,GM/ONIX,3555
+2026,8,Agosto,Com. Leves,Varejo,9,GM/MONTANA,484
+2026,8,Agosto,Autos,Varejo,10,VW/POLO,3539
+2026,8,Agosto,Com. Leves,Varejo,10,RAM/DAKOTA,446
+2026,8,Agosto,Autos,Varejo,11,OMODA JAECOO/OMODA 5,3344
+2026,8,Agosto,Com. Leves,Varejo,11,RENAULT/MASTER,364
+2026,8,Agosto,Autos,Varejo,12,TOYOTA/YARIS CROSS,3325
+2026,8,Agosto,Com. Leves,Varejo,12,KIA/K2500,338
+2026,8,Agosto,Autos,Varejo,13,CAOA CHERY/TIGGO 5X,3258
+2026,8,Agosto,Com. Leves,Varejo,13,EFFA/V21,335
+2026,8,Agosto,Autos,Varejo,14,VW/NIVUS,2924
+2026,8,Agosto,Com. Leves,Varejo,14,RENAULT/OROCH,266
+2026,8,Agosto,Autos,Varejo,15,FIAT/FASTBACK,2885
+2026,8,Agosto,Com. Leves,Varejo,15,FORD/MAVERICK,236
+2026,8,Agosto,Autos,Varejo,16,VW/T CROSS,2710
+2026,8,Agosto,Com. Leves,Varejo,16,FIAT/FIORINO,179
+2026,8,Agosto,Autos,Varejo,17,TOYOTA/COROLLA CROSS,2539
+2026,8,Agosto,Com. Leves,Varejo,17,VW/SAVEIRO,176
+2026,8,Agosto,Autos,Varejo,18,JEEP/COMPASS,2405
+2026,8,Agosto,Com. Leves,Varejo,18,M.BENZ/SPRINTER 417,130
+2026,8,Agosto,Autos,Varejo,19,OMODA JAECOO/JAECOO 7,2286
+2026,8,Agosto,Com. Leves,Varejo,19,VW TRUCK E BUS/EXPRESS,112
+2026,8,Agosto,Autos,Varejo,20,FIAT/ARGO,2090
+2026,8,Agosto,Com. Leves,Varejo,20,FOTON/AUMARK S 315,106
+2026,8,Agosto,Autos,Varejo,21,HONDA/WR-V,1987
+2026,8,Agosto,Com. Leves,Varejo,21,FIAT/TITANO,103
+2026,8,Agosto,Autos,Varejo,22,HONDA/HR-V,1811
+2026,8,Agosto,Com. Leves,Varejo,22,M.BENZ/SPRINTER 317,9
+2026,8,Agosto,Autos,Varejo,23,FIAT/PULSE,1803
+2026,8,Agosto,Com. Leves,Varejo,23,FORD/F150,86
+2026,8,Agosto,Autos,Varejo,24,GM/SONIC,1799
+2026,8,Agosto,Com. Leves,Varejo,24,FIAT/SCUDO,85
+2026,8,Agosto,Autos,Varejo,25,RENAULT/KWID,1696
+2026,8,Agosto,Com. Leves,Varejo,25,IVECO/DAILY 30-130,82
+2026,8,Agosto,Autos,Varejo,26,NISSAN/KAIT,1558
+2026,8,Agosto,Com. Leves,Varejo,26,PEUGEOT/EXPERT,54
+2026,8,Agosto,Autos,Varejo,27,JEEP/RENEGADE,1415
+2026,8,Agosto,Com. Leves,Varejo,27,RENAULT/KANGOO,53
+2026,8,Agosto,Autos,Varejo,28,HYUNDAI/I20,1409
+2026,8,Agosto,Com. Leves,Varejo,28,FOTON/TUNLAND,53
+2026,8,Agosto,Autos,Varejo,29,GEELY/EX5 EM-I,1309
+2026,8,Agosto,Com. Leves,Varejo,29,FIAT/DUCATO,52
+2026,8,Agosto,Autos,Varejo,30,CAOA CHERY/TIGGO 8,1283
+2026,8,Agosto,Com. Leves,Varejo,30,IVECO/DAILY,52
+2026,8,Agosto,Autos,Varejo,31,CAOA CHERY/TIGGO 7,1244
+2026,8,Agosto,Com. Leves,Varejo,31,EFFA/V22,46
+2026,8,Agosto,Autos,Varejo,32,HYUNDAI/HB20,1178
+2026,8,Agosto,Com. Leves,Varejo,32,CITROEN/JUMPY,43
+2026,8,Agosto,Autos,Varejo,33,GM/ONIX PLUS,1171
+2026,8,Agosto,Com. Leves,Varejo,33,JAC/HUNTER,35
+2026,8,Agosto,Autos,Varejo,34,NISSAN/KICKS,1113
+2026,8,Agosto,Com. Leves,Varejo,34,RENAULT/KWID,34
+2026,8,Agosto,Autos,Varejo,35,JETOUR/T2,1036
+2026,8,Agosto,Com. Leves,Varejo,35,HITECH E/NEW DELIVERY,29
+2026,8,Agosto,Autos,Varejo,36,TOYOTA/HILUX SW4,1021
+2026,8,Agosto,Com. Leves,Varejo,36,BYD/SHARK,28
+2026,8,Agosto,Autos,Varejo,37,GAC/AION UT,958
+2026,8,Agosto,Com. Leves,Varejo,37,PEUGEOT/BOXER,27
+2026,8,Agosto,Autos,Varejo,38,RENAULT/KARDIAN,923
+2026,8,Agosto,Com. Leves,Varejo,38,FORD/TRANSIT,24
+2026,8,Agosto,Autos,Varejo,39,CAOA CHANGAN/CS75,922
+2026,8,Agosto,Com. Leves,Varejo,39,SHINERAY/TLUX,23
+2026,8,Agosto,Autos,Varejo,40,GWM/HAVAL H9,920
+2026,8,Agosto,Com. Leves,Varejo,40,FOTON/EVIEW CONNECT,20
+2026,8,Agosto,Autos,Varejo,41,BYD/KING,890
+2026,8,Agosto,Com. Leves,Varejo,41,M.BENZ/ESPRINTER 320,19
+2026,8,Agosto,Autos,Varejo,42,VW/TAOS,845
+2026,8,Agosto,Com. Leves,Varejo,42,RAM/1500,18
+2026,8,Agosto,Autos,Varejo,43,GWM/ORA 05,836
+2026,8,Agosto,Com. Leves,Varejo,43,FEVER/ORCA,18
+2026,8,Agosto,Autos,Varejo,44,HONDA/CITY HATCH,817
+2026,8,Agosto,Com. Leves,Varejo,44,SHINERAY/DTRUCK,17
+2026,8,Agosto,Autos,Varejo,45,BYD/YUAN,742
+2026,8,Agosto,Com. Leves,Varejo,45,IVECO/DAILY 35-180,14
+2026,8,Agosto,Autos,Varejo,46,HONDA/CITY,697
+2026,8,Agosto,Com. Leves,Varejo,46,VW/AMAROK,13
+2026,8,Agosto,Autos,Varejo,47,CAOA CHANGAN/UNIT-T,645
+2026,8,Agosto,Com. Leves,Varejo,47,PEUGEOT/PARTNER,1
+2026,8,Agosto,Autos,Varejo,48,TOYOTA/COROLLA,637
+2026,8,Agosto,Com. Leves,Varejo,48,TOYOTA/HIACE,9
+2026,8,Agosto,Autos,Varejo,49,LEAPMOTOR/C10,631
+2026,8,Agosto,Com. Leves,Varejo,49,CITROEN/JUMPER,8
+2026,8,Agosto,Autos,Varejo,50,DENZA/B5,565
+2026,8,Agosto,Com. Leves,Varejo,50,RAM/3500,8

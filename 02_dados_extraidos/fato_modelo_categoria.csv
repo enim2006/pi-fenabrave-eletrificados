@@ -15255,3 +15255,296 @@ ano,mes_num,mes_nome,segmento,categoria,rank,modelo,quantidade_mes,participacao_
 2026,7,Julho,Motos,Sport,14,BMW/K 1600,2,1.23
 2026,7,Julho,Motos,Sport,15,HONDA/GOLDWING,4,1.23
 2026,7,Julho,Motos,Sport,16,BMW/R1250 RT,0,0.14
+2026,8,Agosto,Autos,Veículos de Entrada,1,FIAT/MOBI,5587,52.8
+2026,8,Agosto,Autos,Veículos de Entrada,2,RENAULT/KWID,4357,46.87
+2026,8,Agosto,Autos,Veículos de Entrada,3,RENAULT/E-KWID,1,0.28
+2026,8,Agosto,Autos,Veículos de Entrada,4,FIAT/UNO,0,0.01
+2026,8,Agosto,Autos,Veículos de Entrada,5,VW/GOL,0,0.01
+2026,8,Agosto,Autos,Veículos de Entrada,6,FORD/KA,1,0
+2026,8,Agosto,Autos,Veículos de Entrada,7,CAOA CHERY/QQ,0,0
+2026,8,Agosto,Autos,Veículos de Entrada,8,GM/CELTA,0,0
+2026,8,Agosto,Autos,Veículos de Entrada,9,GM/CHEVETTE,0,0
+2026,8,Agosto,Autos,Veículos de Entrada,10,VW/POLO,10472,19.12
+2026,8,Agosto,Autos,Veículos de Entrada,11,FIAT/ARGO,8811,16.19
+2026,8,Agosto,Autos,Veículos de Entrada,12,GM/ONIX,7635,15.84
+2026,8,Agosto,Autos,Veículos de Entrada,13,BYD/DOLPHIN MINI,8299,13.07
+2026,8,Agosto,Autos,Veículos de Entrada,14,HYUNDAI/HB20,5309,12.06
+2026,8,Agosto,Autos,Veículos de Entrada,15,BYD/DOLPHIN,6740,7.98
+2026,8,Agosto,Autos,Veículos de Entrada,16,GEELY/EX2,5804,6.76
+2026,8,Agosto,Autos,Veículos de Entrada,17,CITROEN/C3,981,2.28
+2026,8,Agosto,Autos,Veículos de Entrada,18,HONDA/CITY HATCH,1447,2.18
+2026,8,Agosto,Autos,Veículos de Entrada,19,HYUNDAI/I20,3042,1.63
+2026,8,Agosto,Autos,Veículos de Entrada,20,PEUGEOT/208,332,0.93
+2026,8,Agosto,Autos,Veículos de Entrada,21,GAC/AION UT,979,0.7
+2026,8,Agosto,Autos,Veículos de Entrada,22,VW/GOLF,12,47.68
+2026,8,Agosto,Autos,Veículos de Entrada,23,AUDI/A3,9,17.24
+2026,8,Agosto,Autos,Veículos de Entrada,24,TOYOTA/GR YARIS,1,15.44
+2026,8,Agosto,Autos,Veículos de Entrada,25,BMW/M135I,10,14.69
+2026,8,Agosto,Autos,Veículos de Entrada,26,HONDA/CIVIC TYPE-R,0,1.65
+2026,8,Agosto,Autos,Veículos de Entrada,27,M.BENZ/A45 AMG,1,1.2
+2026,8,Agosto,Autos,Sedans Pequenos,1,HYUNDAI/HB20S,1216,58.43
+2026,8,Agosto,Autos,Sedans Pequenos,2,FIAT/CRONOS,2066,41.53
+2026,8,Agosto,Autos,Sedans Pequenos,3,FORD/KA SEDAN,0,0.01
+2026,8,Agosto,Autos,Sedans Pequenos,4,GM/PRISMA,1,0.01
+2026,8,Agosto,Autos,Sedans Pequenos,5,FIAT/SIENA,0,0
+2026,8,Agosto,Autos,Sedans Pequenos,6,FORD/FIESTA SEDAN,0,0
+2026,8,Agosto,Autos,Sedans Pequenos,7,GM/CLASSIC,1,0
+2026,8,Agosto,Autos,Sedans Pequenos,8,NISSAN/VERSA,0,0
+2026,8,Agosto,Autos,Sedans Pequenos,9,RENAULT/LOGAN,0,0
+2026,8,Agosto,Autos,Sedans Pequenos,10,TOYOTA/ETIOS SEDAN,0,0
+2026,8,Agosto,Autos,Sedans Pequenos,11,GM/ONIX PLUS,4944,43.56
+2026,8,Agosto,Autos,Sedans Pequenos,12,VW/VIRTUS,2864,33.55
+2026,8,Agosto,Autos,Sedans Pequenos,13,HONDA/CITY,1479,15.67
+2026,8,Agosto,Autos,Sedans Pequenos,14,NISSAN/VERSA,533,7.2
+2026,8,Agosto,Autos,Sedans Pequenos,15,TOYOTA/YARIS SEDAN,1,0.01
+2026,8,Agosto,Autos,Sedans Pequenos,16,GM/MONZA,0,0
+2026,8,Agosto,Autos,Sedans médios,1,TOYOTA/COROLLA,855,50.45
+2026,8,Agosto,Autos,Sedans médios,2,BYD/KING,1433,36.47
+2026,8,Agosto,Autos,Sedans médios,3,VW/JETTA,216,3.96
+2026,8,Agosto,Autos,Sedans médios,4,BYD/SEAL,70,2.84
+2026,8,Agosto,Autos,Sedans médios,5,AUDI/A5,60,1.71
+2026,8,Agosto,Autos,Sedans médios,6,NISSAN/SENTRA,5,1.17
+2026,8,Agosto,Autos,Sedans médios,7,GAC/AION ES,105,0.89
+2026,8,Agosto,Autos,Sedans médios,8,AUDI/A3 SEDAN,12,0.46
+2026,8,Agosto,Autos,Sedans médios,9,BMW/M235I,8,0.41
+2026,8,Agosto,Autos,Sedans médios,10,AUDI/RS3,13,0.33
+2026,8,Agosto,Autos,Sedans médios,11,BMW/420I,14,0.28
+2026,8,Agosto,Autos,Sedans médios,12,CAOA CHERY/ARRIZO 6,2,0.24
+2026,8,Agosto,Autos,Sedans médios,13,BMW/220,2,0.2
+2026,8,Agosto,Autos,Sedans médios,14,M.BENZ/CLA200,1,0.19
+2026,8,Agosto,Autos,Sedans médios,15,HONDA/CIVIC,21,0.18
+2026,8,Agosto,Autos,Sedans médios,16,M.BENZ/CLA45,5,0.1
+2026,8,Agosto,Autos,Sedans médios,17,M.BENZ/CLA35,0,0.06
+2026,8,Agosto,Autos,Sedans médios,18,M.BENZ/AMG C63S,2,0.02
+2026,8,Agosto,Autos,Sedans médios,19,GM/CRUZE SEDAN,0,0.02
+2026,8,Agosto,Autos,Sedans médios,20,ALFA ROMEO/MONTREAL,0,0
+2026,8,Agosto,Autos,Sedans médios,21,FORD/DEL REY,0,0
+2026,8,Agosto,Autos,Sedans médios,22,BMW/320I,226,60.9
+2026,8,Agosto,Autos,Sedans médios,23,M.BENZ/CLASSE C,63,20.16
+2026,8,Agosto,Autos,Sedans médios,24,PORSCHE/PANAMERA,12,4.69
+2026,8,Agosto,Autos,Sedans médios,25,BMW/330E,37,4.07
+2026,8,Agosto,Autos,Sedans médios,26,M.BENZ/CLASSE E,1,2.62
+2026,8,Agosto,Autos,Sedans médios,27,BMW/530E,2,1.05
+2026,8,Agosto,Autos,Sedans médios,28,M.BENZ/AMG GT63S,5,1.02
+2026,8,Agosto,Autos,Sedans médios,29,BMW/I4,3,0.85
+2026,8,Agosto,Autos,Sedans médios,30,ZEEKR/001,1,0.77
+2026,8,Agosto,Autos,Sedans médios,31,HONDA/ACCORD,1,0.68
+2026,8,Agosto,Autos,Sedans médios,32,BMW/I7,0,0.65
+2026,8,Agosto,Autos,Sedans médios,33,M.BENZ/S63,0,0.37
+2026,8,Agosto,Autos,Sw Médios,1,FIAT/PALIO WEEKEND,0,37.5
+2026,8,Agosto,Autos,Sw Médios,2,VW/PARATI,0,25.0
+2026,8,Agosto,Autos,Sw Médios,3,FIAT/WEEKEND,0,12.5
+2026,8,Agosto,Autos,Sw Médios,4,FORD/BELINA,0,12.5
+2026,8,Agosto,Autos,Sw Médios,5,AUDI/RS6 AVANT,0,93.55
+2026,8,Agosto,Autos,Sw Médios,6,BMW/ALPINA,0,3.23
+2026,8,Agosto,Autos,Sw Médios,7,GM/CARAVAN,0,3.23
+2026,8,Agosto,Autos,Sw Médios,8,HONDA/FIT,1,44.44
+2026,8,Agosto,Autos,Sw Médios,9,FIAT/DOBLO,0,33.33
+2026,8,Agosto,Autos,Sw Médios,10,FIAT/IDEA,0,11.11
+2026,8,Agosto,Autos,Sw Médios,11,GM/BOLT,1,11.11
+2026,8,Agosto,Autos,Grandcab,1,GM/SPIN,1636,98.52
+2026,8,Agosto,Autos,Grandcab,2,KIA/CARNIVAL,20,1.25
+2026,8,Agosto,Autos,Grandcab,3,VW/ID.BUZZ,0,0.15
+2026,8,Agosto,Autos,Grandcab,4,TOYOTA/SIENNA,0,0.03
+2026,8,Agosto,Autos,Grandcab,5,PORSCHE/911,42,38.79
+2026,8,Agosto,Autos,Grandcab,6,FORD/MUSTANG,35,13.94
+2026,8,Agosto,Autos,Grandcab,7,GM/CORVETTE,26,8.38
+2026,8,Agosto,Autos,Grandcab,8,BMW/M2,20,8.28
+2026,8,Agosto,Autos,Grandcab,9,BMW/M3,6,6.77
+2026,8,Agosto,Autos,Grandcab,10,PORSCHE/BOXSTER,14,4.73
+2026,8,Agosto,Autos,Grandcab,11,MG/CYBERSTER,15,4.29
+2026,8,Agosto,Autos,Grandcab,12,DODGE/CHALLENGER,8,2.88
+2026,8,Agosto,Autos,Grandcab,13,PORSCHE/CAYMAN,6,2.49
+2026,8,Agosto,Autos,Suv's,1,VW/T CROSS,6815,7.05
+2026,8,Agosto,Autos,Suv's,2,VW/TERA,10338,7.05
+2026,8,Agosto,Autos,Suv's,3,HYUNDAI/CRETA,7354,5.59
+2026,8,Agosto,Autos,Suv's,4,BYD/SONG,6724,5.13
+2026,8,Agosto,Autos,Suv's,5,GM/TRACKER,5326,4.57
+2026,8,Agosto,Autos,Suv's,6,JEEP/COMPASS,4547,4.15
+2026,8,Agosto,Autos,Suv's,7,VW/NIVUS,3259,4.04
+2026,8,Agosto,Autos,Suv's,8,FIAT/PULSE,4775,3.98
+2026,8,Agosto,Autos,Suv's,9,FIAT/FASTBACK,5133,3.97
+2026,8,Agosto,Autos,Suv's,10,GWM/HAVAL H6,6433,3.67
+2026,8,Agosto,Autos,Suv's,11,HONDA/HR-V,3279,3.37
+2026,8,Agosto,Autos,Suv's,12,JEEP/RENEGADE,3039,3.08
+2026,8,Agosto,Autos,Suv's,13,TOYOTA/COROLLA CROSS,3265,2.91
+2026,8,Agosto,Autos,Suv's,14,TOYOTA/YARIS CROSS,4414,2.85
+2026,8,Agosto,Autos,Suv's,15,HONDA/WR-V,3445,2.75
+2026,8,Agosto,Autos,Suv's,16,CAOA CHERY/TIGGO 5X,3398,2.62
+2026,8,Agosto,Autos,Suv's,17,NISSAN/KICKS,2676,2.56
+2026,8,Agosto,Autos,Suv's,18,NISSAN/KAIT,3194,2.42
+2026,8,Agosto,Autos,Suv's,19,CAOA CHERY/TIGGO 7,1324,2.04
+2026,8,Agosto,Autos,Suv's,20,OMODA JAECOO/OMODA 5,3344,1.72
+2026,8,Agosto,Autos,Suv's,21,OMODA JAECOO/JAECOO 7,2287,1.34
+2026,8,Agosto,Autos,Suv's,22,GM/SONIC,2651,1.24
+2026,8,Agosto,Autos,Suv's,23,JEEP/COMMANDER,1091,1.21
+2026,8,Agosto,Autos,Suv's,24,VW/TAOS,1295,1.16
+2026,8,Agosto,Autos,Suv's,25,RENAULT/KARDIAN,1414,1.14
+2026,8,Agosto,Autos,Suv's,26,RENAULT/DUSTER,1165,1.07
+2026,8,Agosto,Autos,Suv's,27,CAOA CHERY/TIGGO 8,1290,1.06
+2026,8,Agosto,Autos,Suv's,28,CITROEN/BASALT,785,1.05
+2026,8,Agosto,Autos,Suv's,29,TOYOTA/HILUX SW4,1064,1.0
+2026,8,Agosto,Autos,Suv's,30,GWM/HAVAL H9,974,0.92
+2026,8,Agosto,Autos,Suv's,31,RENAULT/BOREAL,624,0.87
+2026,8,Agosto,Autos,Suv's,32,FORD/TERRITORY,775,0.73
+2026,8,Agosto,Autos,Suv's,33,PEUGEOT/2008,475,0.59
+2026,8,Agosto,Autos,Suv's,34,MITSUBISHI/ECLIPSE CROSS,593,0.57
+2026,8,Agosto,Autos,Suv's,35,BYD/YUAN,793,0.55
+2026,8,Agosto,Autos,Suv's,36,LEAPMOTOR/C10,891,0.55
+2026,8,Agosto,Autos,Suv's,37,GEELY/EX5 EM-I,1346,0.52
+2026,8,Agosto,Autos,Suv's,38,GM/SPARK,266,0.51
+2026,8,Agosto,Autos,Suv's,39,CAOA CHANGAN/UNIT-T,646,0.47
+2026,8,Agosto,Autos,Suv's,40,GWM/TANK 300,262,0.4
+2026,8,Agosto,Com. Leves,Pick-up's Pequenas,1,FIAT/STRADA,13798,76.73
+2026,8,Agosto,Com. Leves,Pick-up's Pequenas,2,VW/SAVEIRO,5295,23.27
+2026,8,Agosto,Com. Leves,Pick-up's Pequenas,3,GM/MONTANA,1,0.01
+2026,8,Agosto,Com. Leves,Pick-up's Pequenas,4,FORD/RANCHERO,0,0
+2026,8,Agosto,Com. Leves,Pick-up's Pequenas,5,GM/CHEVY,0,0
+2026,8,Agosto,Com. Leves,Pick-up's Pequenas,6,FIAT/TORO,5707,21.06
+2026,8,Agosto,Com. Leves,Pick-up's Pequenas,7,TOYOTA/HILUX,3471,17.01
+2026,8,Agosto,Com. Leves,Pick-up's Pequenas,8,FORD/RANGER,3130,13.23
+2026,8,Agosto,Com. Leves,Pick-up's Pequenas,9,GM/S10,2759,11.45
+2026,8,Agosto,Com. Leves,Pick-up's Pequenas,10,RAM/RAMPAGE,2303,9.38
+2026,8,Agosto,Com. Leves,Pick-up's Pequenas,11,GM/MONTANA,1586,6.64
+2026,8,Agosto,Com. Leves,Pick-up's Pequenas,12,MITSUBISHI/TRITON,1225,4.77
+2026,8,Agosto,Com. Leves,Pick-up's Pequenas,13,RENAULT/OROCH,850,4.11
+2026,8,Agosto,Com. Leves,Pick-up's Pequenas,14,GWM/POER,621,2.56
+2026,8,Agosto,Com. Leves,Pick-up's Pequenas,15,FIAT/TITANO,258,1.96
+2026,8,Agosto,Com. Leves,Pick-up's Pequenas,16,RAM/DAKOTA,634,1.8
+2026,8,Agosto,Com. Leves,Pick-up's Pequenas,17,RENAULT/MASTER,1267,24.26
+2026,8,Agosto,Com. Leves,Pick-up's Pequenas,18,FIAT/DUCATO,354,8.39
+2026,8,Agosto,Com. Leves,Pick-up's Pequenas,19,KIA/K2500,350,8.21
+2026,8,Agosto,Com. Leves,Pick-up's Pequenas,20,VW TRUCK E BUS/EXPRESS,573,6.97
+2026,8,Agosto,Com. Leves,Pick-up's Pequenas,21,EFFA/V21,335,6.13
+2026,8,Agosto,Com. Leves,Pick-up's Pequenas,22,FIAT/SCUDO,128,5.66
+2026,8,Agosto,Com. Leves,Pick-up's Pequenas,23,IVECO/DAILY,279,5.46
+2026,8,Agosto,Com. Leves,Furgões Pequenos,1,FIAT/FIORINO,1845,86.56
+2026,8,Agosto,Com. Leves,Furgões Pequenos,2,RENAULT/KANGOO,223,11.32
+2026,8,Agosto,Com. Leves,Furgões Pequenos,3,PEUGEOT/PARTNER,17,1.6
+2026,8,Agosto,Com. Leves,Furgões Pequenos,4,RENAULT/KWID,80,0.48
+2026,8,Agosto,Caminhões,Semi-Leve,1,M.BENZ/SPRINTER 417,95,40.73
+2026,8,Agosto,Caminhões,Semi-Leve,2,M.BENZ/SPRINTER 517,102,38.0
+2026,8,Agosto,Caminhões,Semi-Leve,3,IVECO/DAILY 45-170,20,8.37
+2026,8,Agosto,Caminhões,Semi-Leve,4,IVECO/DAILY 55C17,14,6.1
+2026,8,Agosto,Caminhões,Semi-Leve,5,IVECO/DAILY 45-180,5,1.57
+2026,8,Agosto,Caminhões,Semi-Leve,6,IVECO/DAILY 30-160,2,1.05
+2026,8,Agosto,Caminhões,Semi-Leve,7,IVECO/DAILY 55-180,1,0.81
+2026,8,Agosto,Caminhões,Semi-Leve,8,AGRALE/MARRUA,1,0.64
+2026,8,Agosto,Caminhões,Semi-Leve,9,IVECO/DAILY 55-170,0,0.64
+2026,8,Agosto,Caminhões,Semi-Leve,10,IVECO/DAILY,1,0.58
+2026,8,Agosto,Caminhões,Semi-Leve,11,VW TRUCK E BUS/9.180,111,28.36
+2026,8,Agosto,Caminhões,Semi-Leve,12,M.BENZ/ACCELO 817,174,24.81
+2026,8,Agosto,Caminhões,Semi-Leve,13,M.BENZ/ACCELO 917,9,15.92
+2026,8,Agosto,Caminhões,Semi-Leve,14,IVECO/TECTOR 9-190,42,7.55
+2026,8,Agosto,Caminhões,Semi-Leve,15,FOTON/AUMARK S 715,32,5.15
+2026,8,Agosto,Caminhões,Semi-Leve,16,M.BENZ/ACCELO 1017,12,3.74
+2026,8,Agosto,Caminhões,Semi-Leve,17,IVECO/DAILY 65-170,18,2.67
+2026,8,Agosto,Caminhões,Semi-Leve,18,FOTON/AUMARK S 916,1,2.06
+2026,8,Agosto,Caminhões,Semi-Leve,19,VW TRUCK E BUS/6.170,13,1.93
+2026,8,Agosto,Caminhões,Semi-Leve,20,JAC/EJT9.5,0,1.31
+2026,8,Agosto,Caminhões,Semi-Leve,21,VW TRUCK E BUS/11.180,540,44.88
+2026,8,Agosto,Caminhões,Semi-Leve,22,M.BENZ/ACCELO 1117,362,27.11
+2026,8,Agosto,Caminhões,Semi-Leve,23,IVECO/TECTOR 11-190,107,6.28
+2026,8,Agosto,Caminhões,Semi-Leve,24,FOTON/AUMARK S 1217A,85,4.74
+2026,8,Agosto,Caminhões,Semi-Leve,25,VW TRUCK E BUS/14.180,67,4.18
+2026,8,Agosto,Caminhões,Semi-Leve,26,M.BENZ/ATEGO 1419,45,4.03
+2026,8,Agosto,Caminhões,Semi-Leve,27,M.BENZ/ACCELO 1417,36,2.53
+2026,8,Agosto,Caminhões,Semi-Leve,28,VW TRUCK E BUS/13.180,5,2.31
+2026,8,Agosto,Caminhões,Semi-Leve,29,VW TRUCK E BUS/14.210,28,1.15
+2026,8,Agosto,Caminhões,Semi-Leve,30,M.BENZ/ACCELO 1317,0,0.91
+2026,8,Agosto,Caminhões,Semi-Pesado,1,VOLVO/VM 290,306,9.71
+2026,8,Agosto,Caminhões,Semi-Pesado,2,M.BENZ/ATEGO 2429,405,9.58
+2026,8,Agosto,Caminhões,Semi-Pesado,3,VW TRUCK E BUS/26.260,261,9.45
+2026,8,Agosto,Caminhões,Semi-Pesado,4,VW TRUCK E BUS/17.210,306,8.83
+2026,8,Agosto,Caminhões,Semi-Pesado,5,M.BENZ/ATEGO 1719,254,8.06
+2026,8,Agosto,Caminhões,Semi-Pesado,6,M.BENZ/ATEGO 3033,143,4.69
+2026,8,Agosto,Caminhões,Semi-Pesado,7,VW TRUCK E BUS/18.260,9,4.54
+2026,8,Agosto,Caminhões,Semi-Pesado,8,VW TRUCK E BUS/26.320,141,4.45
+2026,8,Agosto,Caminhões,Semi-Pesado,9,VW TRUCK E BUS/31.320,149,4.44
+2026,8,Agosto,Caminhões,Semi-Pesado,10,VW TRUCK E BUS/30.320,113,3.74
+2026,8,Agosto,Caminhões,Semi-Pesado,11,VOLVO/FH 540,582,12.21
+2026,8,Agosto,Caminhões,Semi-Pesado,12,VOLVO/FH 500,467,7.48
+2026,8,Agosto,Caminhões,Semi-Pesado,13,DAF/XF 530,230,6.74
+2026,8,Agosto,Caminhões,Semi-Pesado,14,VOLVO/VM 360,271,5.95
+2026,8,Agosto,Caminhões,Semi-Pesado,15,SCANIA/R 460,259,4.74
+2026,8,Agosto,Caminhões,Semi-Pesado,16,SCANIA/R560,297,4.45
+2026,8,Agosto,Caminhões,Semi-Pesado,17,M.BENZ/AXOR 2545S,146,4.24
+2026,8,Agosto,Caminhões,Semi-Pesado,18,DAF/XF 480,153,4.15
+2026,8,Agosto,Caminhões,Semi-Pesado,19,VOLVO/FH 460,162,4.09
+2026,8,Agosto,Caminhões,Semi-Pesado,20,VW TRUCK E BUS/28.480,110,3.48
+2026,8,Agosto,Motos,City,1,HONDA/CG 160,48053,57.03
+2026,8,Agosto,Motos,City,2,MOTTU/SPORT 110I,11983,12.66
+2026,8,Agosto,Motos,City,3,YAMAHA/YBR 150,6992,8.35
+2026,8,Agosto,Motos,City,4,HONDA/CB 300F,3222,6.64
+2026,8,Agosto,Motos,City,5,YAMAHA/FAZER 250,3608,4.64
+2026,8,Agosto,Motos,City,6,YAMAHA/FAZER 150,4295,4.46
+2026,8,Agosto,Motos,City,7,SHINERAY/SHI 150,753,1.61
+2026,8,Agosto,Motos,City,8,HAOJUE/DK160,894,1.3
+2026,8,Agosto,Motos,City,9,BAJAJ/PULSAR N150,1127,1.02
+2026,8,Agosto,Motos,City,10,SHINERAY/XY 150,425,0.63
+2026,8,Agosto,Motos,City,11,ROYAL ENFIELD/HUNTER 350,781,25.51
+2026,8,Agosto,Motos,City,12,ROYAL ENFIELD/SUPER METEOR 650,464,16.62
+2026,8,Agosto,Motos,City,13,ROYAL ENFIELD/METEOR,479,15.9
+2026,8,Agosto,Motos,City,14,TRIUMPH/SCRAMBLER 400,294,10.44
+2026,8,Agosto,Motos,City,15,ROYAL ENFIELD/CLASSIC 350,158,6.0
+2026,8,Agosto,Motos,City,16,ROYAL ENFIELD/SHOTGUN 650,104,4.82
+2026,8,Agosto,Motos,City,17,ROYAL ENFIELD/BEAR 650,72,3.11
+2026,8,Agosto,Motos,City,18,ROYAL ENFIELD/CLASSIC 650,83,2.28
+2026,8,Agosto,Motos,City,19,KAWASAKI/ELIMINATOR 500,45,2.14
+2026,8,Agosto,Motos,City,20,KAWASAKI/VULCAN S,37,1.53
+2026,8,Agosto,Motos,City,21,HONDA/NXR160,16270,43.17
+2026,8,Agosto,Motos,City,22,HONDA/XRE 190,4374,11.75
+2026,8,Agosto,Motos,City,23,YAMAHA/XTZ 250,3614,9.33
+2026,8,Agosto,Motos,City,24,HONDA/XRE 300,3593,9.18
+2026,8,Agosto,Motos,City,25,SHINERAY/SHI 175,2461,6.78
+2026,8,Agosto,Motos,City,26,YAMAHA/CROSSER 150,3483,6.47
+2026,8,Agosto,Motos,City,27,HONDA/XR 300L,964,3.23
+2026,8,Agosto,Motos,City,28,AVELLOZ/AZ160,1318,2.92
+2026,8,Agosto,Motos,City,29,SHINERAY/SHI 250,1045,2.2
+2026,8,Agosto,Motos,City,30,HAOJUE/DL 160,321,0.82
+2026,8,Agosto,Motos,Maxtrail,1,ROYAL ENFIELD/HIMALAYAN,753,17.54
+2026,8,Agosto,Motos,Maxtrail,2,HONDA/NX 500,561,14.86
+2026,8,Agosto,Motos,Maxtrail,3,BMW/R1300GSA,306,7.88
+2026,8,Agosto,Motos,Maxtrail,4,HONDA/NC 750X,251,6.94
+2026,8,Agosto,Motos,Maxtrail,5,TRIUMPH/TIGER 900,245,6.72
+2026,8,Agosto,Motos,Maxtrail,6,YAMAHA/XTZ 690,124,4.7
+2026,8,Agosto,Motos,Maxtrail,7,BMW/R1300GS,130,4.29
+2026,8,Agosto,Motos,Maxtrail,8,HONDA/CRF 1100L,172,4.1
+2026,8,Agosto,Motos,Maxtrail,9,BMW/F900 GS,141,3.86
+2026,8,Agosto,Motos,Maxtrail,10,CFMOTO/IBEX 450,368,3.81
+2026,8,Agosto,Motos,Maxtrail,11,YAMAHA/MT03,767,14.99
+2026,8,Agosto,Motos,Maxtrail,12,BAJAJ/DOMINAR D400,818,14.12
+2026,8,Agosto,Motos,Maxtrail,13,BAJAJ/NS400 Z,554,9.56
+2026,8,Agosto,Motos,Maxtrail,14,BAJAJ/DOMINAR NS160,458,8.4
+2026,8,Agosto,Motos,Maxtrail,15,BAJAJ/DOMINAR NS200,251,6.58
+2026,8,Agosto,Motos,Maxtrail,16,HONDA/CB 500,337,6.3
+2026,8,Agosto,Motos,Maxtrail,17,BAJAJ/DOMINAR D250,286,5.5
+2026,8,Agosto,Motos,Maxtrail,18,KAWASAKI/Z900,197,4.25
+2026,8,Agosto,Motos,Maxtrail,19,ROYAL ENFIELD/GUERRILLA 450,205,4.05
+2026,8,Agosto,Motos,Maxtrail,20,HONDA/CB 650R,221,3.54
+2026,8,Agosto,Motos,Maxtrail,21,HONDA/BIZ,21245,33.11
+2026,8,Agosto,Motos,Maxtrail,22,HONDA/POP 110I,23622,30.38
+2026,8,Agosto,Motos,Maxtrail,23,HONDA/PCX 160,4240,6.6
+2026,8,Agosto,Motos,Maxtrail,24,SHINERAY/SHI 125,3591,5.02
+2026,8,Agosto,Motos,Maxtrail,25,HONDA/ELITE 125,2270,3.94
+2026,8,Agosto,Motos,Maxtrail,26,HONDA/ADV 160,1692,2.51
+2026,8,Agosto,Motos,Maxtrail,27,YAMAHA/NMAX,1502,2.47
+2026,8,Agosto,Motos,Maxtrail,28,YAMAHA/AEROX 160,1233,2.05
+2026,8,Agosto,Motos,Maxtrail,29,AVELLOZ/AZ1,1155,1.83
+2026,8,Agosto,Motos,Maxtrail,30,SHINERAY/SHI 50,1161,1.57
+2026,8,Agosto,Motos,Sport,1,YAMAHA/YZF R15,1067,61.77
+2026,8,Agosto,Motos,Sport,2,YAMAHA/YZF R3,150,8.04
+2026,8,Agosto,Motos,Sport,3,KAWASAKI/NINJA 500,101,6.36
+2026,8,Agosto,Motos,Sport,4,KAWASAKI/NINJA ZX-6R,98,5.7
+2026,8,Agosto,Motos,Sport,5,KAWASAKI/NINJA 300,85,4.44
+2026,8,Agosto,Motos,Sport,6,BMW/S1000 R,8,4.41
+2026,8,Agosto,Motos,Sport,7,KAWASAKI/NINJA ZX-4R,109,4.27
+2026,8,Agosto,Motos,Sport,8,TRIUMPH/DAYTONA 660,16,1.43
+2026,8,Agosto,Motos,Sport,9,SUZUKI/GSX-8 R,13,0.97
+2026,8,Agosto,Motos,Sport,10,KAWASAKI/NINJA 650,9,0.66
+2026,8,Agosto,Motos,Sport,11,H.DAVIDSON/ROAD GLIDE,35,44.54
+2026,8,Agosto,Motos,Sport,12,BMW/R 1300 RT,30,33.01
+2026,8,Agosto,Motos,Sport,13,H.DAVIDSON/STREET GLIDE,19,18.81
+2026,8,Agosto,Motos,Sport,14,HONDA/GOLDWING,10,2.31
+2026,8,Agosto,Motos,Sport,15,BMW/K 1600,1,1.21
+2026,8,Agosto,Motos,Sport,16,BMW/R1250 RT,0,0.12
