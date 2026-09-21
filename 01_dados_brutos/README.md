@@ -1,8 +1,7 @@
 # Dados brutos (Fenabrave)
 
-Coloque aqui os PDFs originais baixados do site da Fenabrave (ex.: emplacamentos mensais, séries por marca/modelo/UF/categoria).
+Diretório dos PDFs originais do boletim mensal "Informativo - Emplacamentos", publicado pela Fenabrave.
 
-Sugestão de nome de arquivo: `fenabrave_<tipo>_<periodo>.pdf`
-Exemplo: `fenabrave_emplacamentos_2026-07.pdf`
+Padrão de nome: `AAAA_MM_02.pdf`, onde `AAAA` é o ano e `MM` o mês de referência dos dados (não o mês de publicação). Exemplo: dados de agosto/2026 → `2026_08_02.pdf`.
 
-Não edite os PDFs aqui — esta pasta é só para os arquivos originais, para manter rastreabilidade.
+Arquivos originais, sem edição — a rastreabilidade da fonte depende de manter os PDFs como publicados.
