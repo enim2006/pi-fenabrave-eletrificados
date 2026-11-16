@@ -472,3 +472,33 @@ ano,mes_num,mes_nome,segmento,tipo_eletrificacao,quantidade_mes
 2026,8,Agosto,Motos,Híbridos,2211
 2026,8,Agosto,Motos,Elétricos,1041
 2026,8,Agosto,Motos,Total Eletrificados,3252
+2026,9,Setembro,Autos,Híbridos,37988
+2026,9,Setembro,Autos,Elétricos,22056
+2026,9,Setembro,Autos,Total Eletrificados,60044
+2026,9,Setembro,Com. Leves,Híbridos,1783
+2026,9,Setembro,Com. Leves,Elétricos,168
+2026,9,Setembro,Com. Leves,Total Eletrificados,1951
+2026,9,Setembro,Caminhões,Híbridos,0
+2026,9,Setembro,Caminhões,Elétricos,15
+2026,9,Setembro,Caminhões,Total Eletrificados,15
+2026,9,Setembro,Ônibus,Híbridos,0
+2026,9,Setembro,Ônibus,Elétricos,101
+2026,9,Setembro,Ônibus,Total Eletrificados,101
+2026,9,Setembro,Motos,Híbridos,2279
+2026,9,Setembro,Motos,Elétricos,1209
+2026,9,Setembro,Motos,Total Eletrificados,3488
+2026,10,Outubro,Autos,Híbridos,38790
+2026,10,Outubro,Autos,Elétricos,21493
+2026,10,Outubro,Autos,Total Eletrificados,60283
+2026,10,Outubro,Com. Leves,Híbridos,1425
+2026,10,Outubro,Com. Leves,Elétricos,152
+2026,10,Outubro,Com. Leves,Total Eletrificados,1577
+2026,10,Outubro,Caminhões,Híbridos,0
+2026,10,Outubro,Caminhões,Elétricos,21
+2026,10,Outubro,Caminhões,Total Eletrificados,21
+2026,10,Outubro,Ônibus,Híbridos,0
+2026,10,Outubro,Ônibus,Elétricos,8
+2026,10,Outubro,Ônibus,Total Eletrificados,8
+2026,10,Outubro,Motos,Híbridos,2016
+2026,10,Outubro,Motos,Elétricos,1638
+2026,10,Outubro,Motos,Total Eletrificados,3654

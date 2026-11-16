@@ -15548,3 +15548,591 @@ ano,mes_num,mes_nome,segmento,categoria,rank,modelo,quantidade_mes,participacao_
 2026,8,Agosto,Motos,Sport,14,HONDA/GOLDWING,10,2.31
 2026,8,Agosto,Motos,Sport,15,BMW/K 1600,1,1.21
 2026,8,Agosto,Motos,Sport,16,BMW/R1250 RT,0,0.12
+2026,9,Setembro,Autos,Veículos de Entrada,1,FIAT/MOBI,6395,52.53
+2026,9,Setembro,Autos,Veículos de Entrada,2,RENAULT/KWID,6142,47.18
+2026,9,Setembro,Autos,Veículos de Entrada,3,RENAULT/E-KWID,0,0.24
+2026,9,Setembro,Autos,Veículos de Entrada,4,FIAT/UNO,0,0.01
+2026,9,Setembro,Autos,Veículos de Entrada,5,VW/GOL,1,0.01
+2026,9,Setembro,Autos,Veículos de Entrada,6,FIAT/PALIO,2,0
+2026,9,Setembro,Autos,Veículos de Entrada,7,FORD/KA,0,0
+2026,9,Setembro,Autos,Veículos de Entrada,8,CAOA CHERY/QQ,0,0
+2026,9,Setembro,Autos,Veículos de Entrada,9,GM/CELTA,0,0
+2026,9,Setembro,Autos,Veículos de Entrada,10,VW/POLO,11095,19.2
+2026,9,Setembro,Autos,Veículos de Entrada,11,FIAT/ARGO,8603,16.09
+2026,9,Setembro,Autos,Veículos de Entrada,12,GM/ONIX,7133,15.45
+2026,9,Setembro,Autos,Veículos de Entrada,13,BYD/DOLPHIN MINI,9385,13.53
+2026,9,Setembro,Autos,Veículos de Entrada,14,HYUNDAI/HB20,6314,11.96
+2026,9,Setembro,Autos,Veículos de Entrada,15,BYD/DOLPHIN,4132,7.9
+2026,9,Setembro,Autos,Veículos de Entrada,16,GEELY/EX2,2724,6.52
+2026,9,Setembro,Autos,Veículos de Entrada,17,CITROEN/C3,1311,2.29
+2026,9,Setembro,Autos,Veículos de Entrada,18,HONDA/CITY HATCH,1479,2.23
+2026,9,Setembro,Autos,Veículos de Entrada,19,HYUNDAI/I20,1404,1.74
+2026,9,Setembro,Autos,Veículos de Entrada,20,GAC/AION UT,1471,0.94
+2026,9,Setembro,Autos,Veículos de Entrada,21,PEUGEOT/208,428,0.91
+2026,9,Setembro,Autos,Veículos de Entrada,22,VW/GOLF,7,45.84
+2026,9,Setembro,Autos,Veículos de Entrada,23,AUDI/A3,19,18.9
+2026,9,Setembro,Autos,Veículos de Entrada,24,BMW/M135I,13,15.66
+2026,9,Setembro,Autos,Veículos de Entrada,25,TOYOTA/GR YARIS,0,14.53
+2026,9,Setembro,Autos,Veículos de Entrada,26,HONDA/CIVIC TYPE-R,1,1.69
+2026,9,Setembro,Autos,Veículos de Entrada,27,M.BENZ/A45 AMG,1,1.27
+2026,9,Setembro,Autos,Sedans Pequenos,1,HYUNDAI/HB20S,2013,57.97
+2026,9,Setembro,Autos,Sedans Pequenos,2,FIAT/CRONOS,1776,41.99
+2026,9,Setembro,Autos,Sedans Pequenos,3,FORD/KA SEDAN,0,0.01
+2026,9,Setembro,Autos,Sedans Pequenos,4,GM/PRISMA,0,0.01
+2026,9,Setembro,Autos,Sedans Pequenos,5,FIAT/SIENA,0,0
+2026,9,Setembro,Autos,Sedans Pequenos,6,VW/VOYAGE,1,0
+2026,9,Setembro,Autos,Sedans Pequenos,7,FORD/FIESTA SEDAN,0,0
+2026,9,Setembro,Autos,Sedans Pequenos,8,GM/CLASSIC,0,0
+2026,9,Setembro,Autos,Sedans Pequenos,9,GM/CORSA SEDAN,1,0
+2026,9,Setembro,Autos,Sedans Pequenos,10,NISSAN/VERSA,0,0
+2026,9,Setembro,Autos,Sedans Pequenos,11,GM/ONIX PLUS,5350,45.07
+2026,9,Setembro,Autos,Sedans Pequenos,12,VW/VIRTUS,2315,32.34
+2026,9,Setembro,Autos,Sedans Pequenos,13,HONDA/CITY,1188,15.24
+2026,9,Setembro,Autos,Sedans Pequenos,14,NISSAN/VERSA,795,7.34
+2026,9,Setembro,Autos,Sedans Pequenos,15,TOYOTA/YARIS SEDAN,1,0.01
+2026,9,Setembro,Autos,Sedans Pequenos,16,GM/MONZA,0,0
+2026,9,Setembro,Autos,Sedans médios,1,TOYOTA/COROLLA,474,47.93
+2026,9,Setembro,Autos,Sedans médios,2,BYD/KING,1666,38.59
+2026,9,Setembro,Autos,Sedans médios,3,VW/JETTA,181,4.19
+2026,9,Setembro,Autos,Sedans médios,4,BYD/SEAL,90,2.89
+2026,9,Setembro,Autos,Sedans médios,5,AUDI/A5,74,1.8
+2026,9,Setembro,Autos,Sedans médios,6,NISSAN/SENTRA,3,1.09
+2026,9,Setembro,Autos,Sedans médios,7,GAC/AION ES,8,0.84
+2026,9,Setembro,Autos,Sedans médios,8,AUDI/A3 SEDAN,5,0.59
+2026,9,Setembro,Autos,Sedans médios,9,BMW/M235I,30,0.47
+2026,9,Setembro,Autos,Sedans médios,10,AUDI/RS3,6,0.32
+2026,9,Setembro,Autos,Sedans médios,11,BMW/420I,14,0.3
+2026,9,Setembro,Autos,Sedans médios,12,CAOA CHERY/ARRIZO 6,3,0.23
+2026,9,Setembro,Autos,Sedans médios,13,BMW/220,1,0.19
+2026,9,Setembro,Autos,Sedans médios,14,HONDA/CIVIC,6,0.18
+2026,9,Setembro,Autos,Sedans médios,15,M.BENZ/CLA200,0,0.17
+2026,9,Setembro,Autos,Sedans médios,16,M.BENZ/CLA45,2,0.1
+2026,9,Setembro,Autos,Sedans médios,17,M.BENZ/CLA35,0,0.06
+2026,9,Setembro,Autos,Sedans médios,18,M.BENZ/AMG C63S,1,0.02
+2026,9,Setembro,Autos,Sedans médios,19,GM/CRUZE SEDAN,0,0.01
+2026,9,Setembro,Autos,Sedans médios,20,GM/VECTRA,1,0.01
+2026,9,Setembro,Autos,Sedans médios,21,ALFA ROMEO/MONTREAL,0,0
+2026,9,Setembro,Autos,Sedans médios,22,BMW/320I,193,59.72
+2026,9,Setembro,Autos,Sedans médios,23,M.BENZ/CLASSE C,93,20.51
+2026,9,Setembro,Autos,Sedans médios,24,BMW/330E,4,4.78
+2026,9,Setembro,Autos,Sedans médios,25,PORSCHE/PANAMERA,8,4.42
+2026,9,Setembro,Autos,Sedans médios,26,M.BENZ/CLASSE E,9,2.58
+2026,9,Setembro,Autos,Sedans médios,27,BMW/530E,12,1.25
+2026,9,Setembro,Autos,Sedans médios,28,M.BENZ/AMG GT63S,4,1.02
+2026,9,Setembro,Autos,Sedans médios,29,BMW/I4,3,0.84
+2026,9,Setembro,Autos,Sedans médios,30,ZEEKR/001,1,0.72
+2026,9,Setembro,Autos,Sedans médios,31,HONDA/ACCORD,0,0.61
+2026,9,Setembro,Autos,Sedans médios,32,BMW/I7,0,0.59
+2026,9,Setembro,Autos,Sedans médios,33,AUDI/A6,5,0.43
+2026,9,Setembro,Autos,Sw Médios,1,FIAT/PALIO WEEKEND,0,37.5
+2026,9,Setembro,Autos,Sw Médios,2,VW/PARATI,0,25.0
+2026,9,Setembro,Autos,Sw Médios,3,FIAT/WEEKEND,0,12.5
+2026,9,Setembro,Autos,Sw Médios,4,FORD/BELINA,0,12.5
+2026,9,Setembro,Autos,Sw Médios,5,AUDI/RS6 AVANT,1,93.75
+2026,9,Setembro,Autos,Sw Médios,6,BMW/ALPINA,0,3.13
+2026,9,Setembro,Autos,Sw Médios,7,GM/CARAVAN,0,3.13
+2026,9,Setembro,Autos,Sw Médios,8,HONDA/FIT,1,50.0
+2026,9,Setembro,Autos,Sw Médios,9,FIAT/DOBLO,0,30.0
+2026,9,Setembro,Autos,Sw Médios,10,FIAT/IDEA,0,10.0
+2026,9,Setembro,Autos,Sw Médios,11,GM/BOLT,0,10.0
+2026,9,Setembro,Autos,Grandcab,1,GM/SPIN,2379,98.68
+2026,9,Setembro,Autos,Grandcab,2,KIA/CARNIVAL,10,1.13
+2026,9,Setembro,Autos,Grandcab,3,VW/ID.BUZZ,0,0.13
+2026,9,Setembro,Autos,Grandcab,4,TOYOTA/SIENNA,0,0.03
+2026,9,Setembro,Autos,Grandcab,5,PORSCHE/911,49,37.57
+2026,9,Setembro,Autos,Grandcab,6,FORD/MUSTANG,27,13.92
+2026,9,Setembro,Autos,Grandcab,7,GM/CORVETTE,28,8.89
+2026,9,Setembro,Autos,Grandcab,8,BMW/M2,26,8.71
+2026,9,Setembro,Autos,Grandcab,9,BMW/M3,2,6.27
+2026,9,Setembro,Autos,Grandcab,10,PORSCHE/BOXSTER,1,4.8
+2026,9,Setembro,Autos,Grandcab,11,MG/CYBERSTER,12,4.45
+2026,9,Setembro,Autos,Grandcab,12,DODGE/CHALLENGER,7,2.93
+2026,9,Setembro,Autos,Grandcab,13,PORSCHE/CAYMAN,6,2.53
+2026,9,Setembro,Autos,Suv's,1,VW/T CROSS,9339,7.08
+2026,9,Setembro,Autos,Suv's,2,VW/TERA,8725,7.01
+2026,9,Setembro,Autos,Suv's,3,HYUNDAI/CRETA,5092,5.39
+2026,9,Setembro,Autos,Suv's,4,GM/TRACKER,4530,4.43
+2026,9,Setembro,Autos,Suv's,5,FIAT/PULSE,7150,4.18
+2026,9,Setembro,Autos,Suv's,6,JEEP/COMPASS,3867,4.0
+2026,9,Setembro,Autos,Suv's,7,FIAT/FASTBACK,4947,3.95
+2026,9,Setembro,Autos,Suv's,8,GWM/HAVAL H6,6433,3.84
+2026,9,Setembro,Autos,Suv's,9,VW/NIVUS,3060,3.83
+2026,9,Setembro,Autos,Suv's,10,HONDA/HR-V,3938,3.33
+2026,9,Setembro,Autos,Suv's,11,JEEP/RENEGADE,3669,3.05
+2026,9,Setembro,Autos,Suv's,12,TOYOTA/YARIS CROSS,5288,3.01
+2026,9,Setembro,Autos,Suv's,13,BYD/SONG PRO,3963,3.0
+2026,9,Setembro,Autos,Suv's,14,TOYOTA/COROLLA CROSS,3359,2.87
+2026,9,Setembro,Autos,Suv's,15,HONDA/WR-V,2994,2.69
+2026,9,Setembro,Autos,Suv's,16,CAOA CHERY/TIGGO 5X,2882,2.57
+2026,9,Setembro,Autos,Suv's,17,NISSAN/KICKS,2785,2.51
+2026,9,Setembro,Autos,Suv's,18,NISSAN/KAIT,3060,2.42
+2026,9,Setembro,Autos,Suv's,19,CAOA CHERY/TIGGO 7,4102,2.19
+2026,9,Setembro,Autos,Suv's,20,BYD/SONG PLUS,1929,2.06
+2026,9,Setembro,Autos,Suv's,21,OMODA JAECOO/OMODA 5,3616,1.86
+2026,9,Setembro,Autos,Suv's,22,OMODA JAECOO/JAECOO 7,2614,1.43
+2026,9,Setembro,Autos,Suv's,23,GM/SONIC,2713,1.35
+2026,9,Setembro,Autos,Suv's,24,VW/TAOS,1739,1.18
+2026,9,Setembro,Autos,Suv's,25,JEEP/COMMANDER,1053,1.16
+2026,9,Setembro,Autos,Suv's,26,RENAULT/KARDIAN,1213,1.12
+2026,9,Setembro,Autos,Suv's,27,RENAULT/DUSTER,1369,1.07
+2026,9,Setembro,Autos,Suv's,28,CITROEN/BASALT,803,0.99
+2026,9,Setembro,Autos,Suv's,29,CAOA CHERY/TIGGO 8,653,0.99
+2026,9,Setembro,Autos,Suv's,30,TOYOTA/HILUX SW4,1117,0.98
+2026,9,Setembro,Autos,Suv's,31,GWM/HAVAL H9,967,0.9
+2026,9,Setembro,Autos,Suv's,32,RENAULT/BOREAL,522,0.81
+2026,9,Setembro,Autos,Suv's,33,FORD/TERRITORY,617,0.7
+2026,9,Setembro,Autos,Suv's,34,GEELY/EX5 EM-I,1572,0.61
+2026,9,Setembro,Autos,Suv's,35,PEUGEOT/2008,621,0.58
+2026,9,Setembro,Autos,Suv's,36,LEAPMOTOR/C10,917,0.57
+2026,9,Setembro,Autos,Suv's,37,MITSUBISHI/ECLIPSE CROSS,522,0.55
+2026,9,Setembro,Autos,Suv's,38,BYD/YUAN,527,0.54
+2026,9,Setembro,Autos,Suv's,39,GM/SPARK,751,0.52
+2026,9,Setembro,Autos,Suv's,40,CAOA CHANGAN/UNIT-T,558,0.47
+2026,9,Setembro,Com. Leves,Pick-up's Pequenas,1,FIAT/STRADA,16002,76.73
+2026,9,Setembro,Com. Leves,Pick-up's Pequenas,2,VW/SAVEIRO,4838,23.26
+2026,9,Setembro,Com. Leves,Pick-up's Pequenas,3,GM/MONTANA,0,0
+2026,9,Setembro,Com. Leves,Pick-up's Pequenas,4,FORD/RANCHERO,0,0
+2026,9,Setembro,Com. Leves,Pick-up's Pequenas,5,GM/CHEVY,0,0
+2026,9,Setembro,Com. Leves,Pick-up's Pequenas,6,FIAT/TORO,5539,21.39
+2026,9,Setembro,Com. Leves,Pick-up's Pequenas,7,TOYOTA/HILUX,3310,16.69
+2026,9,Setembro,Com. Leves,Pick-up's Pequenas,8,FORD/RANGER,3465,13.43
+2026,9,Setembro,Com. Leves,Pick-up's Pequenas,9,GM/S10,2684,11.46
+2026,9,Setembro,Com. Leves,Pick-up's Pequenas,10,RAM/RAMPAGE,1952,9.27
+2026,9,Setembro,Com. Leves,Pick-up's Pequenas,11,GM/MONTANA,1335,6.54
+2026,9,Setembro,Com. Leves,Pick-up's Pequenas,12,MITSUBISHI/TRITON,1111,4.77
+2026,9,Setembro,Com. Leves,Pick-up's Pequenas,13,RENAULT/OROCH,722,4.0
+2026,9,Setembro,Com. Leves,Pick-up's Pequenas,14,GWM/POER,649,2.59
+2026,9,Setembro,Com. Leves,Pick-up's Pequenas,15,RAM/DAKOTA,673,1.93
+2026,9,Setembro,Com. Leves,Pick-up's Pequenas,16,FIAT/TITANO,270,1.87
+2026,9,Setembro,Com. Leves,Pick-up's Pequenas,17,RENAULT/MASTER,1568,24.6
+2026,9,Setembro,Com. Leves,Pick-up's Pequenas,18,FIAT/DUCATO,700,8.91
+2026,9,Setembro,Com. Leves,Pick-up's Pequenas,19,KIA/K2500,397,7.98
+2026,9,Setembro,Com. Leves,Pick-up's Pequenas,20,VW TRUCK E BUS/EXPRESS,411,6.96
+2026,9,Setembro,Com. Leves,Pick-up's Pequenas,21,EFFA/V21,362,6.13
+2026,9,Setembro,Com. Leves,Pick-up's Pequenas,22,IVECO/DAILY,408,5.68
+2026,9,Setembro,Com. Leves,Pick-up's Pequenas,23,IVECO/DAILY 30-130,451,5.6
+2026,9,Setembro,Com. Leves,Furgões Pequenos,1,FIAT/FIORINO,2049,86.6
+2026,9,Setembro,Com. Leves,Furgões Pequenos,2,RENAULT/KANGOO,367,11.78
+2026,9,Setembro,Com. Leves,Furgões Pequenos,3,PEUGEOT/PARTNER,5,1.45
+2026,9,Setembro,Com. Leves,Furgões Pequenos,4,RENAULT/KWID,8,0.14
+2026,9,Setembro,Caminhões,Semi-Leve,1,M.BENZ/SPRINTER 417,96,40.96
+2026,9,Setembro,Caminhões,Semi-Leve,2,M.BENZ/SPRINTER 517,84,37.92
+2026,9,Setembro,Caminhões,Semi-Leve,3,IVECO/DAILY 45-170,18,8.32
+2026,9,Setembro,Caminhões,Semi-Leve,4,IVECO/DAILY 55C17,1,5.96
+2026,9,Setembro,Caminhões,Semi-Leve,5,IVECO/DAILY 45-180,3,1.54
+2026,9,Setembro,Caminhões,Semi-Leve,6,IVECO/DAILY 30-160,1,0.98
+2026,9,Setembro,Caminhões,Semi-Leve,7,IVECO/DAILY 55-180,0,0.72
+2026,9,Setembro,Caminhões,Semi-Leve,8,IVECO/DAILY 55-170,1,0.62
+2026,9,Setembro,Caminhões,Semi-Leve,9,AGRALE/MARRUA,0,0.57
+2026,9,Setembro,Caminhões,Semi-Leve,10,IVECO/DAILY,1,0.57
+2026,9,Setembro,Caminhões,Semi-Leve,11,VW TRUCK E BUS/9.180,170,29.04
+2026,9,Setembro,Caminhões,Semi-Leve,12,M.BENZ/ACCELO 817,137,25.15
+2026,9,Setembro,Caminhões,Semi-Leve,13,M.BENZ/ACCELO 917,91,16.21
+2026,9,Setembro,Caminhões,Semi-Leve,14,IVECO/TECTOR 9-190,18,7.13
+2026,9,Setembro,Caminhões,Semi-Leve,15,FOTON/AUMARK S 715,19,5.01
+2026,9,Setembro,Caminhões,Semi-Leve,16,M.BENZ/ACCELO 1017,7,3.49
+2026,9,Setembro,Caminhões,Semi-Leve,17,IVECO/DAILY 65-170,12,2.65
+2026,9,Setembro,Caminhões,Semi-Leve,18,FOTON/AUMARK S 916,1,2.08
+2026,9,Setembro,Caminhões,Semi-Leve,19,VW TRUCK E BUS/6.170,5,1.83
+2026,9,Setembro,Caminhões,Semi-Leve,20,JAC/EJT9.5,0,1.17
+2026,9,Setembro,Caminhões,Semi-Leve,21,VW TRUCK E BUS/11.180,545,44.18
+2026,9,Setembro,Caminhões,Semi-Leve,22,M.BENZ/ACCELO 1117,438,27.7
+2026,9,Setembro,Caminhões,Semi-Leve,23,IVECO/TECTOR 11-190,64,6.07
+2026,9,Setembro,Caminhões,Semi-Leve,24,FOTON/AUMARK S 1217A,89,4.96
+2026,9,Setembro,Caminhões,Semi-Leve,25,VW TRUCK E BUS/14.180,91,4.49
+2026,9,Setembro,Caminhões,Semi-Leve,26,M.BENZ/ATEGO 1419,53,4.0
+2026,9,Setembro,Caminhões,Semi-Leve,27,M.BENZ/ACCELO 1417,54,2.7
+2026,9,Setembro,Caminhões,Semi-Leve,28,VW TRUCK E BUS/13.180,2,2.04
+2026,9,Setembro,Caminhões,Semi-Leve,29,VW TRUCK E BUS/14.210,30,1.28
+2026,9,Setembro,Caminhões,Semi-Leve,30,M.BENZ/ACCELO 1317,1,0.8
+2026,9,Setembro,Caminhões,Semi-Pesado,1,VOLVO/VM 290,407,10.04
+2026,9,Setembro,Caminhões,Semi-Pesado,2,M.BENZ/ATEGO 2429,306,9.55
+2026,9,Setembro,Caminhões,Semi-Pesado,3,VW TRUCK E BUS/26.260,315,9.47
+2026,9,Setembro,Caminhões,Semi-Pesado,4,VW TRUCK E BUS/17.210,205,8.51
+2026,9,Setembro,Caminhões,Semi-Pesado,5,M.BENZ/ATEGO 1719,336,8.33
+2026,9,Setembro,Caminhões,Semi-Pesado,6,M.BENZ/ATEGO 3033,152,4.68
+2026,9,Setembro,Caminhões,Semi-Pesado,7,VW TRUCK E BUS/18.260,147,4.53
+2026,9,Setembro,Caminhões,Semi-Pesado,8,VW TRUCK E BUS/26.320,156,4.49
+2026,9,Setembro,Caminhões,Semi-Pesado,9,VW TRUCK E BUS/31.320,119,4.34
+2026,9,Setembro,Caminhões,Semi-Pesado,10,VW TRUCK E BUS/30.320,97,3.64
+2026,9,Setembro,Caminhões,Semi-Pesado,11,VOLVO/FH 540,533,12.18
+2026,9,Setembro,Caminhões,Semi-Pesado,12,VOLVO/FH 500,412,7.71
+2026,9,Setembro,Caminhões,Semi-Pesado,13,DAF/XF 530,300,6.74
+2026,9,Setembro,Caminhões,Semi-Pesado,14,VOLVO/VM 360,217,5.81
+2026,9,Setembro,Caminhões,Semi-Pesado,15,SCANIA/R 460,290,4.96
+2026,9,Setembro,Caminhões,Semi-Pesado,16,SCANIA/R560,283,4.69
+2026,9,Setembro,Caminhões,Semi-Pesado,17,DAF/XF 480,185,4.15
+2026,9,Setembro,Caminhões,Semi-Pesado,18,VOLVO/FH 460,177,4.07
+2026,9,Setembro,Caminhões,Semi-Pesado,19,M.BENZ/AXOR 2545S,110,4.02
+2026,9,Setembro,Caminhões,Semi-Pesado,20,IVECO/S-WAY 480,153,3.4
+2026,9,Setembro,Motos,City,1,HONDA/CG 160,48835,57.47
+2026,9,Setembro,Motos,City,2,MOTTU/SPORT 110I,7937,12.34
+2026,9,Setembro,Motos,City,3,YAMAHA/YBR 150,6654,8.34
+2026,9,Setembro,Motos,City,4,HONDA/CB 300F,4052,6.46
+2026,9,Setembro,Motos,City,5,YAMAHA/FAZER 150,4421,4.58
+2026,9,Setembro,Motos,City,6,YAMAHA/FAZER 250,3307,4.58
+2026,9,Setembro,Motos,City,7,SHINERAY/SHI 150,544,1.5
+2026,9,Setembro,Motos,City,8,HAOJUE/DK160,850,1.27
+2026,9,Setembro,Motos,City,9,BAJAJ/PULSAR N150,1043,1.05
+2026,9,Setembro,Motos,City,10,SHINERAY/XY 150,479,0.62
+2026,9,Setembro,Motos,City,11,ROYAL ENFIELD/HUNTER 350,724,25.47
+2026,9,Setembro,Motos,City,12,ROYAL ENFIELD/SUPER METEOR 650,417,16.38
+2026,9,Setembro,Motos,City,13,ROYAL ENFIELD/METEOR,453,15.88
+2026,9,Setembro,Motos,City,14,TRIUMPH/SCRAMBLER 400,327,10.55
+2026,9,Setembro,Motos,City,15,ROYAL ENFIELD/CLASSIC 350,155,5.93
+2026,9,Setembro,Motos,City,16,ROYAL ENFIELD/SHOTGUN 650,104,4.69
+2026,9,Setembro,Motos,City,17,ROYAL ENFIELD/BEAR 650,73,3.04
+2026,9,Setembro,Motos,City,18,ROYAL ENFIELD/CLASSIC 650,45,2.2
+2026,9,Setembro,Motos,City,19,KAWASAKI/ELIMINATOR 500,52,2.1
+2026,9,Setembro,Motos,City,20,KAWASAKI/VULCAN S,41,1.52
+2026,9,Setembro,Motos,City,21,HONDA/NXR160,17449,43.14
+2026,9,Setembro,Motos,City,22,HONDA/XRE 190,4778,11.75
+2026,9,Setembro,Motos,City,23,HONDA/XRE 300,4462,9.39
+2026,9,Setembro,Motos,City,24,YAMAHA/XTZ 250,3373,9.2
+2026,9,Setembro,Motos,City,25,SHINERAY/SHI 175,2409,6.68
+2026,9,Setembro,Motos,City,26,YAMAHA/CROSSER 150,3073,6.6
+2026,9,Setembro,Motos,City,27,HONDA/XR 300L,1005,3.14
+2026,9,Setembro,Motos,City,28,AVELLOZ/AZ160,1294,2.95
+2026,9,Setembro,Motos,City,29,SHINERAY/SHI 250,982,2.23
+2026,9,Setembro,Motos,City,30,HAOJUE/DL 160,281,0.8
+2026,9,Setembro,Motos,Maxtrail,1,ROYAL ENFIELD/HIMALAYAN,808,17.82
+2026,9,Setembro,Motos,Maxtrail,2,HONDA/NX 500,542,14.66
+2026,9,Setembro,Motos,Maxtrail,3,BMW/R1300GSA,311,7.84
+2026,9,Setembro,Motos,Maxtrail,4,TRIUMPH/TIGER 900,282,6.74
+2026,9,Setembro,Motos,Maxtrail,5,HONDA/NC 750X,171,6.59
+2026,9,Setembro,Motos,Maxtrail,6,YAMAHA/XTZ 690,148,4.57
+2026,9,Setembro,Motos,Maxtrail,7,BMW/R1300GS,155,4.23
+2026,9,Setembro,Motos,Maxtrail,8,CFMOTO/IBEX 450,284,4.2
+2026,9,Setembro,Motos,Maxtrail,9,BMW/F900 GS,196,3.98
+2026,9,Setembro,Motos,Maxtrail,10,HONDA/CRF 1100L,86,3.85
+2026,9,Setembro,Motos,Maxtrail,11,YAMAHA/MT03,800,15.08
+2026,9,Setembro,Motos,Maxtrail,12,BAJAJ/DOMINAR D400,795,14.29
+2026,9,Setembro,Motos,Maxtrail,13,BAJAJ/NS400 Z,405,9.39
+2026,9,Setembro,Motos,Maxtrail,14,BAJAJ/DOMINAR NS160,440,8.43
+2026,9,Setembro,Motos,Maxtrail,15,BAJAJ/DOMINAR NS200,250,6.4
+2026,9,Setembro,Motos,Maxtrail,16,HONDA/CB 500,312,6.29
+2026,9,Setembro,Motos,Maxtrail,17,BAJAJ/DOMINAR D250,316,5.58
+2026,9,Setembro,Motos,Maxtrail,18,KAWASAKI/Z900,196,4.21
+2026,9,Setembro,Motos,Maxtrail,19,ROYAL ENFIELD/GUERRILLA 450,193,4.02
+2026,9,Setembro,Motos,Maxtrail,20,HONDA/CB 650R,150,3.48
+2026,9,Setembro,Motos,Maxtrail,21,HONDA/BIZ,23355,33.14
+2026,9,Setembro,Motos,Maxtrail,22,HONDA/POP 110I,24277,30.86
+2026,9,Setembro,Motos,Maxtrail,23,HONDA/PCX 160,4017,6.5
+2026,9,Setembro,Motos,Maxtrail,24,SHINERAY/SHI 125,3590,5.04
+2026,9,Setembro,Motos,Maxtrail,25,HONDA/ELITE 125,2005,3.82
+2026,9,Setembro,Motos,Maxtrail,26,HONDA/ADV 160,1467,2.46
+2026,9,Setembro,Motos,Maxtrail,27,YAMAHA/NMAX,1406,2.42
+2026,9,Setembro,Motos,Maxtrail,28,YAMAHA/AEROX 160,1147,2.0
+2026,9,Setembro,Motos,Maxtrail,29,AVELLOZ/AZ1,1074,1.8
+2026,9,Setembro,Motos,Maxtrail,30,SHINERAY/SHI 50,1116,1.57
+2026,9,Setembro,Motos,Sport,1,YAMAHA/YZF R15,1085,61.91
+2026,9,Setembro,Motos,Sport,2,YAMAHA/YZF R3,120,7.92
+2026,9,Setembro,Motos,Sport,3,KAWASAKI/NINJA 500,8,6.22
+2026,9,Setembro,Motos,Sport,4,KAWASAKI/NINJA ZX-6R,8,5.63
+2026,9,Setembro,Motos,Sport,5,KAWASAKI/NINJA 300,90,4.53
+2026,9,Setembro,Motos,Sport,6,BMW/S1000 R,79,4.43
+2026,9,Setembro,Motos,Sport,7,KAWASAKI/NINJA ZX-4R,81,4.32
+2026,9,Setembro,Motos,Sport,8,TRIUMPH/DAYTONA 660,5,1.31
+2026,9,Setembro,Motos,Sport,9,SUZUKI/GSX-8 R,12,0.94
+2026,9,Setembro,Motos,Sport,10,KAWASAKI/NINJA 650,6,0.62
+2026,9,Setembro,Motos,Sport,11,H.DAVIDSON/ROAD GLIDE,3,44.4
+2026,9,Setembro,Motos,Sport,12,BMW/R 1300 RT,31,33.63
+2026,9,Setembro,Motos,Sport,13,H.DAVIDSON/STREET GLIDE,8,18.09
+2026,9,Setembro,Motos,Sport,14,HONDA/GOLDWING,4,2.55
+2026,9,Setembro,Motos,Sport,15,BMW/K 1600,0,1.11
+2026,9,Setembro,Motos,Sport,16,BMW/R1250 RT,0,0.11
+2026,9,Setembro,Motos,Sport,17,H.DAVIDSON/ULTRA LIMITED,1,0.11
+2026,10,Outubro,Autos,Veículos de Entrada,1,FIAT/MOBI,3927,51.15
+2026,10,Outubro,Autos,Veículos de Entrada,2,RENAULT/KWID,6346,48.59
+2026,10,Outubro,Autos,Veículos de Entrada,3,RENAULT/E-KWID,0,0.22
+2026,10,Outubro,Autos,Veículos de Entrada,4,VW/GOL,1,0.01
+2026,10,Outubro,Autos,Veículos de Entrada,5,FIAT/UNO,0,0.01
+2026,10,Outubro,Autos,Veículos de Entrada,6,CAOA CHERY/QQ,1,0
+2026,10,Outubro,Autos,Veículos de Entrada,7,FIAT/PALIO,0,0
+2026,10,Outubro,Autos,Veículos de Entrada,8,FORD/KA,0,0
+2026,10,Outubro,Autos,Veículos de Entrada,9,GM/CELTA,1,0
+2026,10,Outubro,Autos,Hatch Pequenos,1,VW/POLO,8125,18.77
+2026,10,Outubro,Autos,Hatch Pequenos,2,FIAT/ARGO,8348,16.03
+2026,10,Outubro,Autos,Hatch Pequenos,3,GM/ONIX,7016,15.2
+2026,10,Outubro,Autos,Hatch Pequenos,4,BYD/DOLPHIN MINI,8432,13.77
+2026,10,Outubro,Autos,Hatch Pequenos,5,HYUNDAI/HB20,9037,12.49
+2026,10,Outubro,Autos,Hatch Pequenos,6,BYD/DOLPHIN,5273,8.11
+2026,10,Outubro,Autos,Hatch Pequenos,7,GEELY/EX2,1483,6.12
+2026,10,Outubro,Autos,Hatch Pequenos,8,CITROEN/C3,1526,2.35
+2026,10,Outubro,Autos,Hatch Pequenos,9,HONDA/CITY HATCH,1004,2.2
+2026,10,Outubro,Autos,Hatch Pequenos,10,HYUNDAI/I20,1762,1.9
+2026,10,Outubro,Autos,Hatch Pequenos,11,GAC/AION UT,641,0.96
+2026,10,Outubro,Autos,Hatch Pequenos,12,PEUGEOT/208,517,0.91
+2026,10,Outubro,Autos,Hatch Médios,1,VW/GOLF,8,42.03
+2026,10,Outubro,Autos,Hatch Médios,2,TOYOTA/GR YARIS,56,20.13
+2026,10,Outubro,Autos,Hatch Médios,3,AUDI/A3,10,18.23
+2026,10,Outubro,Autos,Hatch Médios,4,BMW/M135I,7,14.94
+2026,10,Outubro,Autos,Hatch Médios,5,HONDA/CIVIC TYPE-R,0,1.52
+2026,10,Outubro,Autos,Hatch Médios,6,M.BENZ/A45 AMG,0,1.14
+2026,10,Outubro,Autos,Sedans Pequenos,1,HYUNDAI/HB20S,230,54.92
+2026,10,Outubro,Autos,Sedans Pequenos,2,FIAT/CRONOS,2628,45.04
+2026,10,Outubro,Autos,Sedans Pequenos,3,FORD/KA SEDAN,0,0.01
+2026,10,Outubro,Autos,Sedans Pequenos,4,GM/PRISMA,0,0.01
+2026,10,Outubro,Autos,Sedans Pequenos,5,VW/VOYAGE,1,0.01
+2026,10,Outubro,Autos,Sedans Pequenos,6,FIAT/SIENA,0,0
+2026,10,Outubro,Autos,Sedans Pequenos,7,FORD/FIESTA SEDAN,0,0
+2026,10,Outubro,Autos,Sedans Pequenos,8,GM/CLASSIC,0,0
+2026,10,Outubro,Autos,Sedans Pequenos,9,GM/CORSA SEDAN,0,0
+2026,10,Outubro,Autos,Sedans Pequenos,10,NISSAN/VERSA,0,0
+2026,10,Outubro,Autos,Sedans Compactos,1,GM/ONIX PLUS,5770,46.77
+2026,10,Outubro,Autos,Sedans Compactos,2,VW/VIRTUS,2427,31.55
+2026,10,Outubro,Autos,Sedans Compactos,3,HONDA/CITY,769,14.43
+2026,10,Outubro,Autos,Sedans Compactos,4,NISSAN/VERSA,618,7.24
+2026,10,Outubro,Autos,Sedans Compactos,5,TOYOTA/YARIS SEDAN,0,0.01
+2026,10,Outubro,Autos,Sedans Compactos,6,GM/MONZA,0,0
+2026,10,Outubro,Autos,Sedans médios,1,TOYOTA/COROLLA,418,45.19
+2026,10,Outubro,Autos,Sedans médios,2,BYD/KING,2205,41.53
+2026,10,Outubro,Autos,Sedans médios,3,VW/JETTA,146,4.25
+2026,10,Outubro,Autos,Sedans médios,4,BYD/SEAL,61,2.82
+2026,10,Outubro,Autos,Sedans médios,5,AUDI/A5,57,1.81
+2026,10,Outubro,Autos,Sedans médios,6,NISSAN/SENTRA,5,1.01
+2026,10,Outubro,Autos,Sedans médios,7,GAC/AION ES,1,0.81
+2026,10,Outubro,Autos,Sedans médios,8,AUDI/A3 SEDAN,6,0.56
+2026,10,Outubro,Autos,Sedans médios,9,BMW/M235I,13,0.47
+2026,10,Outubro,Autos,Sedans médios,10,AUDI/RS3,1,0.3
+2026,10,Outubro,Autos,Sedans médios,11,BMW/420I,7,0.29
+2026,10,Outubro,Autos,Sedans médios,12,CAOA CHERY/ARRIZO 6,0,0.21
+2026,10,Outubro,Autos,Sedans médios,13,BMW/220,7,0.19
+2026,10,Outubro,Autos,Sedans médios,14,HONDA/CIVIC,6,0.18
+2026,10,Outubro,Autos,Sedans médios,15,M.BENZ/CLA200,0,0.16
+2026,10,Outubro,Autos,Sedans médios,16,M.BENZ/CLA45,1,0.09
+2026,10,Outubro,Autos,Sedans médios,17,M.BENZ/CLA35,0,0.06
+2026,10,Outubro,Autos,Sedans médios,18,M.BENZ/AMG C63S,5,0.03
+2026,10,Outubro,Autos,Sedans médios,19,GM/CRUZE SEDAN,0,0.01
+2026,10,Outubro,Autos,Sedans médios,20,GM/VECTRA,0,0.01
+2026,10,Outubro,Autos,Sedans médios,21,ALFA ROMEO/MONTREAL,0,0
+2026,10,Outubro,Autos,Sedans Grandes,1,BMW/320I,180,58.73
+2026,10,Outubro,Autos,Sedans Grandes,2,M.BENZ/CLASSE C,122,21.58
+2026,10,Outubro,Autos,Sedans Grandes,3,BMW/330E,17,4.76
+2026,10,Outubro,Autos,Sedans Grandes,4,PORSCHE/PANAMERA,7,4.2
+2026,10,Outubro,Autos,Sedans Grandes,5,M.BENZ/CLASSE E,9,2.57
+2026,10,Outubro,Autos,Sedans Grandes,6,BMW/530E,12,1.42
+2026,10,Outubro,Autos,Sedans Grandes,7,M.BENZ/AMG GT63S,2,0.98
+2026,10,Outubro,Autos,Sedans Grandes,8,BMW/I4,1,0.79
+2026,10,Outubro,Autos,Sedans Grandes,9,ZEEKR/001,1,0.68
+2026,10,Outubro,Autos,Sedans Grandes,10,HONDA/ACCORD,1,0.58
+2026,10,Outubro,Autos,Sedans Grandes,11,BMW/I7,0,0.54
+2026,10,Outubro,Autos,Sedans Grandes,12,VOLVO/ES90,3,0.44
+2026,10,Outubro,Autos,Sw Médios,1,FIAT/PALIO WEEKEND,0,37.5
+2026,10,Outubro,Autos,Sw Médios,2,VW/PARATI,0,25.0
+2026,10,Outubro,Autos,Sw Médios,3,FIAT/WEEKEND,0,12.5
+2026,10,Outubro,Autos,Sw Médios,4,FORD/BELINA,0,12.5
+2026,10,Outubro,Autos,Sw Grandes,1,AUDI/RS6 AVANT,0,93.75
+2026,10,Outubro,Autos,Sw Grandes,2,BMW/ALPINA,0,3.13
+2026,10,Outubro,Autos,Sw Grandes,3,GM/CARAVAN,0,3.13
+2026,10,Outubro,Autos,Monocab,1,HONDA/FIT,0,50.0
+2026,10,Outubro,Autos,Monocab,2,FIAT/DOBLO,0,30.0
+2026,10,Outubro,Autos,Monocab,3,FIAT/IDEA,0,10.0
+2026,10,Outubro,Autos,Monocab,4,GM/BOLT,0,10.0
+2026,10,Outubro,Autos,Grandcab,1,GM/SPIN,2186,98.81
+2026,10,Outubro,Autos,Grandcab,2,KIA/CARNIVAL,5,1.02
+2026,10,Outubro,Autos,Grandcab,3,VW/ID.BUZZ,1,0.12
+2026,10,Outubro,Autos,Grandcab,4,TOYOTA/SIENNA,0,0.02
+2026,10,Outubro,Autos,Sports,1,PORSCHE/911,41,36.57
+2026,10,Outubro,Autos,Sports,2,FORD/MUSTANG,6,13.17
+2026,10,Outubro,Autos,Sports,3,BMW/M2,38,9.66
+2026,10,Outubro,Autos,Sports,4,GM/CORVETTE,14,8.83
+2026,10,Outubro,Autos,Sports,5,BMW/M3,3,5.94
+2026,10,Outubro,Autos,Sports,6,PORSCHE/BOXSTER,6,4.7
+2026,10,Outubro,Autos,Sports,7,MG/CYBERSTER,6,4.37
+2026,10,Outubro,Autos,Sports,8,DODGE/CHALLENGER,6,2.97
+2026,10,Outubro,Autos,Sports,9,PORSCHE/CAYMAN,5,2.56
+2026,10,Outubro,Autos,Suv's,1,VW/T CROSS,7567,6.97
+2026,10,Outubro,Autos,Suv's,2,VW/TERA,7489,6.91
+2026,10,Outubro,Autos,Suv's,3,HYUNDAI/CRETA,5777,5.31
+2026,10,Outubro,Autos,Suv's,4,GM/TRACKER,4589,4.35
+2026,10,Outubro,Autos,Suv's,5,FIAT/PULSE,5068,4.17
+2026,10,Outubro,Autos,Suv's,6,FIAT/FASTBACK,5135,3.98
+2026,10,Outubro,Autos,Suv's,7,GWM/HAVAL H6,5997,3.95
+2026,10,Outubro,Autos,Suv's,8,JEEP/COMPASS,3654,3.89
+2026,10,Outubro,Autos,Suv's,9,VW/NIVUS,2953,3.67
+2026,10,Outubro,Autos,Suv's,10,HONDA/HR-V,4033,3.33
+2026,10,Outubro,Autos,Suv's,11,TOYOTA/YARIS CROSS,6243,3.24
+2026,10,Outubro,Autos,Suv's,12,JEEP/RENEGADE,2727,2.95
+2026,10,Outubro,Autos,Suv's,13,BYD/SONG PRO,2831,2.92
+2026,10,Outubro,Autos,Suv's,14,TOYOTA/COROLLA CROSS,2771,2.8
+2026,10,Outubro,Autos,Suv's,15,HONDA/WR-V,2275,2.6
+2026,10,Outubro,Autos,Suv's,16,NISSAN/KAIT,3571,2.47
+2026,10,Outubro,Autos,Suv's,17,CAOA CHERY/TIGGO 5X,1731,2.44
+2026,10,Outubro,Autos,Suv's,18,NISSAN/KICKS,1588,2.37
+2026,10,Outubro,Autos,Suv's,19,CAOA CHERY/TIGGO 7,3551,2.26
+2026,10,Outubro,Autos,Suv's,20,BYD/SONG PLUS,2317,2.04
+2026,10,Outubro,Autos,Suv's,21,OMODA JAECOO/OMODA 5,2720,1.89
+2026,10,Outubro,Autos,Suv's,22,GM/SONIC,3136,1.48
+2026,10,Outubro,Autos,Suv's,23,OMODA JAECOO/JAECOO 7,2208,1.47
+2026,10,Outubro,Autos,Suv's,24,VW/TAOS,1431,1.18
+2026,10,Outubro,Autos,Suv's,25,JEEP/COMMANDER,1182,1.13
+2026,10,Outubro,Autos,Suv's,26,RENAULT/KARDIAN,1145,1.1
+2026,10,Outubro,Autos,Suv's,27,RENAULT/DUSTER,1638,1.09
+2026,10,Outubro,Autos,Suv's,28,TOYOTA/HILUX SW4,1285,0.99
+2026,10,Outubro,Autos,Suv's,29,CITROEN/BASALT,837,0.96
+2026,10,Outubro,Autos,Suv's,30,CAOA CHERY/TIGGO 8,401,0.92
+2026,10,Outubro,Autos,Suv's,31,GWM/HAVAL H9,739,0.87
+2026,10,Outubro,Autos,Suv's,32,RENAULT/BOREAL,738,0.79
+2026,10,Outubro,Autos,Suv's,33,FORD/TERRITORY,590,0.68
+2026,10,Outubro,Autos,Suv's,34,GEELY/EX5 EM-I,1238,0.65
+2026,10,Outubro,Autos,Suv's,35,LEAPMOTOR/C10,1133,0.6
+2026,10,Outubro,Autos,Suv's,36,PEUGEOT/2008,479,0.56
+2026,10,Outubro,Autos,Suv's,37,GM/SPARK,882,0.54
+2026,10,Outubro,Autos,Suv's,38,MITSUBISHI/ECLIPSE CROSS,390,0.52
+2026,10,Outubro,Autos,Suv's,39,BYD/YUAN,376,0.51
+2026,10,Outubro,Autos,Suv's,40,CAOA CHANGAN/UNIT-T,436,0.46
+2026,10,Outubro,Com. Leves,Pick-up's Pequenas,1,FIAT/STRADA,14566,76.56
+2026,10,Outubro,Com. Leves,Pick-up's Pequenas,2,VW/SAVEIRO,4839,23.44
+2026,10,Outubro,Com. Leves,Pick-up's Pequenas,3,GM/MONTANA,0,0
+2026,10,Outubro,Com. Leves,Pick-up's Pequenas,4,FORD/RANCHERO,0,0
+2026,10,Outubro,Com. Leves,Pick-up's Pequenas,5,GM/CHEVY,0,0
+2026,10,Outubro,Com. Leves,Pick-up's Grandes,1,FIAT/TORO,5198,21.58
+2026,10,Outubro,Com. Leves,Pick-up's Grandes,2,TOYOTA/HILUX,3569,16.63
+2026,10,Outubro,Com. Leves,Pick-up's Grandes,3,FORD/RANGER,2818,13.35
+2026,10,Outubro,Com. Leves,Pick-up's Grandes,4,GM/S10,2811,11.58
+2026,10,Outubro,Com. Leves,Pick-up's Grandes,5,RAM/RAMPAGE,1836,9.16
+2026,10,Outubro,Com. Leves,Pick-up's Grandes,6,GM/MONTANA,1221,6.43
+2026,10,Outubro,Com. Leves,Pick-up's Grandes,7,MITSUBISHI/TRITON,857,4.68
+2026,10,Outubro,Com. Leves,Pick-up's Grandes,8,RENAULT/OROCH,529,3.83
+2026,10,Outubro,Com. Leves,Pick-up's Grandes,9,GWM/POER,857,2.71
+2026,10,Outubro,Com. Leves,Pick-up's Grandes,10,RAM/DAKOTA,546,1.98
+2026,10,Outubro,Com. Leves,Pick-up's Grandes,11,FIAT/TITANO,266,1.8
+2026,10,Outubro,Com. Leves,Furgões,1,RENAULT/MASTER,1523,25.38
+2026,10,Outubro,Com. Leves,Furgões,2,FIAT/DUCATO,305,8.63
+2026,10,Outubro,Com. Leves,Furgões,3,KIA/K2500,339,7.88
+2026,10,Outubro,Com. Leves,Furgões,4,VW TRUCK E BUS/EXPRESS,294,6.87
+2026,10,Outubro,Com. Leves,Furgões,5,EFFA/V21,340,6.23
+2026,10,Outubro,Com. Leves,Furgões,6,IVECO/DAILY,265,5.66
+2026,10,Outubro,Com. Leves,Furgões,7,IVECO/DAILY 30-130,168,5.37
+2026,10,Outubro,Com. Leves,Furgões Pequenos,1,FIAT/FIORINO,1169,85.7
+2026,10,Outubro,Com. Leves,Furgões Pequenos,2,RENAULT/KANGOO,411,12.72
+2026,10,Outubro,Com. Leves,Furgões Pequenos,3,PEUGEOT/PARTNER,5,1.37
+2026,10,Outubro,Com. Leves,Furgões Pequenos,4,RENAULT/KWID,0,0.13
+2026,10,Outubro,Caminhões,Semi-Leve,1,M.BENZ/SPRINTER 417,70,40.52
+2026,10,Outubro,Caminhões,Semi-Leve,2,M.BENZ/SPRINTER 517,79,38.14
+2026,10,Outubro,Caminhões,Semi-Leve,3,IVECO/DAILY 45-170,16,8.31
+2026,10,Outubro,Caminhões,Semi-Leve,4,IVECO/DAILY 55C17,7,5.74
+2026,10,Outubro,Caminhões,Semi-Leve,5,IVECO/DAILY 45-180,3,1.54
+2026,10,Outubro,Caminhões,Semi-Leve,6,IVECO/DAILY 30-160,0,0.89
+2026,10,Outubro,Caminhões,Semi-Leve,7,IVECO/DAILY,6,0.79
+2026,10,Outubro,Caminhões,Semi-Leve,8,IVECO/DAILY 55-180,3,0.79
+2026,10,Outubro,Caminhões,Semi-Leve,9,IVECO/DAILY 55-170,1,0.61
+2026,10,Outubro,Caminhões,Semi-Leve,10,AGRALE/MARRUA,0,0.51
+2026,10,Outubro,Caminhões,Leve,1,VW TRUCK E BUS/9.180,127,28.86
+2026,10,Outubro,Caminhões,Leve,2,M.BENZ/ACCELO 817,92,24.64
+2026,10,Outubro,Caminhões,Leve,3,M.BENZ/ACCELO 917,86,16.41
+2026,10,Outubro,Caminhões,Leve,4,IVECO/TECTOR 9-190,45,7.37
+2026,10,Outubro,Caminhões,Leve,5,FOTON/AUMARK S 715,25,5.02
+2026,10,Outubro,Caminhões,Leve,6,M.BENZ/ACCELO 1017,1,3.18
+2026,10,Outubro,Caminhões,Leve,7,IVECO/DAILY 65-170,21,2.82
+2026,10,Outubro,Caminhões,Leve,8,FOTON/AUMARK S 916,21,2.3
+2026,10,Outubro,Caminhões,Leve,9,VW TRUCK E BUS/6.170,9,1.84
+2026,10,Outubro,Caminhões,Leve,10,AGRALE/A8700,15,1.14
+2026,10,Outubro,Caminhões,Médio,1,VW TRUCK E BUS/11.180,557,43.76
+2026,10,Outubro,Caminhões,Médio,2,M.BENZ/ACCELO 1117,377,27.68
+2026,10,Outubro,Caminhões,Médio,3,IVECO/TECTOR 11-190,8,6.1
+2026,10,Outubro,Caminhões,Médio,4,FOTON/AUMARK S 1217A,86,5.1
+2026,10,Outubro,Caminhões,Médio,5,VW TRUCK E BUS/14.180,103,4.83
+2026,10,Outubro,Caminhões,Médio,6,M.BENZ/ATEGO 1419,53,3.98
+2026,10,Outubro,Caminhões,Médio,7,M.BENZ/ACCELO 1417,57,2.86
+2026,10,Outubro,Caminhões,Médio,8,VW TRUCK E BUS/13.180,3,1.83
+2026,10,Outubro,Caminhões,Médio,9,VW TRUCK E BUS/14.210,26,1.35
+2026,10,Outubro,Caminhões,Médio,10,M.BENZ/ACCELO 1317,1,0.72
+2026,10,Outubro,Caminhões,Semi-Pesado,1,VOLVO/VM 290,324,10.01
+2026,10,Outubro,Caminhões,Semi-Pesado,2,M.BENZ/ATEGO 2429,267,9.38
+2026,10,Outubro,Caminhões,Semi-Pesado,3,VW TRUCK E BUS/26.260,282,9.36
+2026,10,Outubro,Caminhões,Semi-Pesado,4,M.BENZ/ATEGO 1719,357,8.6
+2026,10,Outubro,Caminhões,Semi-Pesado,5,VW TRUCK E BUS/17.210,257,8.42
+2026,10,Outubro,Caminhões,Semi-Pesado,6,VW TRUCK E BUS/26.320,175,4.58
+2026,10,Outubro,Caminhões,Semi-Pesado,7,M.BENZ/ATEGO 3033,121,4.57
+2026,10,Outubro,Caminhões,Semi-Pesado,8,VW TRUCK E BUS/18.260,127,4.45
+2026,10,Outubro,Caminhões,Semi-Pesado,9,VW TRUCK E BUS/31.320,121,4.27
+2026,10,Outubro,Caminhões,Semi-Pesado,10,VW TRUCK E BUS/30.320,142,3.71
+2026,10,Outubro,Caminhões,Pesado,1,VOLVO/FH 540,481,12.12
+2026,10,Outubro,Caminhões,Pesado,2,VOLVO/FH 500,386,7.88
+2026,10,Outubro,Caminhões,Pesado,3,DAF/XF 530,279,6.74
+2026,10,Outubro,Caminhões,Pesado,4,VOLVO/VM 360,222,5.76
+2026,10,Outubro,Caminhões,Pesado,5,SCANIA/R 460,334,5.29
+2026,10,Outubro,Caminhões,Pesado,6,SCANIA/R560,292,4.94
+2026,10,Outubro,Caminhões,Pesado,7,DAF/XF 480,174,4.16
+2026,10,Outubro,Caminhões,Pesado,8,VOLVO/FH 460,159,4.05
+2026,10,Outubro,Caminhões,Pesado,9,M.BENZ/AXOR 2545S,47,3.71
+2026,10,Outubro,Caminhões,Pesado,10,IVECO/S-WAY 480,158,3.44
+2026,10,Outubro,Motos,City,1,HONDA/CG 160,47527,57.61
+2026,10,Outubro,Motos,City,2,MOTTU/SPORT 110I,9621,12.3
+2026,10,Outubro,Motos,City,3,YAMAHA/YBR 150,6155,8.27
+2026,10,Outubro,Motos,City,4,HONDA/CB 300F,5465,6.49
+2026,10,Outubro,Motos,City,5,YAMAHA/FAZER 150,3864,4.6
+2026,10,Outubro,Motos,City,6,YAMAHA/FAZER 250,3112,4.5
+2026,10,Outubro,Motos,City,7,SHINERAY/SHI 150,380,1.39
+2026,10,Outubro,Motos,City,8,HAOJUE/DK160,896,1.26
+2026,10,Outubro,Motos,City,9,BAJAJ/PULSAR N150,1157,1.09
+2026,10,Outubro,Motos,City,10,SHINERAY/XY 150,522,0.63
+2026,10,Outubro,Motos,Custom,1,ROYAL ENFIELD/HUNTER 350,716,25.47
+2026,10,Outubro,Motos,Custom,2,ROYAL ENFIELD/SUPER METEOR 650,446,16.32
+2026,10,Outubro,Motos,Custom,3,ROYAL ENFIELD/METEOR,365,15.59
+2026,10,Outubro,Motos,Custom,4,TRIUMPH/SCRAMBLER 400,322,10.63
+2026,10,Outubro,Motos,Custom,5,ROYAL ENFIELD/CLASSIC 350,161,5.91
+2026,10,Outubro,Motos,Custom,6,ROYAL ENFIELD/SHOTGUN 650,111,4.61
+2026,10,Outubro,Motos,Custom,7,ROYAL ENFIELD/BEAR 650,104,3.11
+2026,10,Outubro,Motos,Custom,8,ROYAL ENFIELD/CLASSIC 650,49,2.16
+2026,10,Outubro,Motos,Custom,9,KAWASAKI/ELIMINATOR 500,59,2.1
+2026,10,Outubro,Motos,Custom,10,KAWASAKI/VULCAN S,30,1.48
+2026,10,Outubro,Motos,Trail/Fun,1,HONDA/NXR160,16293,43.05
+2026,10,Outubro,Motos,Trail/Fun,2,HONDA/XRE 190,4161,11.66
+2026,10,Outubro,Motos,Trail/Fun,3,HONDA/XRE 300,4764,9.69
+2026,10,Outubro,Motos,Trail/Fun,4,YAMAHA/XTZ 250,3042,9.07
+2026,10,Outubro,Motos,Trail/Fun,5,SHINERAY/SHI 175,2509,6.67
+2026,10,Outubro,Motos,Trail/Fun,6,YAMAHA/CROSSER 150,2613,6.62
+2026,10,Outubro,Motos,Trail/Fun,7,HONDA/XR 300L,1142,3.12
+2026,10,Outubro,Motos,Trail/Fun,8,AVELLOZ/AZ160,1266,2.98
+2026,10,Outubro,Motos,Trail/Fun,9,SHINERAY/SHI 250,897,2.24
+2026,10,Outubro,Motos,Trail/Fun,10,HAOJUE/DL 160,281,0.8
+2026,10,Outubro,Motos,Maxtrail,1,ROYAL ENFIELD/HIMALAYAN,775,18.03
+2026,10,Outubro,Motos,Maxtrail,2,HONDA/NX 500,562,14.63
+2026,10,Outubro,Motos,Maxtrail,3,BMW/R1300GSA,306,7.84
+2026,10,Outubro,Motos,Maxtrail,4,TRIUMPH/TIGER 900,196,6.56
+2026,10,Outubro,Motos,Maxtrail,5,HONDA/NC 750X,141,6.27
+2026,10,Outubro,Motos,Maxtrail,6,CFMOTO/IBEX 450,258,4.46
+2026,10,Outubro,Motos,Maxtrail,7,YAMAHA/XTZ 690,120,4.41
+2026,10,Outubro,Motos,Maxtrail,8,BMW/R1300GS,139,4.16
+2026,10,Outubro,Motos,Maxtrail,9,BMW/F900 GS,107,3.85
+2026,10,Outubro,Motos,Maxtrail,10,HONDA/CRF 1100L,124,3.78
+2026,10,Outubro,Motos,Naked/Roadster,1,YAMAHA/MT03,772,15.09
+2026,10,Outubro,Motos,Naked/Roadster,2,BAJAJ/DOMINAR D400,816,14.47
+2026,10,Outubro,Motos,Naked/Roadster,3,BAJAJ/NS400 Z,362,9.17
+2026,10,Outubro,Motos,Naked/Roadster,4,BAJAJ/DOMINAR NS160,435,8.44
+2026,10,Outubro,Motos,Naked/Roadster,5,BAJAJ/DOMINAR NS200,278,6.31
+2026,10,Outubro,Motos,Naked/Roadster,6,HONDA/CB 500,262,6.18
+2026,10,Outubro,Motos,Naked/Roadster,7,BAJAJ/DOMINAR D250,257,5.53
+2026,10,Outubro,Motos,Naked/Roadster,8,KAWASAKI/Z900,214,4.21
+2026,10,Outubro,Motos,Naked/Roadster,9,ROYAL ENFIELD/GUERRILLA 450,198,4.01
+2026,10,Outubro,Motos,Naked/Roadster,10,HONDA/CB 650R,187,3.5
+2026,10,Outubro,Motos,Scooter/Cub,1,HONDA/BIZ,21849,33.01
+2026,10,Outubro,Motos,Scooter/Cub,2,HONDA/POP 110I,25253,31.46
+2026,10,Outubro,Motos,Scooter/Cub,3,HONDA/PCX 160,3848,6.41
+2026,10,Outubro,Motos,Scooter/Cub,4,SHINERAY/SHI 125,3520,5.05
+2026,10,Outubro,Motos,Scooter/Cub,5,HONDA/ELITE 125,1653,3.68
+2026,10,Outubro,Motos,Scooter/Cub,6,HONDA/ADV 160,1193,2.39
+2026,10,Outubro,Motos,Scooter/Cub,7,YAMAHA/NMAX,1288,2.36
+2026,10,Outubro,Motos,Scooter/Cub,8,YAMAHA/AEROX 160,1252,1.99
+2026,10,Outubro,Motos,Scooter/Cub,9,AVELLOZ/AZ1,1050,1.77
+2026,10,Outubro,Motos,Scooter/Cub,10,SHINERAY/SHI 50,1011,1.56
+2026,10,Outubro,Motos,Sport,1,YAMAHA/YZF R15,1172,62.09
+2026,10,Outubro,Motos,Sport,2,YAMAHA/YZF R3,126,7.8
+2026,10,Outubro,Motos,Sport,3,KAWASAKI/NINJA 500,101,6.14
+2026,10,Outubro,Motos,Sport,4,KAWASAKI/NINJA ZX-6R,60,5.38
+2026,10,Outubro,Motos,Sport,5,KAWASAKI/NINJA 300,103,4.64
+2026,10,Outubro,Motos,Sport,6,BMW/S1000 R,100,4.54
+2026,10,Outubro,Motos,Sport,7,KAWASAKI/NINJA ZX-4R,84,4.35
+2026,10,Outubro,Motos,Sport,8,TRIUMPH/DAYTONA 660,17,1.26
+2026,10,Outubro,Motos,Sport,9,SUZUKI/GSX-8 R,10,0.89
+2026,10,Outubro,Motos,Sport,10,KAWASAKI/NINJA 650,1,0.62
+2026,10,Outubro,Motos,Touring,1,H.DAVIDSON/ROAD GLIDE,50,44.96
+2026,10,Outubro,Motos,Touring,2,BMW/R 1300 RT,30,33.27
+2026,10,Outubro,Motos,Touring,3,H.DAVIDSON/STREET GLIDE,16,17.88
+2026,10,Outubro,Motos,Touring,4,HONDA/GOLDWING,3,2.6
+2026,10,Outubro,Motos,Touring,5,BMW/K 1600,1,1.1
+2026,10,Outubro,Motos,Touring,6,BMW/R1250 RT,0,0.1
+2026,10,Outubro,Motos,Touring,7,H.DAVIDSON/ULTRA LIMITED,0,0.1
