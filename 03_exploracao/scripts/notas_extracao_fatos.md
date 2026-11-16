@@ -1,11 +1,11 @@
 # Notas técnicas de extração — Fenabrave (2022–2026)
 
-Atualizado após processar os 55 PDFs mensais (jan/2022 a jul/2026). Documenta como o script `extract_fenabrave.py` funciona e os casos especiais tratados.
+Atualizado após processar os 58 PDFs mensais (jan/2022 a out/2026). Documenta como o script `extract_fenabrave.py` funciona e os casos especiais tratados.
 
 ## 1. Fonte e cobertura
 
-- 55 relatórios mensais "Emplacamento de Autoveículos" da Fenabrave.
-- 12×2022, 12×2023, 12×2024, 12×2025, 7×2026 (jan–jul).
+- 58 relatórios mensais "Emplacamento de Autoveículos" da Fenabrave.
+- 12×2022, 12×2023, 12×2024, 12×2025, 10×2026 (jan–out).
 - Layout **não é estável** ao longo do tempo:
   - 2022–2023: relatório com ~46 páginas, **sem** seção "Mercado de Eletrificados".
   - 2024 em diante: relatório com ~52 páginas, **com** a seção de eletrificados.
@@ -41,7 +41,7 @@ Extração de texto via `pdfplumber` falha (texto vazio ou cheio de `(cid:NN)`, 
 
 | Arquivo | Conteúdo | Granularidade |
 |---|---|---|
-| `fato_resumo_segmento.csv` | Emplacamentos por segmento (Autos, Com. Leves, Caminhões, Ônibus, Subtotal, Motos, etc.) | mês × segmento |
+| `fato_resumo_segmento.csv` | Emplacamentos por segmento (Autos, Com. Leves, Caminhões, Ônibus, Subtotal, Motos, etc.), com coluna `origem` (ver seção 8) | mês × segmento |
 | `fato_marca.csv` | Ranking de marcas (Top-N do relatório) | mês × marca |
 | `fato_modelo.csv` | Ranking de modelos (Top-N) | mês × modelo |
 | `fato_modelo_categoria.csv` | Ranking de modelos por categoria/segmento de mercado | mês × categoria × modelo |
@@ -71,3 +71,24 @@ Também foi identificado, nos arquivos que passaram por OCR (`2023_09`, `2024_01
 - O número de rank (1º, 2º, 3º...) deixou de ser lido do texto (que pode vir corrompido) e passou a ser recalculado pela ordem de aparição dentro do bloco de categoria — mais robusto.
 
 **Resultado da correção**: `fato_modelo_categoria.csv` caiu de 75 para 30 valores distintos de `categoria` (todos legítimos agora); ganhou ~59 linhas recuperadas (dados que antes eram perdidos por cair no nome de categoria errado). As demais tabelas fato tiveram ~1 linha cada corrigida (dígito duplicado); nenhum outro campo foi afetado.
+
+## 8. Correção (16/11/2026): segmentos ausentes em `fato_resumo_segmento`
+
+O parser do "Resumo Mensal" deixava lacunas: a linha **Total Geral** faltava em 19 dos 58 meses (o rótulo "Total" não era capturado em várias edições) e os meses com fonte corrompida/OCR tinham outros segmentos ausentes (`2023_09`: 5 segmentos; `2024_01`, `2024_04`, `2024_05`: 1–3 cada). Todos os valores que *existiam* já eram consistentes entre si.
+
+**Solução** — `completar_resumo()` em `extract_fenabrave.py`, chamada por `extract_fenabrave.py` e `update_fenabrave.py` antes de gravar o CSV. Ela usa as identidades da própria tabela da Fenabrave:
+
+- Autos + Com. Leves = Autos + Com. Leves
+- Caminhões + Ônibus = Caminhões + Ônibus
+- Subtotal (A a D) = (Autos + Com. Leves) + (Caminhões + Ônibus)
+- Total Geral = Subtotal + Motos + Implementos Rodoviários + Outros
+
+Sempre que só um termo de uma identidade falta, ele é calculado (de forma iterativa, até não haver mais o que derivar). Se todos existem e a soma não bate, um aviso é impresso.
+
+Em set/2023 as identidades só dão a soma Com. Leves + Caminhões (50.196). Esses dois valores foram conferidos visualmente na pág. 1 de `2023_09_2.pdf` (41.751 e 8.445) e ficam fixados em `RESUMO_MANUAL`.
+
+Nova coluna **`origem`**: `extraido` (lido pelo parser, 609 linhas), `calculado` (derivado pelas identidades, 27) ou `conferido_pdf` (2). Resultado: os 11 segmentos presentes em todos os 58 meses. Os valores calculados foram conferidos contra o PDF onde o texto é legível (ex.: 2024/04 Caminhões = 10.553; 2024/01 C+D = 9.539; 2023/09 A+B = 187.433).
+
+**Observação sobre `fato_motorizacao`**: a soma das faixas de motorização bate com Autos/Com. Leves do resumo na maioria dos meses, mas difere em poucas unidades em 15 casos (ex.: 2025/01 a 2025/06) — diferença do próprio relatório. Por isso não é usada para completar o resumo.
+
+**Dependência de ambiente**: o OCR exige o pacote de idioma português do Tesseract (`tesseract-ocr-por`, no Debian/Ubuntu). Sem ele, reprocessar `2023_09`, `2024_01`, `2024_04` e `2024_05` do zero produz texto vazio/`(cid:NN)` nessas páginas.

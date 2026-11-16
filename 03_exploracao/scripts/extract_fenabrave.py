@@ -488,7 +488,7 @@ def process_pdf(path, ctx):
 # este arquivo como modulo para reaproveitar o parser sem duplicar codigo -
 # por isso todo o driver abaixo fica dentro do "if __name__ == '__main__'").
 FIELDNAMES = {
-    'resumo': ['ano','mes_num','mes_nome','segmento','quantidade_mes'],
+    'resumo': ['ano','mes_num','mes_nome','segmento','quantidade_mes','origem'],
     'marca': ['ano','mes_num','mes_nome','segmento','tipo_venda','rank','fabricante','quantidade_mes','participacao_pct'],
     'modelo': ['ano','mes_num','mes_nome','segmento','tipo_venda','rank','modelo','quantidade_mes'],
     'modelo_cat': ['ano','mes_num','mes_nome','segmento','categoria','rank','modelo','quantidade_mes','participacao_categoria_pct'],
@@ -501,6 +501,75 @@ FATO_FILENAME = {
     'modelo_cat': 'fato_modelo_categoria.csv', 'motorizacao': 'fato_motorizacao.csv',
     'eletrificados': 'fato_eletrificados.csv', 'eletrificados_resumo': 'fato_eletrificados_resumo.csv',
 }
+
+# =====================================================================
+# Completar fato_resumo_segmento pelas identidades contabeis do relatorio
+# =====================================================================
+# O parser do "Resumo Mensal" nem sempre captura todas as linhas (ex.: rotulo
+# "Total" perdido em varias edicoes; OCR/fonte corrompida em 2023_09, 2024_01,
+# 2024_04 e 2024_05). Como a propria tabela da Fenabrave obedece a identidades
+# fixas, os valores ausentes sao recalculados a partir dos presentes, e a
+# coluna `origem` registra de onde veio cada numero:
+#   extraido      -> lido do PDF pelo parser
+#   calculado     -> derivado pelas identidades abaixo
+#   conferido_pdf -> digitado a partir da leitura visual da pagina do PDF
+#                    (so quando as identidades nao bastam - ver RESUMO_MANUAL)
+SEGMENTOS_RESUMO = ['Autos', 'Com. Leves', 'Autos + Com. Leves', 'Caminhões', 'Ônibus',
+                    'Caminhões + Ônibus', 'Subtotal (A a D)', 'Motos',
+                    'Implementos Rodoviários', 'Outros', 'Total Geral']
+IDENTIDADES_RESUMO = [  # total = soma das partes
+    ('Autos + Com. Leves', ['Autos', 'Com. Leves']),
+    ('Caminhões + Ônibus', ['Caminhões', 'Ônibus']),
+    ('Subtotal (A a D)', ['Autos + Com. Leves', 'Caminhões + Ônibus']),
+    ('Total Geral', ['Subtotal (A a D)', 'Motos', 'Implementos Rodoviários', 'Outros']),
+]
+# set/2023: PDF 100% rasterizado; "Com. Leves" e "Caminhões" nao foram lidos e
+# as identidades so dao a soma dos dois (50.196). Valores conferidos na pag. 1
+# de 2023_09_2.pdf (Com. Leves bate tambem com a soma de fato_motorizacao).
+RESUMO_MANUAL = {
+    (2023, 9): {'Com. Leves': 41751, 'Caminhões': 8445},
+}
+
+def completar_resumo(rows):
+    """Recebe linhas de fato_resumo_segmento (qualquer numero de meses) e
+    devolve a lista completa, com segmentos ausentes calculados e ordenada.
+    Idempotente: pode ser aplicada de novo sobre o CSV ja completado."""
+    meses = {}
+    for r in rows:
+        k = (int(r['ano']), int(r['mes_num']))
+        meses.setdefault(k, {'mes_nome': r['mes_nome'], 'seg': {}})
+        meses[k]['seg'][r['segmento']] = (int(r['quantidade_mes']), r.get('origem') or 'extraido')
+    out = []
+    for (ano, mes), info in sorted(meses.items()):
+        seg = info['seg']
+        for nome, v in RESUMO_MANUAL.get((ano, mes), {}).items():
+            if nome not in seg:
+                seg[nome] = (v, 'conferido_pdf')
+        mudou = True
+        while mudou:
+            mudou = False
+            for total, partes in IDENTIDADES_RESUMO:
+                faltam = [p for p in [total] + partes if p not in seg]
+                if len(faltam) != 1:
+                    continue
+                alvo = faltam[0]
+                if alvo == total:
+                    v = sum(seg[p][0] for p in partes)
+                else:
+                    v = seg[total][0] - sum(seg[p][0] for p in partes if p != alvo)
+                seg[alvo] = (v, 'calculado')
+                mudou = True
+        for total, partes in IDENTIDADES_RESUMO:
+            if all(p in seg for p in [total] + partes) and seg[total][0] != sum(seg[p][0] for p in partes):
+                print(f'  [AVISO] resumo {ano}-{mes:02d}: {total} != soma de {partes}', file=sys.stderr)
+        faltando = [s for s in SEGMENTOS_RESUMO if s not in seg]
+        if faltando:
+            print(f'  [AVISO] resumo {ano}-{mes:02d}: sem valor para {faltando}', file=sys.stderr)
+        for nome in SEGMENTOS_RESUMO:
+            if nome in seg:
+                out.append({'ano': ano, 'mes_num': mes, 'mes_nome': info['mes_nome'], 'segmento': nome,
+                            'quantidade_mes': seg[nome][0], 'origem': seg[nome][1]})
+    return out
 
 def write_csv(path, rows, fieldnames):
     with open(path, 'w', newline='', encoding='utf-8') as fh:
@@ -529,5 +598,6 @@ if __name__ == '__main__':
         for k in agg:
             agg[k].extend(result[k])
 
+    agg['resumo'] = completar_resumo(agg['resumo'])
     for k, fname in FATO_FILENAME.items():
         write_csv(os.path.join(OUT_DIR, fname), agg[k], FIELDNAMES[k])

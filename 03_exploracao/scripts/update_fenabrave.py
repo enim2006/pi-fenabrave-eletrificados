@@ -23,7 +23,7 @@ so o nome do arquivo precisa seguir o padrao AAAA_MM_*.pdf.
 import csv, os, sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from extract_fenabrave import process_pdf, MESES_PT, FIELDNAMES, FATO_FILENAME, write_csv
+from extract_fenabrave import process_pdf, MESES_PT, FIELDNAMES, FATO_FILENAME, write_csv, completar_resumo
 
 
 def read_csv_rows(path, fieldnames):
@@ -66,6 +66,8 @@ def main():
         mantidas = [r for r in existentes if (int(r['ano']), int(r['mes_num'])) not in novos_meses]
         combinadas = mantidas + agg_novos[k]
         combinadas.sort(key=sort_key)
+        if k == 'resumo':
+            combinadas = completar_resumo(combinadas)
         write_csv(path, combinadas, FIELDNAMES[k])
 
 
