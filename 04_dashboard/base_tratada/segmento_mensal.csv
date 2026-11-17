@@ -1,0 +1,639 @@
+periodo,ano,mes_num,mes_nome,segmento,agregado,emplacamentos,origem
+2022-01,2022,1,Janeiro,Autos,False,92212,extraido
+2022-01,2022,1,Janeiro,Caminhões,False,8517,extraido
+2022-01,2022,1,Janeiro,Com. Leves,False,24389,extraido
+2022-01,2022,1,Janeiro,Implementos Rodoviários,False,6724,extraido
+2022-01,2022,1,Janeiro,Motos,False,89685,extraido
+2022-01,2022,1,Janeiro,Outros,False,7888,extraido
+2022-01,2022,1,Janeiro,Ônibus,False,1368,extraido
+2022-01,2022,1,Janeiro,Autos + Com. Leves,True,116601,extraido
+2022-01,2022,1,Janeiro,Caminhões + Ônibus,True,9885,extraido
+2022-01,2022,1,Janeiro,Subtotal (A a D),True,126486,extraido
+2022-01,2022,1,Janeiro,Total Geral,True,230783,calculado
+2022-02,2022,2,Fevereiro,Autos,False,97590,extraido
+2022-02,2022,2,Fevereiro,Caminhões,False,7961,extraido
+2022-02,2022,2,Fevereiro,Com. Leves,False,22602,extraido
+2022-02,2022,2,Fevereiro,Implementos Rodoviários,False,5937,extraido
+2022-02,2022,2,Fevereiro,Motos,False,74065,extraido
+2022-02,2022,2,Fevereiro,Outros,False,8529,extraido
+2022-02,2022,2,Fevereiro,Ônibus,False,1123,extraido
+2022-02,2022,2,Fevereiro,Autos + Com. Leves,True,120192,extraido
+2022-02,2022,2,Fevereiro,Caminhões + Ônibus,True,9084,extraido
+2022-02,2022,2,Fevereiro,Subtotal (A a D),True,129276,extraido
+2022-02,2022,2,Fevereiro,Total Geral,True,217807,extraido
+2022-03,2022,3,Março,Autos,False,108244,extraido
+2022-03,2022,3,Março,Caminhões,False,10133,extraido
+2022-03,2022,3,Março,Com. Leves,False,26660,extraido
+2022-03,2022,3,Março,Implementos Rodoviários,False,6796,extraido
+2022-03,2022,3,Março,Motos,False,110083,extraido
+2022-03,2022,3,Março,Outros,False,9915,extraido
+2022-03,2022,3,Março,Ônibus,False,1779,extraido
+2022-03,2022,3,Março,Autos + Com. Leves,True,134904,extraido
+2022-03,2022,3,Março,Caminhões + Ônibus,True,11912,extraido
+2022-03,2022,3,Março,Subtotal (A a D),True,146816,extraido
+2022-03,2022,3,Março,Total Geral,True,273610,extraido
+2022-04,2022,4,Abril,Autos,False,109684,extraido
+2022-04,2022,4,Abril,Caminhões,False,9375,extraido
+2022-04,2022,4,Abril,Com. Leves,False,26657,extraido
+2022-04,2022,4,Abril,Implementos Rodoviários,False,6572,extraido
+2022-04,2022,4,Abril,Motos,False,107737,extraido
+2022-04,2022,4,Abril,Outros,False,9014,extraido
+2022-04,2022,4,Abril,Ônibus,False,1521,extraido
+2022-04,2022,4,Abril,Autos + Com. Leves,True,136341,extraido
+2022-04,2022,4,Abril,Caminhões + Ônibus,True,10896,extraido
+2022-04,2022,4,Abril,Subtotal (A a D),True,147237,extraido
+2022-04,2022,4,Abril,Total Geral,True,270560,extraido
+2022-05,2022,5,Maio,Autos,False,139472,extraido
+2022-05,2022,5,Maio,Caminhões,False,10319,extraido
+2022-05,2022,5,Maio,Com. Leves,False,35342,extraido
+2022-05,2022,5,Maio,Implementos Rodoviários,False,7215,extraido
+2022-05,2022,5,Maio,Motos,False,133372,extraido
+2022-05,2022,5,Maio,Outros,False,10784,extraido
+2022-05,2022,5,Maio,Ônibus,False,1936,extraido
+2022-05,2022,5,Maio,Autos + Com. Leves,True,174814,extraido
+2022-05,2022,5,Maio,Caminhões + Ônibus,True,12255,extraido
+2022-05,2022,5,Maio,Subtotal (A a D),True,187069,extraido
+2022-05,2022,5,Maio,Total Geral,True,338440,extraido
+2022-06,2022,6,Junho,Autos,False,133587,extraido
+2022-06,2022,6,Junho,Caminhões,False,10862,extraido
+2022-06,2022,6,Junho,Com. Leves,False,31883,extraido
+2022-06,2022,6,Junho,Implementos Rodoviários,False,6937,extraido
+2022-06,2022,6,Junho,Motos,False,120869,extraido
+2022-06,2022,6,Junho,Outros,False,10097,extraido
+2022-06,2022,6,Junho,Ônibus,False,1731,extraido
+2022-06,2022,6,Junho,Autos + Com. Leves,True,165470,extraido
+2022-06,2022,6,Junho,Caminhões + Ônibus,True,12593,extraido
+2022-06,2022,6,Junho,Subtotal (A a D),True,178063,extraido
+2022-06,2022,6,Junho,Total Geral,True,315966,extraido
+2022-07,2022,7,Julho,Autos,False,135522,extraido
+2022-07,2022,7,Julho,Caminhões,False,11328,extraido
+2022-07,2022,7,Julho,Com. Leves,False,33571,extraido
+2022-07,2022,7,Julho,Implementos Rodoviários,False,7306,extraido
+2022-07,2022,7,Julho,Motos,False,107619,extraido
+2022-07,2022,7,Julho,Outros,False,10802,extraido
+2022-07,2022,7,Julho,Ônibus,False,1561,extraido
+2022-07,2022,7,Julho,Autos + Com. Leves,True,169093,extraido
+2022-07,2022,7,Julho,Caminhões + Ônibus,True,12889,extraido
+2022-07,2022,7,Julho,Subtotal (A a D),True,181982,extraido
+2022-07,2022,7,Julho,Total Geral,True,307709,extraido
+2022-08,2022,8,Agosto,Autos,False,155095,extraido
+2022-08,2022,8,Agosto,Caminhões,False,12301,extraido
+2022-08,2022,8,Agosto,Com. Leves,False,39047,extraido
+2022-08,2022,8,Agosto,Implementos Rodoviários,False,7776,extraido
+2022-08,2022,8,Agosto,Motos,False,118549,extraido
+2022-08,2022,8,Agosto,Outros,False,11687,extraido
+2022-08,2022,8,Agosto,Ônibus,False,2050,extraido
+2022-08,2022,8,Agosto,Autos + Com. Leves,True,194142,extraido
+2022-08,2022,8,Agosto,Caminhões + Ônibus,True,14351,extraido
+2022-08,2022,8,Agosto,Subtotal (A a D),True,208493,extraido
+2022-08,2022,8,Agosto,Total Geral,True,346505,extraido
+2022-09,2022,9,Setembro,Autos,False,143210,extraido
+2022-09,2022,9,Setembro,Caminhões,False,11091,extraido
+2022-09,2022,9,Setembro,Com. Leves,False,37214,extraido
+2022-09,2022,9,Setembro,Implementos Rodoviários,False,7357,extraido
+2022-09,2022,9,Setembro,Motos,False,123645,extraido
+2022-09,2022,9,Setembro,Outros,False,10351,extraido
+2022-09,2022,9,Setembro,Ônibus,False,2436,extraido
+2022-09,2022,9,Setembro,Autos + Com. Leves,True,180424,extraido
+2022-09,2022,9,Setembro,Caminhões + Ônibus,True,13527,extraido
+2022-09,2022,9,Setembro,Subtotal (A a D),True,193951,extraido
+2022-09,2022,9,Setembro,Total Geral,True,335304,extraido
+2022-10,2022,10,Outubro,Autos,False,137003,extraido
+2022-10,2022,10,Outubro,Caminhões,False,10582,extraido
+2022-10,2022,10,Outubro,Com. Leves,False,31471,extraido
+2022-10,2022,10,Outubro,Implementos Rodoviários,False,6349,extraido
+2022-10,2022,10,Outubro,Motos,False,120251,extraido
+2022-10,2022,10,Outubro,Outros,False,9335,extraido
+2022-10,2022,10,Outubro,Ônibus,False,1828,extraido
+2022-10,2022,10,Outubro,Autos + Com. Leves,True,168474,extraido
+2022-10,2022,10,Outubro,Caminhões + Ônibus,True,12410,extraido
+2022-10,2022,10,Outubro,Subtotal (A a D),True,180884,extraido
+2022-10,2022,10,Outubro,Total Geral,True,316819,extraido
+2022-11,2022,11,Novembro,Autos,False,158766,extraido
+2022-11,2022,11,Novembro,Caminhões,False,9935,extraido
+2022-11,2022,11,Novembro,Com. Leves,False,33178,extraido
+2022-11,2022,11,Novembro,Implementos Rodoviários,False,6203,extraido
+2022-11,2022,11,Novembro,Motos,False,123206,extraido
+2022-11,2022,11,Novembro,Outros,False,9416,extraido
+2022-11,2022,11,Novembro,Ônibus,False,2115,extraido
+2022-11,2022,11,Novembro,Autos + Com. Leves,True,191944,extraido
+2022-11,2022,11,Novembro,Caminhões + Ônibus,True,12050,extraido
+2022-11,2022,11,Novembro,Subtotal (A a D),True,203994,extraido
+2022-11,2022,11,Novembro,Total Geral,True,342819,extraido
+2022-12,2022,12,Dezembro,Autos,False,164169,extraido
+2022-12,2022,12,Dezembro,Caminhões,False,12064,extraido
+2022-12,2022,12,Dezembro,Com. Leves,False,38007,extraido
+2022-12,2022,12,Dezembro,Implementos Rodoviários,False,7891,extraido
+2022-12,2022,12,Dezembro,Motos,False,132129,extraido
+2022-12,2022,12,Dezembro,Outros,False,9955,extraido
+2022-12,2022,12,Dezembro,Ônibus,False,2680,extraido
+2022-12,2022,12,Dezembro,Autos + Com. Leves,True,202176,extraido
+2022-12,2022,12,Dezembro,Caminhões + Ônibus,True,14744,extraido
+2022-12,2022,12,Dezembro,Subtotal (A a D),True,216920,extraido
+2022-12,2022,12,Dezembro,Total Geral,True,366895,extraido
+2023-01,2023,1,Janeiro,Autos,False,103872,extraido
+2023-01,2023,1,Janeiro,Caminhões,False,10215,extraido
+2023-01,2023,1,Janeiro,Com. Leves,False,26588,extraido
+2023-01,2023,1,Janeiro,Implementos Rodoviários,False,6539,extraido
+2023-01,2023,1,Janeiro,Motos,False,110493,extraido
+2023-01,2023,1,Janeiro,Outros,False,8522,extraido
+2023-01,2023,1,Janeiro,Ônibus,False,2152,extraido
+2023-01,2023,1,Janeiro,Autos + Com. Leves,True,130460,extraido
+2023-01,2023,1,Janeiro,Caminhões + Ônibus,True,12367,extraido
+2023-01,2023,1,Janeiro,Subtotal (A a D),True,142827,extraido
+2023-01,2023,1,Janeiro,Total Geral,True,268381,extraido
+2023-02,2023,2,Fevereiro,Autos,False,95809,extraido
+2023-02,2023,2,Fevereiro,Caminhões,False,7825,extraido
+2023-02,2023,2,Fevereiro,Com. Leves,False,23946,extraido
+2023-02,2023,2,Fevereiro,Implementos Rodoviários,False,5923,extraido
+2023-02,2023,2,Fevereiro,Motos,False,100549,extraido
+2023-02,2023,2,Fevereiro,Outros,False,8904,extraido
+2023-02,2023,2,Fevereiro,Ônibus,False,2288,extraido
+2023-02,2023,2,Fevereiro,Autos + Com. Leves,True,119755,extraido
+2023-02,2023,2,Fevereiro,Caminhões + Ônibus,True,10113,extraido
+2023-02,2023,2,Fevereiro,Subtotal (A a D),True,129868,extraido
+2023-02,2023,2,Fevereiro,Total Geral,True,245244,extraido
+2023-03,2023,3,Março,Autos,False,146174,extraido
+2023-03,2023,3,Março,Caminhões,False,9389,extraido
+2023-03,2023,3,Março,Com. Leves,False,40409,extraido
+2023-03,2023,3,Março,Implementos Rodoviários,False,8385,extraido
+2023-03,2023,3,Março,Motos,False,145945,extraido
+2023-03,2023,3,Março,Outros,False,11773,extraido
+2023-03,2023,3,Março,Ônibus,False,2937,extraido
+2023-03,2023,3,Março,Autos + Com. Leves,True,186583,extraido
+2023-03,2023,3,Março,Caminhões + Ônibus,True,12326,extraido
+2023-03,2023,3,Março,Subtotal (A a D),True,198909,extraido
+2023-03,2023,3,Março,Total Geral,True,365012,extraido
+2023-04,2023,4,Abril,Autos,False,118127,extraido
+2023-04,2023,4,Abril,Caminhões,False,7294,extraido
+2023-04,2023,4,Abril,Com. Leves,False,33594,extraido
+2023-04,2023,4,Abril,Implementos Rodoviários,False,6207,extraido
+2023-04,2023,4,Abril,Motos,False,120908,extraido
+2023-04,2023,4,Abril,Outros,False,9063,extraido
+2023-04,2023,4,Abril,Ônibus,False,1669,extraido
+2023-04,2023,4,Abril,Autos + Com. Leves,True,151721,extraido
+2023-04,2023,4,Abril,Caminhões + Ônibus,True,8963,extraido
+2023-04,2023,4,Abril,Subtotal (A a D),True,160684,extraido
+2023-04,2023,4,Abril,Total Geral,True,296862,extraido
+2023-05,2023,5,Maio,Autos,False,127482,extraido
+2023-05,2023,5,Maio,Caminhões,False,7893,extraido
+2023-05,2023,5,Maio,Com. Leves,False,38879,extraido
+2023-05,2023,5,Maio,Implementos Rodoviários,False,7677,extraido
+2023-05,2023,5,Maio,Motos,False,161433,extraido
+2023-05,2023,5,Maio,Outros,False,11669,extraido
+2023-05,2023,5,Maio,Ônibus,False,2237,extraido
+2023-05,2023,5,Maio,Autos + Com. Leves,True,166361,extraido
+2023-05,2023,5,Maio,Caminhões + Ônibus,True,10130,extraido
+2023-05,2023,5,Maio,Subtotal (A a D),True,176491,extraido
+2023-05,2023,5,Maio,Total Geral,True,357270,extraido
+2023-06,2023,6,Junho,Autos,False,142017,extraido
+2023-06,2023,6,Junho,Caminhões,False,7722,extraido
+2023-06,2023,6,Junho,Com. Leves,False,37674,extraido
+2023-06,2023,6,Junho,Implementos Rodoviários,False,7323,extraido
+2023-06,2023,6,Junho,Motos,False,140312,extraido
+2023-06,2023,6,Junho,Outros,False,11297,extraido
+2023-06,2023,6,Junho,Ônibus,False,2115,extraido
+2023-06,2023,6,Junho,Autos + Com. Leves,True,179691,extraido
+2023-06,2023,6,Junho,Caminhões + Ônibus,True,9837,extraido
+2023-06,2023,6,Junho,Subtotal (A a D),True,189528,extraido
+2023-06,2023,6,Junho,Total Geral,True,348460,extraido
+2023-07,2023,7,Julho,Autos,False,176742,extraido
+2023-07,2023,7,Julho,Caminhões,False,8109,extraido
+2023-07,2023,7,Julho,Com. Leves,False,38969,extraido
+2023-07,2023,7,Julho,Implementos Rodoviários,False,7316,extraido
+2023-07,2023,7,Julho,Motos,False,123051,extraido
+2023-07,2023,7,Julho,Outros,False,11222,extraido
+2023-07,2023,7,Julho,Ônibus,False,1783,extraido
+2023-07,2023,7,Julho,Autos + Com. Leves,True,215711,extraido
+2023-07,2023,7,Julho,Caminhões + Ônibus,True,9892,extraido
+2023-07,2023,7,Julho,Subtotal (A a D),True,225603,extraido
+2023-07,2023,7,Julho,Total Geral,True,367192,extraido
+2023-08,2023,8,Agosto,Autos,False,153478,extraido
+2023-08,2023,8,Agosto,Caminhões,False,8968,extraido
+2023-08,2023,8,Agosto,Com. Leves,False,43400,extraido
+2023-08,2023,8,Agosto,Implementos Rodoviários,False,8541,extraido
+2023-08,2023,8,Agosto,Motos,False,142714,extraido
+2023-08,2023,8,Agosto,Outros,False,12525,extraido
+2023-08,2023,8,Agosto,Ônibus,False,1871,extraido
+2023-08,2023,8,Agosto,Autos + Com. Leves,True,196878,extraido
+2023-08,2023,8,Agosto,Caminhões + Ônibus,True,10839,extraido
+2023-08,2023,8,Agosto,Subtotal (A a D),True,207717,extraido
+2023-08,2023,8,Agosto,Total Geral,True,371497,extraido
+2023-09,2023,9,Setembro,Autos,False,145682,extraido
+2023-09,2023,9,Setembro,Caminhões,False,8445,conferido_pdf
+2023-09,2023,9,Setembro,Com. Leves,False,41751,conferido_pdf
+2023-09,2023,9,Setembro,Implementos Rodoviários,False,7786,calculado
+2023-09,2023,9,Setembro,Motos,False,135130,extraido
+2023-09,2023,9,Setembro,Outros,False,10712,extraido
+2023-09,2023,9,Setembro,Ônibus,False,1795,extraido
+2023-09,2023,9,Setembro,Autos + Com. Leves,True,187433,calculado
+2023-09,2023,9,Setembro,Caminhões + Ônibus,True,10240,calculado
+2023-09,2023,9,Setembro,Subtotal (A a D),True,197673,extraido
+2023-09,2023,9,Setembro,Total Geral,True,351301,extraido
+2023-10,2023,10,Outubro,Autos,False,163134,extraido
+2023-10,2023,10,Outubro,Caminhões,False,9157,extraido
+2023-10,2023,10,Outubro,Com. Leves,False,43535,extraido
+2023-10,2023,10,Outubro,Implementos Rodoviários,False,8964,extraido
+2023-10,2023,10,Outubro,Motos,False,137606,extraido
+2023-10,2023,10,Outubro,Outros,False,10817,extraido
+2023-10,2023,10,Outubro,Ônibus,False,1919,extraido
+2023-10,2023,10,Outubro,Autos + Com. Leves,True,206669,extraido
+2023-10,2023,10,Outubro,Caminhões + Ônibus,True,11076,extraido
+2023-10,2023,10,Outubro,Subtotal (A a D),True,217745,extraido
+2023-10,2023,10,Outubro,Total Geral,True,375132,extraido
+2023-11,2023,11,Novembro,Autos,False,160693,extraido
+2023-11,2023,11,Novembro,Caminhões,False,9050,extraido
+2023-11,2023,11,Novembro,Com. Leves,False,40956,extraido
+2023-11,2023,11,Novembro,Implementos Rodoviários,False,7606,extraido
+2023-11,2023,11,Novembro,Motos,False,130469,extraido
+2023-11,2023,11,Novembro,Outros,False,10488,extraido
+2023-11,2023,11,Novembro,Ônibus,False,1944,extraido
+2023-11,2023,11,Novembro,Autos + Com. Leves,True,201649,extraido
+2023-11,2023,11,Novembro,Caminhões + Ônibus,True,10994,extraido
+2023-11,2023,11,Novembro,Subtotal (A a D),True,212643,extraido
+2023-11,2023,11,Novembro,Total Geral,True,361206,extraido
+2023-12,2023,12,Dezembro,Autos,False,187751,extraido
+2023-12,2023,12,Dezembro,Caminhões,False,10068,extraido
+2023-12,2023,12,Dezembro,Com. Leves,False,48846,extraido
+2023-12,2023,12,Dezembro,Implementos Rodoviários,False,7874,extraido
+2023-12,2023,12,Dezembro,Motos,False,132752,extraido
+2023-12,2023,12,Dezembro,Outros,False,10850,extraido
+2023-12,2023,12,Dezembro,Ônibus,False,1877,extraido
+2023-12,2023,12,Dezembro,Autos + Com. Leves,True,236597,extraido
+2023-12,2023,12,Dezembro,Caminhões + Ônibus,True,11945,extraido
+2023-12,2023,12,Dezembro,Subtotal (A a D),True,248542,extraido
+2023-12,2023,12,Dezembro,Total Geral,True,400018,extraido
+2024-01,2024,1,Janeiro,Autos,False,118507,extraido
+2024-01,2024,1,Janeiro,Caminhões,False,7993,extraido
+2024-01,2024,1,Janeiro,Com. Leves,False,33555,extraido
+2024-01,2024,1,Janeiro,Implementos Rodoviários,False,7072,extraido
+2024-01,2024,1,Janeiro,Motos,False,143327,extraido
+2024-01,2024,1,Janeiro,Outros,False,10505,extraido
+2024-01,2024,1,Janeiro,Ônibus,False,1546,extraido
+2024-01,2024,1,Janeiro,Autos + Com. Leves,True,152062,extraido
+2024-01,2024,1,Janeiro,Caminhões + Ônibus,True,9539,calculado
+2024-01,2024,1,Janeiro,Subtotal (A a D),True,161601,extraido
+2024-01,2024,1,Janeiro,Total Geral,True,322505,extraido
+2024-02,2024,2,Fevereiro,Autos,False,120315,extraido
+2024-02,2024,2,Fevereiro,Caminhões,False,8200,extraido
+2024-02,2024,2,Fevereiro,Com. Leves,False,34968,extraido
+2024-02,2024,2,Fevereiro,Implementos Rodoviários,False,7474,extraido
+2024-02,2024,2,Fevereiro,Motos,False,136285,extraido
+2024-02,2024,2,Fevereiro,Outros,False,10368,extraido
+2024-02,2024,2,Fevereiro,Ônibus,False,1723,extraido
+2024-02,2024,2,Fevereiro,Autos + Com. Leves,True,155283,extraido
+2024-02,2024,2,Fevereiro,Caminhões + Ônibus,True,9923,extraido
+2024-02,2024,2,Fevereiro,Subtotal (A a D),True,165206,extraido
+2024-02,2024,2,Fevereiro,Total Geral,True,319333,extraido
+2024-03,2024,3,Março,Autos,False,137889,extraido
+2024-03,2024,3,Março,Caminhões,False,9701,extraido
+2024-03,2024,3,Março,Com. Leves,False,38093,extraido
+2024-03,2024,3,Março,Implementos Rodoviários,False,7559,extraido
+2024-03,2024,3,Março,Motos,False,152670,extraido
+2024-03,2024,3,Março,Outros,False,10839,extraido
+2024-03,2024,3,Março,Ônibus,False,2046,extraido
+2024-03,2024,3,Março,Autos + Com. Leves,True,175982,extraido
+2024-03,2024,3,Março,Caminhões + Ônibus,True,11747,extraido
+2024-03,2024,3,Março,Subtotal (A a D),True,187729,extraido
+2024-03,2024,3,Março,Total Geral,True,358797,extraido
+2024-04,2024,4,Abril,Autos,False,164365,extraido
+2024-04,2024,4,Abril,Caminhões,False,10553,calculado
+2024-04,2024,4,Abril,Com. Leves,False,43713,extraido
+2024-04,2024,4,Abril,Implementos Rodoviários,False,8019,extraido
+2024-04,2024,4,Abril,Motos,False,170252,extraido
+2024-04,2024,4,Abril,Outros,False,11446,extraido
+2024-04,2024,4,Abril,Ônibus,False,2182,extraido
+2024-04,2024,4,Abril,Autos + Com. Leves,True,208078,extraido
+2024-04,2024,4,Abril,Caminhões + Ônibus,True,12735,extraido
+2024-04,2024,4,Abril,Subtotal (A a D),True,220813,extraido
+2024-04,2024,4,Abril,Total Geral,True,410530,extraido
+2024-05,2024,5,Maio,Autos,False,144027,calculado
+2024-05,2024,5,Maio,Caminhões,False,9360,extraido
+2024-05,2024,5,Maio,Com. Leves,False,39187,extraido
+2024-05,2024,5,Maio,Implementos Rodoviários,False,6808,extraido
+2024-05,2024,5,Maio,Motos,False,164502,extraido
+2024-05,2024,5,Maio,Outros,False,11001,calculado
+2024-05,2024,5,Maio,Ônibus,False,1683,extraido
+2024-05,2024,5,Maio,Autos + Com. Leves,True,183214,calculado
+2024-05,2024,5,Maio,Caminhões + Ônibus,True,11043,extraido
+2024-05,2024,5,Maio,Subtotal (A a D),True,194257,extraido
+2024-05,2024,5,Maio,Total Geral,True,376568,extraido
+2024-06,2024,6,Junho,Autos,False,163808,extraido
+2024-06,2024,6,Junho,Caminhões,False,9663,extraido
+2024-06,2024,6,Junho,Com. Leves,False,38666,extraido
+2024-06,2024,6,Junho,Implementos Rodoviários,False,7699,extraido
+2024-06,2024,6,Junho,Motos,False,165855,extraido
+2024-06,2024,6,Junho,Outros,False,12309,extraido
+2024-06,2024,6,Junho,Ônibus,False,2152,extraido
+2024-06,2024,6,Junho,Autos + Com. Leves,True,202474,extraido
+2024-06,2024,6,Junho,Caminhões + Ônibus,True,11815,extraido
+2024-06,2024,6,Junho,Subtotal (A a D),True,214289,extraido
+2024-06,2024,6,Junho,Total Geral,True,400152,extraido
+2024-07,2024,7,Julho,Autos,False,178047,extraido
+2024-07,2024,7,Julho,Caminhões,False,11082,extraido
+2024-07,2024,7,Julho,Com. Leves,False,49253,extraido
+2024-07,2024,7,Julho,Implementos Rodoviários,False,7858,extraido
+2024-07,2024,7,Julho,Motos,False,156893,extraido
+2024-07,2024,7,Julho,Outros,False,13736,extraido
+2024-07,2024,7,Julho,Ônibus,False,2960,extraido
+2024-07,2024,7,Julho,Autos + Com. Leves,True,227300,extraido
+2024-07,2024,7,Julho,Caminhões + Ônibus,True,14042,extraido
+2024-07,2024,7,Julho,Subtotal (A a D),True,241342,extraido
+2024-07,2024,7,Julho,Total Geral,True,419829,extraido
+2024-08,2024,8,Agosto,Autos,False,170995,extraido
+2024-08,2024,8,Agosto,Caminhões,False,11303,extraido
+2024-08,2024,8,Agosto,Com. Leves,False,52201,extraido
+2024-08,2024,8,Agosto,Implementos Rodoviários,False,7685,extraido
+2024-08,2024,8,Agosto,Motos,False,163882,extraido
+2024-08,2024,8,Agosto,Outros,False,13918,extraido
+2024-08,2024,8,Agosto,Ônibus,False,2885,extraido
+2024-08,2024,8,Agosto,Autos + Com. Leves,True,223196,extraido
+2024-08,2024,8,Agosto,Caminhões + Ônibus,True,14188,extraido
+2024-08,2024,8,Agosto,Subtotal (A a D),True,237384,extraido
+2024-08,2024,8,Agosto,Total Geral,True,422869,extraido
+2024-09,2024,9,Setembro,Autos,False,171658,extraido
+2024-09,2024,9,Setembro,Caminhões,False,11218,extraido
+2024-09,2024,9,Setembro,Com. Leves,False,51028,extraido
+2024-09,2024,9,Setembro,Implementos Rodoviários,False,7238,extraido
+2024-09,2024,9,Setembro,Motos,False,156607,extraido
+2024-09,2024,9,Setembro,Outros,False,12883,extraido
+2024-09,2024,9,Setembro,Ônibus,False,2449,extraido
+2024-09,2024,9,Setembro,Autos + Com. Leves,True,222686,extraido
+2024-09,2024,9,Setembro,Caminhões + Ônibus,True,13667,extraido
+2024-09,2024,9,Setembro,Subtotal (A a D),True,236353,extraido
+2024-09,2024,9,Setembro,Total Geral,True,413081,extraido
+2024-10,2024,10,Outubro,Autos,False,195201,extraido
+2024-10,2024,10,Outubro,Caminhões,False,11901,extraido
+2024-10,2024,10,Outubro,Com. Leves,False,54695,extraido
+2024-10,2024,10,Outubro,Implementos Rodoviários,False,7687,extraido
+2024-10,2024,10,Outubro,Motos,False,166722,extraido
+2024-10,2024,10,Outubro,Outros,False,13477,extraido
+2024-10,2024,10,Outubro,Ônibus,False,3139,extraido
+2024-10,2024,10,Outubro,Autos + Com. Leves,True,249896,extraido
+2024-10,2024,10,Outubro,Caminhões + Ônibus,True,15040,extraido
+2024-10,2024,10,Outubro,Subtotal (A a D),True,264936,extraido
+2024-10,2024,10,Outubro,Total Geral,True,452822,calculado
+2024-11,2024,11,Novembro,Autos,False,193730,extraido
+2024-11,2024,11,Novembro,Caminhões,False,10002,extraido
+2024-11,2024,11,Novembro,Com. Leves,False,47461,extraido
+2024-11,2024,11,Novembro,Implementos Rodoviários,False,6682,extraido
+2024-11,2024,11,Novembro,Motos,False,147018,extraido
+2024-11,2024,11,Novembro,Outros,False,12387,extraido
+2024-11,2024,11,Novembro,Ônibus,False,2309,extraido
+2024-11,2024,11,Novembro,Autos + Com. Leves,True,241191,extraido
+2024-11,2024,11,Novembro,Caminhões + Ônibus,True,12311,extraido
+2024-11,2024,11,Novembro,Subtotal (A a D),True,253502,extraido
+2024-11,2024,11,Novembro,Total Geral,True,419589,calculado
+2024-12,2024,12,Dezembro,Autos,False,189862,extraido
+2024-12,2024,12,Dezembro,Caminhões,False,11159,extraido
+2024-12,2024,12,Dezembro,Com. Leves,False,53829,extraido
+2024-12,2024,12,Dezembro,Implementos Rodoviários,False,6820,extraido
+2024-12,2024,12,Dezembro,Motos,False,151925,extraido
+2024-12,2024,12,Dezembro,Outros,False,12226,extraido
+2024-12,2024,12,Dezembro,Ônibus,False,2594,extraido
+2024-12,2024,12,Dezembro,Autos + Com. Leves,True,243691,extraido
+2024-12,2024,12,Dezembro,Caminhões + Ônibus,True,13753,extraido
+2024-12,2024,12,Dezembro,Subtotal (A a D),True,257444,extraido
+2024-12,2024,12,Dezembro,Total Geral,True,428415,calculado
+2025-01,2025,1,Janeiro,Autos,False,123359,extraido
+2025-01,2025,1,Janeiro,Caminhões,False,9170,extraido
+2025-01,2025,1,Janeiro,Com. Leves,False,36487,extraido
+2025-01,2025,1,Janeiro,Implementos Rodoviários,False,6203,extraido
+2025-01,2025,1,Janeiro,Motos,False,151954,extraido
+2025-01,2025,1,Janeiro,Outros,False,12052,extraido
+2025-01,2025,1,Janeiro,Ônibus,False,2191,extraido
+2025-01,2025,1,Janeiro,Autos + Com. Leves,True,159846,extraido
+2025-01,2025,1,Janeiro,Caminhões + Ônibus,True,11361,extraido
+2025-01,2025,1,Janeiro,Subtotal (A a D),True,171207,extraido
+2025-01,2025,1,Janeiro,Total Geral,True,341416,calculado
+2025-02,2025,2,Fevereiro,Autos,False,134772,extraido
+2025-02,2025,2,Fevereiro,Caminhões,False,8751,extraido
+2025-02,2025,2,Fevereiro,Com. Leves,False,39037,extraido
+2025-02,2025,2,Fevereiro,Implementos Rodoviários,False,6194,extraido
+2025-02,2025,2,Fevereiro,Motos,False,155954,extraido
+2025-02,2025,2,Fevereiro,Outros,False,12982,extraido
+2025-02,2025,2,Fevereiro,Ônibus,False,2375,extraido
+2025-02,2025,2,Fevereiro,Autos + Com. Leves,True,173809,extraido
+2025-02,2025,2,Fevereiro,Caminhões + Ônibus,True,11126,extraido
+2025-02,2025,2,Fevereiro,Subtotal (A a D),True,184935,extraido
+2025-02,2025,2,Fevereiro,Total Geral,True,360065,extraido
+2025-03,2025,3,Março,Autos,False,141542,extraido
+2025-03,2025,3,Março,Caminhões,False,9201,extraido
+2025-03,2025,3,Março,Com. Leves,False,42504,extraido
+2025-03,2025,3,Março,Implementos Rodoviários,False,6026,extraido
+2025-03,2025,3,Março,Motos,False,166010,extraido
+2025-03,2025,3,Março,Outros,False,11848,extraido
+2025-03,2025,3,Março,Ônibus,False,2230,extraido
+2025-03,2025,3,Março,Autos + Com. Leves,True,184046,extraido
+2025-03,2025,3,Março,Caminhões + Ônibus,True,11431,extraido
+2025-03,2025,3,Março,Subtotal (A a D),True,195477,extraido
+2025-03,2025,3,Março,Total Geral,True,379361,extraido
+2025-04,2025,4,Abril,Autos,False,152267,extraido
+2025-04,2025,4,Abril,Caminhões,False,9037,extraido
+2025-04,2025,4,Abril,Com. Leves,False,44786,extraido
+2025-04,2025,4,Abril,Implementos Rodoviários,False,5970,extraido
+2025-04,2025,4,Abril,Motos,False,182673,extraido
+2025-04,2025,4,Abril,Outros,False,13446,extraido
+2025-04,2025,4,Abril,Ônibus,False,2546,extraido
+2025-04,2025,4,Abril,Autos + Com. Leves,True,197053,extraido
+2025-04,2025,4,Abril,Caminhões + Ônibus,True,11583,extraido
+2025-04,2025,4,Abril,Subtotal (A a D),True,208636,extraido
+2025-04,2025,4,Abril,Total Geral,True,410725,extraido
+2025-05,2025,5,Maio,Autos,False,167540,extraido
+2025-05,2025,5,Maio,Caminhões,False,8887,extraido
+2025-05,2025,5,Maio,Com. Leves,False,46817,extraido
+2025-05,2025,5,Maio,Implementos Rodoviários,False,5916,extraido
+2025-05,2025,5,Maio,Motos,False,193348,extraido
+2025-05,2025,5,Maio,Outros,False,13574,extraido
+2025-05,2025,5,Maio,Ônibus,False,2415,extraido
+2025-05,2025,5,Maio,Autos + Com. Leves,True,214357,extraido
+2025-05,2025,5,Maio,Caminhões + Ônibus,True,11302,extraido
+2025-05,2025,5,Maio,Subtotal (A a D),True,225659,extraido
+2025-05,2025,5,Maio,Total Geral,True,438497,extraido
+2025-06,2025,6,Junho,Autos,False,159128,extraido
+2025-06,2025,6,Junho,Caminhões,False,8374,extraido
+2025-06,2025,6,Junho,Com. Leves,False,43036,extraido
+2025-06,2025,6,Junho,Implementos Rodoviários,False,5536,extraido
+2025-06,2025,6,Junho,Motos,False,179357,extraido
+2025-06,2025,6,Junho,Outros,False,12827,extraido
+2025-06,2025,6,Junho,Ônibus,False,2359,extraido
+2025-06,2025,6,Junho,Autos + Com. Leves,True,202164,extraido
+2025-06,2025,6,Junho,Caminhões + Ônibus,True,10733,extraido
+2025-06,2025,6,Junho,Subtotal (A a D),True,212897,extraido
+2025-06,2025,6,Junho,Total Geral,True,410617,extraido
+2025-07,2025,7,Julho,Autos,False,181787,extraido
+2025-07,2025,7,Julho,Caminhões,False,10523,extraido
+2025-07,2025,7,Julho,Com. Leves,False,48161,extraido
+2025-07,2025,7,Julho,Implementos Rodoviários,False,6274,extraido
+2025-07,2025,7,Julho,Motos,False,193165,extraido
+2025-07,2025,7,Julho,Outros,False,15391,extraido
+2025-07,2025,7,Julho,Ônibus,False,2754,extraido
+2025-07,2025,7,Julho,Autos + Com. Leves,True,229948,extraido
+2025-07,2025,7,Julho,Caminhões + Ônibus,True,13277,extraido
+2025-07,2025,7,Julho,Subtotal (A a D),True,243225,extraido
+2025-07,2025,7,Julho,Total Geral,True,458055,calculado
+2025-08,2025,8,Agosto,Autos,False,172280,extraido
+2025-08,2025,8,Agosto,Caminhões,False,8805,extraido
+2025-08,2025,8,Agosto,Com. Leves,False,42210,extraido
+2025-08,2025,8,Agosto,Implementos Rodoviários,False,5642,extraido
+2025-08,2025,8,Agosto,Motos,False,185454,extraido
+2025-08,2025,8,Agosto,Outros,False,14635,extraido
+2025-08,2025,8,Agosto,Ônibus,False,2053,extraido
+2025-08,2025,8,Agosto,Autos + Com. Leves,True,214490,extraido
+2025-08,2025,8,Agosto,Caminhões + Ônibus,True,10858,extraido
+2025-08,2025,8,Agosto,Subtotal (A a D),True,225348,extraido
+2025-08,2025,8,Agosto,Total Geral,True,431079,calculado
+2025-09,2025,9,Setembro,Autos,False,178548,extraido
+2025-09,2025,9,Setembro,Caminhões,False,9579,extraido
+2025-09,2025,9,Setembro,Com. Leves,False,52822,extraido
+2025-09,2025,9,Setembro,Implementos Rodoviários,False,5934,extraido
+2025-09,2025,9,Setembro,Motos,False,205862,extraido
+2025-09,2025,9,Setembro,Outros,False,15491,extraido
+2025-09,2025,9,Setembro,Ônibus,False,2316,extraido
+2025-09,2025,9,Setembro,Autos + Com. Leves,True,231370,extraido
+2025-09,2025,9,Setembro,Caminhões + Ônibus,True,11895,extraido
+2025-09,2025,9,Setembro,Subtotal (A a D),True,243265,extraido
+2025-09,2025,9,Setembro,Total Geral,True,470552,calculado
+2025-10,2025,10,Outubro,Autos,False,192752,extraido
+2025-10,2025,10,Outubro,Caminhões,False,10462,extraido
+2025-10,2025,10,Outubro,Com. Leves,False,55125,extraido
+2025-10,2025,10,Outubro,Implementos Rodoviários,False,6470,extraido
+2025-10,2025,10,Outubro,Motos,False,209768,extraido
+2025-10,2025,10,Outubro,Outros,False,16352,extraido
+2025-10,2025,10,Outubro,Ônibus,False,2419,extraido
+2025-10,2025,10,Outubro,Autos + Com. Leves,True,247877,extraido
+2025-10,2025,10,Outubro,Caminhões + Ônibus,True,12881,extraido
+2025-10,2025,10,Outubro,Subtotal (A a D),True,260758,extraido
+2025-10,2025,10,Outubro,Total Geral,True,493348,calculado
+2025-11,2025,11,Novembro,Autos,False,182044,extraido
+2025-11,2025,11,Novembro,Caminhões,False,8790,extraido
+2025-11,2025,11,Novembro,Com. Leves,False,45130,extraido
+2025-11,2025,11,Novembro,Implementos Rodoviários,False,5464,extraido
+2025-11,2025,11,Novembro,Motos,False,180601,extraido
+2025-11,2025,11,Novembro,Outros,False,13936,extraido
+2025-11,2025,11,Novembro,Ônibus,False,2642,extraido
+2025-11,2025,11,Novembro,Autos + Com. Leves,True,227174,extraido
+2025-11,2025,11,Novembro,Caminhões + Ônibus,True,11432,extraido
+2025-11,2025,11,Novembro,Subtotal (A a D),True,238606,extraido
+2025-11,2025,11,Novembro,Total Geral,True,438607,calculado
+2025-12,2025,12,Dezembro,Autos,False,210732,extraido
+2025-12,2025,12,Dezembro,Caminhões,False,9765,extraido
+2025-12,2025,12,Dezembro,Com. Leves,False,56385,extraido
+2025-12,2025,12,Dezembro,Implementos Rodoviários,False,5398,extraido
+2025-12,2025,12,Dezembro,Motos,False,193163,extraido
+2025-12,2025,12,Dezembro,Outros,False,14482,extraido
+2025-12,2025,12,Dezembro,Ônibus,False,2543,extraido
+2025-12,2025,12,Dezembro,Autos + Com. Leves,True,267117,extraido
+2025-12,2025,12,Dezembro,Caminhões + Ônibus,True,12308,extraido
+2025-12,2025,12,Dezembro,Subtotal (A a D),True,279425,extraido
+2025-12,2025,12,Dezembro,Total Geral,True,492468,calculado
+2026-01,2026,1,Janeiro,Autos,False,125136,extraido
+2026-01,2026,1,Janeiro,Caminhões,False,6379,extraido
+2026-01,2026,1,Janeiro,Com. Leves,False,37348,extraido
+2026-01,2026,1,Janeiro,Implementos Rodoviários,False,4344,extraido
+2026-01,2026,1,Janeiro,Motos,False,178537,extraido
+2026-01,2026,1,Janeiro,Outros,False,13294,extraido
+2026-01,2026,1,Janeiro,Ônibus,False,1675,extraido
+2026-01,2026,1,Janeiro,Autos + Com. Leves,True,162484,extraido
+2026-01,2026,1,Janeiro,Caminhões + Ônibus,True,8054,extraido
+2026-01,2026,1,Janeiro,Subtotal (A a D),True,170538,extraido
+2026-01,2026,1,Janeiro,Total Geral,True,366713,extraido
+2026-02,2026,2,Fevereiro,Autos,False,140548,extraido
+2026-02,2026,2,Fevereiro,Caminhões,False,6611,extraido
+2026-02,2026,2,Fevereiro,Com. Leves,False,36249,extraido
+2026-02,2026,2,Fevereiro,Implementos Rodoviários,False,5008,extraido
+2026-02,2026,2,Fevereiro,Motos,False,171508,extraido
+2026-02,2026,2,Fevereiro,Outros,False,13265,extraido
+2026-02,2026,2,Fevereiro,Ônibus,False,1742,extraido
+2026-02,2026,2,Fevereiro,Autos + Com. Leves,True,176797,extraido
+2026-02,2026,2,Fevereiro,Caminhões + Ônibus,True,8353,extraido
+2026-02,2026,2,Fevereiro,Subtotal (A a D),True,185150,extraido
+2026-02,2026,2,Fevereiro,Total Geral,True,374931,calculado
+2026-03,2026,3,Março,Autos,False,206375,extraido
+2026-03,2026,3,Março,Caminhões,False,8766,extraido
+2026-03,2026,3,Março,Com. Leves,False,51848,extraido
+2026-03,2026,3,Março,Implementos Rodoviários,False,6392,extraido
+2026-03,2026,3,Março,Motos,False,221573,extraido
+2026-03,2026,3,Março,Outros,False,15671,extraido
+2026-03,2026,3,Março,Ônibus,False,2474,extraido
+2026-03,2026,3,Março,Autos + Com. Leves,True,258223,extraido
+2026-03,2026,3,Março,Caminhões + Ônibus,True,11240,extraido
+2026-03,2026,3,Março,Subtotal (A a D),True,269463,extraido
+2026-03,2026,3,Março,Total Geral,True,513099,calculado
+2026-04,2026,4,Abril,Autos,False,187313,extraido
+2026-04,2026,4,Abril,Caminhões,False,8661,extraido
+2026-04,2026,4,Abril,Com. Leves,False,49943,extraido
+2026-04,2026,4,Abril,Implementos Rodoviários,False,5545,extraido
+2026-04,2026,4,Abril,Motos,False,210649,extraido
+2026-04,2026,4,Abril,Outros,False,15115,extraido
+2026-04,2026,4,Abril,Ônibus,False,2436,extraido
+2026-04,2026,4,Abril,Autos + Com. Leves,True,237256,extraido
+2026-04,2026,4,Abril,Caminhões + Ônibus,True,11097,extraido
+2026-04,2026,4,Abril,Subtotal (A a D),True,248353,extraido
+2026-04,2026,4,Abril,Total Geral,True,479662,calculado
+2026-05,2026,5,Maio,Autos,False,214300,extraido
+2026-05,2026,5,Maio,Caminhões,False,8200,extraido
+2026-05,2026,5,Maio,Com. Leves,False,49743,extraido
+2026-05,2026,5,Maio,Implementos Rodoviários,False,5173,extraido
+2026-05,2026,5,Maio,Motos,False,197685,extraido
+2026-05,2026,5,Maio,Outros,False,15251,extraido
+2026-05,2026,5,Maio,Ônibus,False,2074,extraido
+2026-05,2026,5,Maio,Autos + Com. Leves,True,264043,extraido
+2026-05,2026,5,Maio,Caminhões + Ônibus,True,10274,extraido
+2026-05,2026,5,Maio,Subtotal (A a D),True,274317,extraido
+2026-05,2026,5,Maio,Total Geral,True,492426,calculado
+2026-06,2026,6,Junho,Autos,False,212902,extraido
+2026-06,2026,6,Junho,Caminhões,False,9419,extraido
+2026-06,2026,6,Junho,Com. Leves,False,47565,extraido
+2026-06,2026,6,Junho,Implementos Rodoviários,False,6072,extraido
+2026-06,2026,6,Junho,Motos,False,194200,extraido
+2026-06,2026,6,Junho,Outros,False,15682,extraido
+2026-06,2026,6,Junho,Ônibus,False,2580,extraido
+2026-06,2026,6,Junho,Autos + Com. Leves,True,260467,extraido
+2026-06,2026,6,Junho,Caminhões + Ônibus,True,11999,extraido
+2026-06,2026,6,Junho,Subtotal (A a D),True,272466,extraido
+2026-06,2026,6,Junho,Total Geral,True,488420,calculado
+2026-07,2026,7,Julho,Autos,False,212691,extraido
+2026-07,2026,7,Julho,Caminhões,False,11192,extraido
+2026-07,2026,7,Julho,Com. Leves,False,53004,extraido
+2026-07,2026,7,Julho,Implementos Rodoviários,False,7956,extraido
+2026-07,2026,7,Julho,Motos,False,199181,extraido
+2026-07,2026,7,Julho,Outros,False,17859,extraido
+2026-07,2026,7,Julho,Ônibus,False,2691,extraido
+2026-07,2026,7,Julho,Autos + Com. Leves,True,265695,extraido
+2026-07,2026,7,Julho,Caminhões + Ônibus,True,13883,extraido
+2026-07,2026,7,Julho,Subtotal (A a D),True,279578,extraido
+2026-07,2026,7,Julho,Total Geral,True,504574,calculado
+2026-08,2026,8,Agosto,Autos,False,212876,extraido
+2026-08,2026,8,Agosto,Caminhões,False,9603,extraido
+2026-08,2026,8,Agosto,Com. Leves,False,50178,extraido
+2026-08,2026,8,Agosto,Implementos Rodoviários,False,6567,extraido
+2026-08,2026,8,Agosto,Motos,False,205190,extraido
+2026-08,2026,8,Agosto,Outros,False,16917,extraido
+2026-08,2026,8,Agosto,Ônibus,False,2437,extraido
+2026-08,2026,8,Agosto,Autos + Com. Leves,True,263054,extraido
+2026-08,2026,8,Agosto,Caminhões + Ônibus,True,12040,extraido
+2026-08,2026,8,Agosto,Subtotal (A a D),True,275094,extraido
+2026-08,2026,8,Agosto,Total Geral,True,503768,calculado
+2026-09,2026,9,Setembro,Autos,False,216366,extraido
+2026-09,2026,9,Setembro,Caminhões,False,9845,extraido
+2026-09,2026,9,Setembro,Com. Leves,False,52355,extraido
+2026-09,2026,9,Setembro,Implementos Rodoviários,False,6821,extraido
+2026-09,2026,9,Setembro,Motos,False,205032,extraido
+2026-09,2026,9,Setembro,Outros,False,16523,extraido
+2026-09,2026,9,Setembro,Ônibus,False,2744,extraido
+2026-09,2026,9,Setembro,Autos + Com. Leves,True,268721,extraido
+2026-09,2026,9,Setembro,Caminhões + Ônibus,True,12589,extraido
+2026-09,2026,9,Setembro,Subtotal (A a D),True,281310,extraido
+2026-09,2026,9,Setembro,Total Geral,True,509686,calculado
+2026-10,2026,10,Outubro,Autos,False,205964,extraido
+2026-10,2026,10,Outubro,Caminhões,False,9498,extraido
+2026-10,2026,10,Outubro,Com. Leves,False,48066,extraido
+2026-10,2026,10,Outubro,Implementos Rodoviários,False,6049,extraido
+2026-10,2026,10,Outubro,Motos,False,201821,extraido
+2026-10,2026,10,Outubro,Outros,False,15660,extraido
+2026-10,2026,10,Outubro,Ônibus,False,2061,extraido
+2026-10,2026,10,Outubro,Autos + Com. Leves,True,254030,extraido
+2026-10,2026,10,Outubro,Caminhões + Ônibus,True,11559,extraido
+2026-10,2026,10,Outubro,Subtotal (A a D),True,265589,extraido
+2026-10,2026,10,Outubro,Total Geral,True,489119,extraido

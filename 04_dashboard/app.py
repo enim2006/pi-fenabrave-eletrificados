@@ -18,7 +18,7 @@ import streamlit as st
 BASE = Path(__file__).resolve().parent
 DADOS = BASE.parent / "02_dados_extraidos"
 sys.path.insert(0, str(BASE))
-from tratamento_fenabrave import carregar  # noqa: E402
+from tratamento_fenabrave import carregar, classificar_modelos  # noqa: E402
 
 # ---------------------------------------------------------------------------
 # Constantes de apresentação
@@ -34,10 +34,6 @@ PALETA_EXTRA = ["#5b9bd5", "#c55a11", "#70ad47", "#bf9000", "#a5a5a5", "#7030a0"
 SEGMENTOS_PROPULSAO = ["Autos", "Com. Leves", "Caminhões", "Ônibus", "Motos"]
 TIPOS = ["Combustão", "Híbridos", "Elétricos"]  # ordem de empilhamento (base → topo)
 CANAL = {"Diretas": "Direta", "Varejo": "Varejo", "Todas": "Total"}
-
-# Proxy de modelo eletrificado (a Fenabrave não publica a propulsão por modelo).
-RX_ELETRIFICADO = r"^(?:BYD/|GWM/ORA|GWM/HAVAL H6|GEELY/EX|LEAPMOTOR/|VOLVO/EX|JAC/(?:EJV|IEV))"
-RX_HIBRIDO = r"^(?:BYD/(?:KING|SHARK|SONG)|GWM/HAVAL H6|GEELY/EX5 EM-I)"
 
 FONTE = "Fonte: Fenabrave, Informativo – Emplacamentos."
 
@@ -88,11 +84,7 @@ def dados():
     cores_marca = {m: (PALETA_MARCAS + PALETA_EXTRA)[i % (len(PALETA_MARCAS) + len(PALETA_EXTRA))]
                    for i, m in enumerate(ordem)}
 
-    mod = D["modelo"].copy()
-    mod["modelo"] = mod.modelo.astype(str).str.replace(r"\s*/\s*", "/", regex=True).str.strip()
-    mod["eletrificado"] = mod.modelo.str.contains(RX_ELETRIFICADO, regex=True)
-    mod["propulsao"] = np.where(~mod.eletrificado, "Combustão",
-                                np.where(mod.modelo.str.contains(RX_HIBRIDO, regex=True), "Híbrido", "Elétrico"))
+    mod = classificar_modelos(D["modelo"])
     mod = (mod.groupby(["data", "ano", "segmento", "tipo_venda", "modelo", "eletrificado", "propulsao"], as_index=False)
               .agg(quantidade_mes=("quantidade_mes", "sum"), estimado=("estimado", "max")))
 

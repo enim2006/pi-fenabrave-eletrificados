@@ -112,16 +112,33 @@ MARCA_CONFERIDA_PDF = {
 
 def aplicar_marca_conferida(mar):
     m=mar.copy()
+    m['conferido_pdf']=False
     n=0
     for (a,mes,seg,fab),(q,p) in MARCA_CONFERIDA_PDF.items():
         msk=(m.ano==a)&(m.mes_num==mes)&(m.segmento==seg)&(m.fabricante==fab)
         if msk.any():
-            m.loc[msk,['quantidade_mes','participacao_pct','estimado']]=[q,p,False]
+            m.loc[msk,['quantidade_mes','participacao_pct','estimado','conferido_pdf']]=[q,p,False,True]
         else:
             m=pd.concat([m,pd.DataFrame([dict(ano=a,mes_num=mes,data=pd.Timestamp(a,mes,1),segmento=seg,tipo_venda='Total',
-                                               fabricante=fab,quantidade_mes=q,participacao_pct=p,estimado=False)])],ignore_index=True)
+                                               fabricante=fab,quantidade_mes=q,participacao_pct=p,estimado=False,
+                                               conferido_pdf=True)])],ignore_index=True)
         n+=1
     LOG.append(f"fato_marca: {n} marca-mês substituídos por valores conferidos no PDF (jan e mai/2024)")
+    return m
+
+# Proxy de propulsão por modelo: a Fenabrave não publica a propulsão no ranking de modelos.
+# Lista manual de nameplates eletrificados; nameplates mistos (ex.: Toyota Corolla Cross) ficam como combustão.
+RX_ELETRIFICADO = r"^(?:BYD/|GWM/ORA|GWM/HAVAL H6|GEELY/EX|LEAPMOTOR/|VOLVO/EX|JAC/(?:EJV|IEV))"
+RX_HIBRIDO = r"^(?:BYD/(?:KING|SHARK|SONG)|GWM/HAVAL H6|GEELY/EX5 EM-I)"
+
+def classificar_modelos(mod):
+    """Normaliza o nome MARCA/MODELO e acrescenta `eletrificado` (bool) e `propulsao`
+    (Combustão / Híbrido / Elétrico), ambos por proxy."""
+    m=mod.copy()
+    m['modelo']=m.modelo.astype(str).str.replace(r'\s*/\s*','/',regex=True).str.strip()
+    m['eletrificado']=m.modelo.str.contains(RX_ELETRIFICADO,regex=True)
+    m['propulsao']=np.where(~m.eletrificado,'Combustão',
+                            np.where(m.modelo.str.contains(RX_HIBRIDO,regex=True),'Híbrido','Elétrico'))
     return m
 
 # fato_eletrificados_resumo: segmento-mês ausentes na extração, lidos nas páginas
